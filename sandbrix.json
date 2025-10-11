@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "68e51b02972d8d159edde8b1",
-            "name": "Norway Women VS Romania Women",
-            "category_name": "Cricket",
-            "tour_id": "68e519196cf04d63ab038350",
-            "tour_name": "ECA Women's Continental Cup 2025",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-11",
-            "start_date_time": "2025-10-11T12:15:00.000Z",
-            "team_a": {
-                "id": "68e5187890c526d559654c29",
-                "name": "Norway Women",
-                "short_name": "Norway Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1759844469739-439512798.webp"
-            },
-            "team_b": {
-                "id": "68e51845597318c837de5621",
-                "name": "Romania Women",
-                "short_name": "Romania Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1759844418414-691298082.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759845119978-989631522.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68d3eeaf29896ee3112ce424",
             "name": "Queensland Fire Women VS ACT Meteors Women",
             "category_name": "Cricket",
