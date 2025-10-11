@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68e51ad6972d8d159edde8b0",
-            "name": "Bulgaria Women VS Austria Women",
-            "category_name": "Cricket",
-            "tour_id": "68e519196cf04d63ab038350",
-            "tour_name": "ECA Women's Continental Cup 2025",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-11",
-            "start_date_time": "2025-10-11T08:45:00.000Z",
-            "team_a": {
-                "id": "68e5181d6cf04d63ab03834f",
-                "name": "Bulgaria Women",
-                "short_name": "Bulgaria Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1759844378502-752951376.webp"
-            },
-            "team_b": {
-                "id": "68e517e290c526d559654c28",
-                "name": "Austria Women",
-                "short_name": "Austria Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1759844319064-872588109.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759845075020-855397551.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68d6662d70776e9ff2fc1826",
             "name": "Afghanistan VS Bangladesh",
             "category_name": "Cricket",
