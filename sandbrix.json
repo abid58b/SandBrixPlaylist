@@ -3,64 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68d7e4d3a65e8d0132fc36c1",
-            "name": "PACC Premier VS DLSW DLIT",
-            "category_name": "Cricket",
-            "tour_id": "68d79a0f050ee9aed47cea05",
-            "tour_name": "CHK Premier One Day League 2025",
-            "match_no": "",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-12",
-            "start_date_time": "2025-10-12T00:30:00.000Z",
-            "team_a": {
-                "id": "672f6832b270671853e2e56c",
-                "name": "PACC Premier",
-                "short_name": "PACC Premier",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758959963964-517843488.webp"
-            },
-            "team_b": {
-                "id": "672f67a7940d92dae749b04a",
-                "name": "DLSW DLIT",
-                "short_name": "DLSW DLIT",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758960059089-786611689.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758979273901-341911989.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68d7e533ddd581736c30e90a",
-            "name": "HKCC Premier VS USRC Premier",
-            "category_name": "Cricket",
-            "tour_id": "68d79a0f050ee9aed47cea05",
-            "tour_name": "CHK Premier One Day League 2025",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-12",
-            "start_date_time": "2025-10-12T01:00:00.000Z",
-            "team_a": {
-                "id": "672f67d5940d92dae749b04b",
-                "name": "HKCC Premier",
-                "short_name": "HKCC Premier",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758960046690-152156182.webp"
-            },
-            "team_b": {
-                "id": "672f6811940d92dae749b04c",
-                "name": "USRC Premier",
-                "short_name": "USRC Premier",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758959990433-328345143.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758979377693-428225951.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68d5337829896ee3112ce42c",
             "name": "Pakistan VS South Africa",
             "category_name": "Cricket",
@@ -87,35 +29,6 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758802803913-172540041.webp",
             "venue": "Gaddafi Stadium ,Lahore",
             "score_match_id": 93749,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68da91c2edb009dd729d7e6f",
-            "name": "David Pieris Group A VS CDB-A",
-            "category_name": "Cricket",
-            "tour_id": "68da8f00a65e8d0132fc36d2",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-12",
-            "start_date_time": "2025-10-12T04:00:00.000Z",
-            "team_a": {
-                "id": "68da8e3cdb41b6ee2b16920e",
-                "name": "David Pieris Group A",
-                "short_name": "David Pieris Group A",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1759153720377-483046521.webp"
-            },
-            "team_b": {
-                "id": "675fc5e532a1502da349e92a",
-                "name": "CDB-A",
-                "short_name": "CDB-A",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1734329827933-968304497.png"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759154622590-61775139.webp",
-            "venue": "",
-            "score_match_id": 0,
             "content_zone_id": ""
         },
         {
