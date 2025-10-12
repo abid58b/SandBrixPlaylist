@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68d5337829896ee3112ce42c" tvg-name="Pakistan VS South Africa" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758802803913-172540041.webp" group-title="Live",Pakistan VS South Africa
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
-
 #EXTINF:-1 tvg-id="68e51bd9597318c837de5625" tvg-name="Norway Women VS Bulgaria Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1759845334721-703666930.webp" group-title="Live",Norway Women VS Bulgaria Women
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
