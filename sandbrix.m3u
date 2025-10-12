@@ -8,3 +8,11 @@ https://ams.sandbrix.live/LiveApp/streams/jKEDqsEvpiULXvAh3815457109716563.m3u8
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/ouDA3gq7EBVCGX4N3815365899974105.m3u8
 
+#EXTINF:-1 tvg-id="68d5337829896ee3112ce42c" tvg-name="Pakistan VS South Africa" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758802803913-172540041.webp" group-title="Live",Pakistan VS South Africa
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
+#EXTINF:-1 tvg-id="68da91c2edb009dd729d7e6f" tvg-name="David Pieris Group A VS CDB-A" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1759154622590-61775139.webp" group-title="Live",David Pieris Group A VS CDB-A
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
+
