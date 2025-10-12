@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "68e51bd9597318c837de5625",
-            "name": "Norway Women VS Bulgaria Women",
-            "category_name": "Cricket",
-            "tour_id": "68e519196cf04d63ab038350",
-            "tour_name": "ECA Women's Continental Cup 2025",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-12",
-            "start_date_time": "2025-10-12T10:30:00.000Z",
-            "team_a": {
-                "id": "68e5187890c526d559654c29",
-                "name": "Norway Women",
-                "short_name": "Norway Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1759844469739-439512798.webp"
-            },
-            "team_b": {
-                "id": "68e5181d6cf04d63ab03834f",
-                "name": "Bulgaria Women",
-                "short_name": "Bulgaria Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1759844378502-752951376.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759845334721-703666930.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
