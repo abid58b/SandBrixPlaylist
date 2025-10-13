@@ -1,5 +1,64 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "68d5337829896ee3112ce42c",
+            "name": "Pakistan VS South Africa",
+            "category_name": "Cricket",
+            "tour_id": "68d53321050ee9aed47ce9f0",
+            "tour_name": "South Africa tour of Pakistan, 2025",
+            "match_no": "1st Test",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-13",
+            "start_date_time": "2025-10-13T04:00:00.000Z",
+            "team_a": {
+                "id": "671bc2de68d746820ca1213c",
+                "name": "Pakistan",
+                "short_name": "Pakistan",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802312421-733434137.webp"
+            },
+            "team_b": {
+                "id": "66e81f0347f6bd8cb61c148b",
+                "name": "South Africa",
+                "short_name": "South Africa",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802334900-982909890.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758802803913-172540041.webp",
+            "venue": "Gaddafi Stadium ,Lahore",
+            "score_match_id": 93749,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68d3ef0f29896ee3112ce425",
+            "name": "Queensland Fire Women VS ACT Meteors Women",
+            "category_name": "Cricket",
+            "tour_id": "68d148c6050ee9aed47ce9da",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "12",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-13",
+            "start_date_time": "2025-10-13T23:00:00.000Z",
+            "team_a": {
+                "id": "675d0e6c7520fc727ac56980",
+                "name": "Queensland Fire Women",
+                "short_name": "Queensland Fire",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545898990-843116547.webp"
+            },
+            "team_b": {
+                "id": "68d1483a29896ee3112ce411",
+                "name": "ACT Meteors Women",
+                "short_name": "ACT Meteors Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545976597-670572210.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758719757826-802081449.webp",
+            "venue": "Allan Border Field ,Brisbane",
+            "score_match_id": 92858,
+            "content_zone_id": ""
+        }
+    ]
 }
