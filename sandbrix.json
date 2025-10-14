@@ -3,32 +3,119 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68d3ef0f29896ee3112ce425",
-            "name": "Queensland Fire Women VS ACT Meteors Women",
+            "id": "68d5337829896ee3112ce42c",
+            "name": "Pakistan VS South Africa",
             "category_name": "Cricket",
-            "tour_id": "68d148c6050ee9aed47ce9da",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "12",
+            "tour_id": "68d53321050ee9aed47ce9f0",
+            "tour_name": "South Africa tour of Pakistan, 2025",
+            "match_no": "1st Test",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-13",
-            "start_date_time": "2025-10-13T23:00:00.000Z",
+            "start_date": "2025-10-14",
+            "start_date_time": "2025-10-14T04:00:00.000Z",
             "team_a": {
-                "id": "675d0e6c7520fc727ac56980",
-                "name": "Queensland Fire Women",
-                "short_name": "Queensland Fire",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545898990-843116547.webp"
+                "id": "671bc2de68d746820ca1213c",
+                "name": "Pakistan",
+                "short_name": "Pakistan",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802312421-733434137.webp"
             },
             "team_b": {
-                "id": "68d1483a29896ee3112ce411",
-                "name": "ACT Meteors Women",
-                "short_name": "ACT Meteors Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545976597-670572210.webp"
+                "id": "66e81f0347f6bd8cb61c148b",
+                "name": "South Africa",
+                "short_name": "South Africa",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802334900-982909890.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758719757826-802081449.webp",
-            "venue": "Allan Border Field ,Brisbane",
-            "score_match_id": 92858,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758802803913-172540041.webp",
+            "venue": "Gaddafi Stadium ,Lahore",
+            "score_match_id": 93749,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68d6666229896ee3112ce438",
+            "name": "Afghanistan VS Bangladesh",
+            "category_name": "Cricket",
+            "tour_id": "68d664914913ae75872628ff",
+            "tour_name": "Afghanistan vs Bangladesh in UAE 2025",
+            "match_no": "3rd ODI",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-14",
+            "start_date_time": "2025-10-14T11:30:00.000Z",
+            "team_a": {
+                "id": "66de5d2d985bb10dcaba1721",
+                "name": "Afghanistan",
+                "short_name": "Afghanistan",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758880785998-243143356.webp"
+            },
+            "team_b": {
+                "id": "671bc3bd68d746820ca1213d",
+                "name": "Bangladesh",
+                "short_name": "Bangladesh",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758880760718-996542914.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758881376293-995535074.webp",
+            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
+            "score_match_id": 93083,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68dfcb19edb009dd729d7e8d",
+            "name": "Tasmania Tigers VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "5 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-14",
+            "start_date_time": "2025-10-14T23:00:00.000Z",
+            "team_a": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tiger",
+                "short_name": "Tasmania Tiger",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681915111-851524084.webp"
+            },
+            "team_b": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681947890-528959156.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759496982603-446168789.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 92849,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68dfcad2edb009dd729d7e8c",
+            "name": "Victoria VS New South Wales",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "4 | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-14",
+            "start_date_time": "2025-10-14T23:30:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+            },
+            "team_b": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681849705-822802914.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759496905006-534254204.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         }
     ]
