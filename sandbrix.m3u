@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
 
+#EXTINF:-1 tvg-id="68d6666229896ee3112ce438" tvg-name="Afghanistan VS Bangladesh" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758881376293-995535074.webp" group-title="Live",Afghanistan VS Bangladesh
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
+
