@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68d6666229896ee3112ce438",
-            "name": "Afghanistan VS Bangladesh",
-            "category_name": "Cricket",
-            "tour_id": "68d664914913ae75872628ff",
-            "tour_name": "Afghanistan vs Bangladesh in UAE 2025",
-            "match_no": "3rd ODI",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-14",
-            "start_date_time": "2025-10-14T11:30:00.000Z",
-            "team_a": {
-                "id": "66de5d2d985bb10dcaba1721",
-                "name": "Afghanistan",
-                "short_name": "Afghanistan",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758880785998-243143356.webp"
-            },
-            "team_b": {
-                "id": "671bc3bd68d746820ca1213d",
-                "name": "Bangladesh",
-                "short_name": "Bangladesh",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758880760718-996542914.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758881376293-995535074.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 93083,
-            "content_zone_id": ""
-        },
-        {
             "id": "68dfcb19edb009dd729d7e8d",
             "name": "Tasmania Tigers VS Western Australia",
             "category_name": "Cricket",
