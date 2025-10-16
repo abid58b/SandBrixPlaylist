@@ -30,6 +30,35 @@
             "venue": "Junction Oval ,Melbourne",
             "score_match_id": 92848,
             "content_zone_id": ""
+        },
+        {
+            "id": "68dfcb19edb009dd729d7e8d",
+            "name": "Tasmania Tiger VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "5 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-16",
+            "start_date_time": "2025-10-16T23:00:00.000Z",
+            "team_a": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tiger",
+                "short_name": "Tasmania Tiger",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681915111-851524084.webp"
+            },
+            "team_b": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681947890-528959156.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759496982603-446168789.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 92849,
+            "content_zone_id": ""
         }
     ]
 }
