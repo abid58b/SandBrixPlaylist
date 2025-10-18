@@ -3,17 +3,133 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68dfcb19edb009dd729d7e8d",
-            "name": "Tasmania Tiger VS Western Australia",
+            "id": "68dfcb6ba65e8d0132fc36f7",
+            "name": "South Australia VS Queensland Bulls",
             "category_name": "Cricket",
             "tour_id": "68df662addd581736c30e938",
             "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "Match - 5 | Day - 4",
+            "match_no": "Match - 6 | Day - 4",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-17",
-            "start_date_time": "2025-10-17T23:00:00.000Z",
+            "start_date": "2025-10-18",
+            "start_date_time": "2025-10-18T00:00:00.000Z",
+            "team_a": {
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681872997-926769284.webp"
+            },
+            "team_b": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497064969-79544047.webp",
+            "venue": "Adelaide Oval ,Adelaide",
+            "score_match_id": 92850,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68f0e9824517c5f2602e1c74",
+            "name": "Romania VS Austria",
+            "category_name": "Cricket",
+            "tour_id": "68f0c42eca36150098b040da",
+            "tour_name": "Bilateral Series - Romania vs Austria 2025",
+            "match_no": "1st T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-18",
+            "start_date_time": "2025-10-18T06:30:00.000Z",
+            "team_a": {
+                "id": "685cf749fcaaecac575078e6",
+                "name": "Romania",
+                "short_name": "Romania",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750923058381-997119596.webp"
+            },
+            "team_b": {
+                "id": "685cf6f7610150408cf57164",
+                "name": "Austria",
+                "short_name": "Austria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750922998270-334509063.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760618876611-651722130.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68f0e9d54517c5f2602e1c75",
+            "name": "Romania VS Austria",
+            "category_name": "Cricket",
+            "tour_id": "68f0c42eca36150098b040da",
+            "tour_name": "Bilateral Series - Romania vs Austria 2025",
+            "match_no": "2nd T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-18",
+            "start_date_time": "2025-10-18T11:00:00.000Z",
+            "team_a": {
+                "id": "685cf749fcaaecac575078e6",
+                "name": "Romania",
+                "short_name": "Romania",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750923058381-997119596.webp"
+            },
+            "team_b": {
+                "id": "685cf6f7610150408cf57164",
+                "name": "Austria",
+                "short_name": "Austria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750922998270-334509063.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760618961668-997165614.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68dd29a3ddd581736c30e92e",
+            "name": "Victoria VS New South Wales",
+            "category_name": "Cricket",
+            "tour_id": "68c575ee53c91bcf78fadd5f",
+            "tour_name": "Australia One Day Cup 2025-26",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-18",
+            "start_date_time": "2025-10-18T23:30:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+            },
+            "team_b": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681849705-822802914.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759324575781-521893312.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 92832,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68dd29dfddd581736c30e92f",
+            "name": "Tasmania Tigers VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68c575ee53c91bcf78fadd5f",
+            "tour_name": "Australia One Day Cup 2025-26",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-18",
+            "start_date_time": "2025-10-18T23:30:00.000Z",
             "team_a": {
                 "id": "67144bcd8a9eea3b43513351",
                 "name": "Tasmania Tiger",
@@ -26,9 +142,9 @@
                 "short_name": "Western Australia",
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681947890-528959156.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759496982603-446168789.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759324635869-738698591.webp",
             "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92849,
+            "score_match_id": 92833,
             "content_zone_id": ""
         }
     ]
