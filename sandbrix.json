@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68dfcb6ba65e8d0132fc36f7",
-            "name": "South Australia VS Queensland Bulls",
-            "category_name": "Cricket",
-            "tour_id": "68df662addd581736c30e938",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "Match - 6 | Day - 4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-18",
-            "start_date_time": "2025-10-18T00:00:00.000Z",
-            "team_a": {
-                "id": "671448fd166de3cf1b69e62a",
-                "name": "South Australia",
-                "short_name": "South Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681872997-926769284.webp"
-            },
-            "team_b": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497064969-79544047.webp",
-            "venue": "Adelaide Oval ,Adelaide",
-            "score_match_id": 92850,
-            "content_zone_id": ""
-        },
-        {
             "id": "68f0e9824517c5f2602e1c74",
             "name": "Romania VS Austria",
             "category_name": "Cricket",
