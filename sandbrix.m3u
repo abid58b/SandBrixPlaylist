@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68f0e9824517c5f2602e1c74" tvg-name="Romania VS Austria" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760618876611-651722130.webp" group-title="Live",Romania VS Austria
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/bTmPjfzgZANq3b80344037922176970.m3u8
+
