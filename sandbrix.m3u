@@ -12,3 +12,7 @@ https://ams.sandbrix.live/LiveApp/streams/ouDA3gq7EBVCGX4N3815365899974105.m3u8
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
 
+#EXTINF:-1 tvg-id="68f0ea2aefea2a9ef3a8c3a1" tvg-name="Romania VS Austria" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760619047534-231562187.webp" group-title="Live",Romania VS Austria
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/bTmPjfzgZANq3b80344037922176970.m3u8
+
