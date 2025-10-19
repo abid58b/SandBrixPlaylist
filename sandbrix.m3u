@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68d7e579ddd581736c30e90b" tvg-name="HKCC Premier VS PACC Premier" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758979446976-587233170.webp" group-title="Live",HKCC Premier VS PACC Premier
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/jKEDqsEvpiULXvAh3815457109716563.m3u8
+
