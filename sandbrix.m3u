@@ -1,14 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68d7e579ddd581736c30e90b" tvg-name="HKCC Premier VS PACC Premier" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758979446976-587233170.webp" group-title="Live",HKCC Premier VS PACC Premier
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/jKEDqsEvpiULXvAh3815457109716563.m3u8
-
 #EXTINF:-1 tvg-id="67fd06c5213b30ba5bd38650" tvg-name="Australia VS India" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1759828714589-741808108.webp" group-title="Live",Australia VS India
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
 
-#EXTINF:-1 tvg-id="68f0ea2aefea2a9ef3a8c3a1" tvg-name="Romania VS Austria" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760619047534-231562187.webp" group-title="Live",Romania VS Austria
+#EXTINF:-1 tvg-id="68f0ea83efea2a9ef3a8c3a2" tvg-name="Romania VS Austria" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760619134644-598381512.webp" group-title="Live",Romania VS Austria
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/bTmPjfzgZANq3b80344037922176970.m3u8
 
