@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/jKEDqsEvpiULXvAh3815457109716563.m3u8
 
+#EXTINF:-1 tvg-id="68d7e5b5edb009dd729d7e62" tvg-name="KCC Premier VS DLSW DLIT" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758979503829-403027348.webp" group-title="Live",KCC Premier VS DLSW DLIT
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/ouDA3gq7EBVCGX4N3815365899974105.m3u8
+
