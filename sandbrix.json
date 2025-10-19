@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f0ea83efea2a9ef3a8c3a2",
-            "name": "Romania VS Austria",
-            "category_name": "Cricket",
-            "tour_id": "68f0c42eca36150098b040da",
-            "tour_name": "Bilateral Series - Romania vs Austria 2025",
-            "match_no": "4th T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-19",
-            "start_date_time": "2025-10-19T09:30:00.000Z",
-            "team_a": {
-                "id": "685cf749fcaaecac575078e6",
-                "name": "Romania",
-                "short_name": "Romania",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750923058381-997119596.webp"
-            },
-            "team_b": {
-                "id": "685cf6f7610150408cf57164",
-                "name": "Austria",
-                "short_name": "Austria",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750922998270-334509063.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760619134644-598381512.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68dd29a3ddd581736c30e92e",
             "name": "Victoria VS New South Wales",
             "category_name": "Cricket",
