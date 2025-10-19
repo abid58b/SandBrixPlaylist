@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/jKEDqsEvpiULXvAh3815457109716563.m3u8
 
-#EXTINF:-1 tvg-id="68d7e5b5edb009dd729d7e62" tvg-name="KCC Premier VS DLSW DLIT" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758979503829-403027348.webp" group-title="Live",KCC Premier VS DLSW DLIT
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/ouDA3gq7EBVCGX4N3815365899974105.m3u8
-
 #EXTINF:-1 tvg-id="67fd06c5213b30ba5bd38650" tvg-name="Australia VS India" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1759828714589-741808108.webp" group-title="Live",Australia VS India
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8

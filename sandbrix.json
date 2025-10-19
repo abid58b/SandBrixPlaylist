@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "68d7e5b5edb009dd729d7e62",
-            "name": "KCC Premier VS DLSW DLIT",
-            "category_name": "Cricket",
-            "tour_id": "68d79a0f050ee9aed47cea05",
-            "tour_name": "CHK Premier One Day League 2025",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-19",
-            "start_date_time": "2025-10-19T01:00:00.000Z",
-            "team_a": {
-                "id": "6731acffdc7ab3a639320702",
-                "name": "KCC Premier",
-                "short_name": "KCC Premier",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758960020324-405025015.webp"
-            },
-            "team_b": {
-                "id": "672f67a7940d92dae749b04a",
-                "name": "DLSW DLIT",
-                "short_name": "DLSW DLIT",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758960059089-786611689.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758979503829-403027348.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "67fd06c5213b30ba5bd38650",
             "name": "Australia VS India",
             "category_name": "Cricket",
