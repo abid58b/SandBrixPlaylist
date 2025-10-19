@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "67fd06c5213b30ba5bd38650",
-            "name": "Australia VS India",
-            "category_name": "Cricket",
-            "tour_id": "67fd0183aca1728cb8f17393",
-            "tour_name": "India Tour of Australia 2025",
-            "match_no": "1st ODI",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-19",
-            "start_date_time": "2025-10-19T03:00:00.000Z",
-            "team_a": {
-                "id": "66d44a7d3b04cf3cd8eb9361",
-                "name": "Australia",
-                "short_name": "Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744617949741-168826235.png"
-            },
-            "team_b": {
-                "id": "671bc13b3cea6bb9b2cb5ac8",
-                "name": "India",
-                "short_name": "India",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744634115359-677821889.png"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759828714589-741808108.webp",
-            "venue": "Perth Stadium ,Perth",
-            "score_match_id": 89045,
-            "content_zone_id": ""
-        },
-        {
             "id": "68f0ea83efea2a9ef3a8c3a2",
             "name": "Romania VS Austria",
             "category_name": "Cricket",
