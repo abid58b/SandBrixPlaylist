@@ -4,10 +4,6 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
 
-#EXTINF:-1 tvg-id="68f4b618efea2a9ef3a8c3be" tvg-name="Uganda Women VS Canada Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760867858104-796417152.webp" group-title="Live",Uganda Women VS Canada Women
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
-
 #EXTINF:-1 tvg-id="68f3591cefea2a9ef3a8c3b4" tvg-name="Zimbabwe VS Afghanistan" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760778520711-959019455.webp" group-title="Live",Zimbabwe VS Afghanistan
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/w5E5aByUIsjuYosC155908902611.m3u8
