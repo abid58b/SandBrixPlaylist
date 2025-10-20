@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68dd2a30db41b6ee2b16921c",
-            "name": "South Australia VS Queensland Bulls",
-            "category_name": "Cricket",
-            "tour_id": "68c575ee53c91bcf78fadd5f",
-            "tour_name": "Australia One Day Cup 2025-26",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-20",
-            "start_date_time": "2025-10-20T00:00:00.000Z",
-            "team_a": {
-                "id": "671448fd166de3cf1b69e62a",
-                "name": "South Australia",
-                "short_name": "South Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681872997-926769284.webp"
-            },
-            "team_b": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759324716723-32456840.webp",
-            "venue": "Karen Rolton Oval ,Adelaide",
-            "score_match_id": 92834,
-            "content_zone_id": ""
-        },
-        {
             "id": "68d533a74913ae75872628f2",
             "name": "Pakistan VS South Africa",
             "category_name": "Cricket",

@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68dd2a30db41b6ee2b16921c" tvg-name="South Australia VS Queensland Bulls" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1759324716723-32456840.webp" group-title="Live",South Australia VS Queensland Bulls
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/LKi44IH3RMDHt8gK177372799793.m3u8
-
 #EXTINF:-1 tvg-id="68d533a74913ae75872628f2" tvg-name="Pakistan VS South Africa" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758802851283-604740038.webp" group-title="Live",Pakistan VS South Africa
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
