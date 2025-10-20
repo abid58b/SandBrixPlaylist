@@ -3,61 +3,119 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68dd29a3ddd581736c30e92e",
-            "name": "Victoria VS New South Wales",
+            "id": "68dd2a30db41b6ee2b16921c",
+            "name": "South Australia VS Queensland Bulls",
             "category_name": "Cricket",
             "tour_id": "68c575ee53c91bcf78fadd5f",
             "tour_name": "Australia One Day Cup 2025-26",
-            "match_no": "10",
+            "match_no": "12",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-19",
-            "start_date_time": "2025-10-19T23:30:00.000Z",
+            "start_date": "2025-10-20",
+            "start_date_time": "2025-10-20T00:00:00.000Z",
             "team_a": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681872997-926769284.webp"
             },
             "team_b": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681849705-822802914.webp"
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759324575781-521893312.webp",
-            "venue": "Junction Oval ,Melbourne",
-            "score_match_id": 92832,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759324716723-32456840.webp",
+            "venue": "Karen Rolton Oval ,Adelaide",
+            "score_match_id": 92834,
             "content_zone_id": ""
         },
         {
-            "id": "68dd29dfddd581736c30e92f",
-            "name": "Tasmania Tiger VS Western Australia",
+            "id": "68d533a74913ae75872628f2",
+            "name": "Pakistan VS South Africa",
             "category_name": "Cricket",
-            "tour_id": "68c575ee53c91bcf78fadd5f",
-            "tour_name": "Australia One Day Cup 2025-26",
-            "match_no": "11",
+            "tour_id": "68d53321050ee9aed47ce9f0",
+            "tour_name": "South Africa tour of Pakistan, 2025",
+            "match_no": "2nd Test",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-10-19",
-            "start_date_time": "2025-10-19T23:30:00.000Z",
+            "start_date": "2025-10-20",
+            "start_date_time": "2025-10-20T04:00:00.000Z",
             "team_a": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tiger",
-                "short_name": "Tasmania Tiger",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681915111-851524084.webp"
+                "id": "671bc2de68d746820ca1213c",
+                "name": "Pakistan",
+                "short_name": "Pakistan",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802312421-733434137.webp"
             },
             "team_b": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681947890-528959156.webp"
+                "id": "66e81f0347f6bd8cb61c148b",
+                "name": "South Africa",
+                "short_name": "South Africa",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802334900-982909890.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759324635869-738698591.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92833,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758802851283-604740038.webp",
+            "venue": "Rawalpindi Cricket Stadium ,Rawalpindi",
+            "score_match_id": 93750,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68f3591cefea2a9ef3a8c3b4",
+            "name": "Zimbabwe VS Afghanistan",
+            "category_name": "Cricket",
+            "tour_id": "68f358caefea2a9ef3a8c3b3",
+            "tour_name": "Afghanistan tour of Zimbabwe 2025",
+            "match_no": "1st Test | Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-20",
+            "start_date_time": "2025-10-20T07:30:00.000Z",
+            "team_a": {
+                "id": "686e033af8e4d8c21da7bc86",
+                "name": "Zimbabwe",
+                "short_name": "Zimbabwe",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760778284702-41013794.webp"
+            },
+            "team_b": {
+                "id": "66de5d2d985bb10dcaba1721",
+                "name": "Afghanistan",
+                "short_name": "Afghanistan",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758880785998-243143356.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760778520711-959019455.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68f4b618efea2a9ef3a8c3be",
+            "name": "Uganda Women VS Canada Women",
+            "category_name": "Cricket",
+            "tour_id": "68f4b5749875ed29f29a483b",
+            "tour_name": "Canada Women tour of Uganda 2025",
+            "match_no": "1st T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-20",
+            "start_date_time": "2025-10-20T08:00:00.000Z",
+            "team_a": {
+                "id": "666e34ab22b7a98f15326658",
+                "name": "Uganda Women",
+                "short_name": "Uganda Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760867520806-561351051.webp"
+            },
+            "team_b": {
+                "id": "68f4b4ea4517c5f2602e1c86",
+                "name": "Canada Women",
+                "short_name": "Canada Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760867560862-512442442.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760867858104-796417152.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         }
     ]
