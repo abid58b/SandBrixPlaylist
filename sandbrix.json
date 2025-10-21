@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "68da9250db41b6ee2b169210",
-            "name": "Maliban Biscuits VS Hayleys-A",
-            "category_name": "Cricket",
-            "tour_id": "68da8f00a65e8d0132fc36d2",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "Semifinal - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-21",
-            "start_date_time": "2025-10-21T05:30:00.000Z",
-            "team_a": {
-                "id": "675fc59a027a1688c435a454",
-                "name": "Maliban Biscuits",
-                "short_name": "Maliban Biscuits",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1734329752377-317474835.png"
-            },
-            "team_b": {
-                "id": "675fc5b6da878853e3c01c78",
-                "name": "Hayleys-A",
-                "short_name": "Hayleys-A",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1734329780343-372124539.png"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760522464939-614083303.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68f4b64aca36150098b040f6",
             "name": "Uganda Women VS Canada Women",
             "category_name": "Cricket",
@@ -143,35 +114,6 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758880785998-243143356.webp"
             },
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760778520711-959019455.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68da9299db41b6ee2b169211",
-            "name": "Fairfirst Insurance VS CDB-A",
-            "category_name": "Cricket",
-            "tour_id": "68da8f00a65e8d0132fc36d2",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "Semifinal - 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-21",
-            "start_date_time": "2025-10-21T08:00:00.000Z",
-            "team_a": {
-                "id": "675fc5cf027a1688c435a455",
-                "name": "Fairfirst Insurance",
-                "short_name": "Fairfirst Insurance",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1734329805367-941327738.png"
-            },
-            "team_b": {
-                "id": "675fc5e532a1502da349e92a",
-                "name": "CDB-A",
-                "short_name": "CDB-A",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1734329827933-968304497.png"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760522478351-734107752.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
