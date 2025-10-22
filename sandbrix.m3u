@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68f336804517c5f2602e1c7b" tvg-name="Bangladesh VS West Indies" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760769663100-991441037.webp" group-title="Live",Bangladesh VS West Indies
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/d8dG8ew76tuf4Zhk242747603365482.m3u8
-
-#EXTINF:-1 tvg-id="68f3591cefea2a9ef3a8c3b4" tvg-name="Zimbabwe VS Afghanistan" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760778520711-959019455.webp" group-title="Live",Zimbabwe VS Afghanistan
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/w5E5aByUIsjuYosC155908902611.m3u8
-
