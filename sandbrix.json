@@ -1,5 +1,35 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "68f4b7c5ca36150098b040f8",
+            "name": "Uganda Women VS Canada Women",
+            "category_name": "Cricket",
+            "tour_id": "68f4b5749875ed29f29a483b",
+            "tour_name": "Canada Women tour of Uganda 2025",
+            "match_no": "4th T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-24",
+            "start_date_time": "2025-10-24T06:30:00.000Z",
+            "team_a": {
+                "id": "666e34ab22b7a98f15326658",
+                "name": "Uganda Women",
+                "short_name": "Uganda Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760867520806-561351051.webp"
+            },
+            "team_b": {
+                "id": "68f4b4ea4517c5f2602e1c86",
+                "name": "Canada Women",
+                "short_name": "Canada Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760867560862-512442442.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760868290871-639406880.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
