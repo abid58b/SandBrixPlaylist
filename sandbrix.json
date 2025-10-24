@@ -59,6 +59,64 @@
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
+        },
+        {
+            "id": "68fb81129875ed29f29a486b",
+            "name": "Canterbury Kings VS Otago Volts",
+            "category_name": "Cricket",
+            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-24",
+            "start_date_time": "2025-10-24T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+            },
+            "team_b": {
+                "id": "68fa38479875ed29f29a485d",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228870014-296651115.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313040903-970338225.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68fb8140ca36150098b0411a",
+            "name": "Auckland Aces VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-24",
+            "start_date_time": "2025-10-24T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+            },
+            "team_b": {
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313086325-640827627.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
         }
     ]
 }
