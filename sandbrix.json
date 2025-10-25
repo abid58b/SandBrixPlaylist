@@ -61,35 +61,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "68ef9eb54517c5f2602e1c6b",
-            "name": "Miami Waves VS Las Vegas Aces",
-            "category_name": "Cricket",
-            "tour_id": "68ef9e259875ed29f29a481f",
-            "tour_name": "Global Cricket League 2025",
-            "match_no": "2",
-            "match_status": 2,
-            "is_stream": -1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-25",
-            "start_date_time": "2025-10-25T14:00:00.000Z",
-            "team_a": {
-                "id": "68e9088b597318c837de563d",
-                "name": "Miami Waves",
-                "short_name": "Miami Waves",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102535762-643464496.webp"
-            },
-            "team_b": {
-                "id": "68e9089f972d8d159edde8cc",
-                "name": "Las Vegas Aces",
-                "short_name": "Las Vegas Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102557195-843676206.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760534194587-173976943.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68fb4e9b9875ed29f29a4862",
             "name": "Altrad VS Abu Dhabi Smashers",
             "category_name": "Cricket",
