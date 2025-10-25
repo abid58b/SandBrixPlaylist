@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "68fb4e9b9875ed29f29a4862",
-            "name": "Altrad VS Abu Dhabi Smashers",
-            "category_name": "Cricket",
-            "tour_id": "68f8e1de9875ed29f29a484e",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-25",
-            "start_date_time": "2025-10-25T17:00:00.000Z",
-            "team_a": {
-                "id": "6799f97291e311a90ee8d806",
-                "name": "Altrad",
-                "short_name": "Altrad",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1738327459929-430683158.png"
-            },
-            "team_b": {
-                "id": "6799fa0191e311a90ee8d807",
-                "name": "Abu Dhabi Smashers",
-                "short_name": "Abu Dhabi Smashers",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758519010585-669900030.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761300118600-871176185.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
