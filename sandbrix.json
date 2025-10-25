@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68fb4e33efea2a9ef3a8c3dc",
-            "name": "Seven District VS Volcano Sports Academy",
-            "category_name": "Cricket",
-            "tour_id": "68f8e1de9875ed29f29a484e",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-25",
-            "start_date_time": "2025-10-25T12:30:00.000Z",
-            "team_a": {
-                "id": "6799f8e091e311a90ee8d804",
-                "name": "Seven District",
-                "short_name": "Seven District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1738327393239-118014157.png"
-            },
-            "team_b": {
-                "id": "6799f8c3a694d3873e44920d",
-                "name": "Volcano Sports Academy",
-                "short_name": "Volcano Academy",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758519111642-289891150.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761300011861-624656194.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68fb4e9b9875ed29f29a4862",
             "name": "Altrad VS Abu Dhabi Smashers",
             "category_name": "Cricket",
