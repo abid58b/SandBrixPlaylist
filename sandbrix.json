@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "67fd0726ae865b4fcf875031",
-            "name": "Australia VS India",
-            "category_name": "Cricket",
-            "tour_id": "67fd0183aca1728cb8f17393",
-            "tour_name": "India Tour of Australia 2025",
-            "match_no": "3rd ODI",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-25",
-            "start_date_time": "2025-10-25T03:00:00.000Z",
-            "team_a": {
-                "id": "66d44a7d3b04cf3cd8eb9361",
-                "name": "Australia",
-                "short_name": "Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744617949741-168826235.png"
-            },
-            "team_b": {
-                "id": "671bc13b3cea6bb9b2cb5ac8",
-                "name": "India",
-                "short_name": "India",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744634115359-677821889.png"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759828746375-864580168.webp",
-            "venue": "Sydney Cricket Ground ,Sydney",
-            "score_match_id": 89047,
-            "content_zone_id": ""
-        },
-        {
             "id": "68fb4e33efea2a9ef3a8c3dc",
             "name": "Seven District VS Volcano Sports Academy",
             "category_name": "Cricket",
