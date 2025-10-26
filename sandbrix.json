@@ -61,35 +61,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "68fb4ee84517c5f2602e1ca9",
-            "name": "Consolidated Shipping Group VS Volcano Sports Academy",
-            "category_name": "Cricket",
-            "tour_id": "68f8e1de9875ed29f29a484e",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-26",
-            "start_date_time": "2025-10-26T04:00:00.000Z",
-            "team_a": {
-                "id": "6799f9574ba256cf3abcdab6",
-                "name": "Consolidated Shipping Group",
-                "short_name": "CSS",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1738327371233-756583940.png"
-            },
-            "team_b": {
-                "id": "6799f8c3a694d3873e44920d",
-                "name": "Volcano Sports Academy",
-                "short_name": "Volcano Academy",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758519111642-289891150.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761300194357-382134143.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68f4b7f8ca36150098b040f9",
             "name": "Uganda Women VS Canada Women",
             "category_name": "Cricket",

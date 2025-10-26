@@ -8,11 +8,11 @@ https://ams.sandbrix.live/LiveApp/streams/jKEDqsEvpiULXvAh3815457109716563.m3u8
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
 
-#EXTINF:-1 tvg-id="68fb4ee84517c5f2602e1ca9" tvg-name="Consolidated Shipping Group VS Volcano Sports Academy" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761300194357-382134143.webp" group-title="Live",Consolidated Shipping Group VS Volcano Sports Academy
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
-
 #EXTINF:-1 tvg-id="68f4b7f8ca36150098b040f9" tvg-name="Uganda Women VS Canada Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760868340880-795321591.webp" group-title="Live",Uganda Women VS Canada Women
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
+#EXTINF:-1 tvg-id="68fb4f68efea2a9ef3a8c3dd" tvg-name="ALS Superstars VS Abu Dhabi Smashers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761300323285-629741332.webp" group-title="Live",ALS Superstars VS Abu Dhabi Smashers
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
 
