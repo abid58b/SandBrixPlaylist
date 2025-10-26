@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "68fb50209875ed29f29a4864",
-            "name": "Seven District VS Karwan",
-            "category_name": "Cricket",
-            "tour_id": "68f8e1de9875ed29f29a484e",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-26",
-            "start_date_time": "2025-10-26T17:30:00.000Z",
-            "team_a": {
-                "id": "6799f8e091e311a90ee8d804",
-                "name": "Seven District",
-                "short_name": "Seven District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1738327393239-118014157.png"
-            },
-            "team_b": {
-                "id": "6799f9294ba256cf3abcdab5",
-                "name": "Karwan",
-                "short_name": "Karwan",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1738327348352-137567970.png"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761300508512-408900703.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
