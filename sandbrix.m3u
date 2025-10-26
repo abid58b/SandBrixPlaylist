@@ -12,3 +12,7 @@ https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
 
+#EXTINF:-1 tvg-id="68f4b7f8ca36150098b040f9" tvg-name="Uganda Women VS Canada Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760868340880-795321591.webp" group-title="Live",Uganda Women VS Canada Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
