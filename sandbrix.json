@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68fb4fc24517c5f2602e1cac",
-            "name": "Altrad VS Lexington Shotguns",
-            "category_name": "Cricket",
-            "tour_id": "68f8e1de9875ed29f29a484e",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-26",
-            "start_date_time": "2025-10-26T13:00:00.000Z",
-            "team_a": {
-                "id": "6799f97291e311a90ee8d806",
-                "name": "Altrad",
-                "short_name": "Altrad",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1738327459929-430683158.png"
-            },
-            "team_b": {
-                "id": "6799f91091e311a90ee8d805",
-                "name": "Lexington Shotguns",
-                "short_name": "Lexington Shotguns",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758518939399-639890555.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761300410351-169816760.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68fb50209875ed29f29a4864",
             "name": "Seven District VS Karwan",
             "category_name": "Cricket",
