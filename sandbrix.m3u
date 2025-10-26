@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68d7e618a65e8d0132fc36c2" tvg-name="DLSW DLIT VS HKCC Premier" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758979605635-229351406.webp" group-title="Live",DLSW DLIT VS HKCC Premier
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/jKEDqsEvpiULXvAh3815457109716563.m3u8
-
 #EXTINF:-1 tvg-id="68d7e65bddd581736c30e90c" tvg-name="USRC Premier VS KCC Premier" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758979658724-441403588.webp" group-title="Live",USRC Premier VS KCC Premier
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
