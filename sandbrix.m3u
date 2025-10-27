@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68f3372eefea2a9ef3a8c3af" tvg-name="Bangladesh VS West Indies" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760769834826-176993472.webp" group-title="Live",Bangladesh VS West Indies
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/d8dG8ew76tuf4Zhk242747603365482.m3u8
+
