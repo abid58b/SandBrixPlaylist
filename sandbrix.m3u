@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/d8dG8ew76tuf4Zhk242747603365482.m3u8
 
+#EXTINF:-1 tvg-id="68fb51c29875ed29f29a4865" tvg-name="ALS Superstars VS Lexington Shotguns" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761300926821-858644426.webp" group-title="Live",ALS Superstars VS Lexington Shotguns
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
+
