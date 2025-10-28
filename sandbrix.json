@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "68da9250db41b6ee2b169210",
-            "name": "Maliban Biscuits VS Hayleys-A",
-            "category_name": "Cricket",
-            "tour_id": "68da8f00a65e8d0132fc36d2",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "Semifinal - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-28",
-            "start_date_time": "2025-10-28T04:00:00.000Z",
-            "team_a": {
-                "id": "675fc59a027a1688c435a454",
-                "name": "Maliban Biscuits",
-                "short_name": "Maliban Biscuits",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1734329752377-317474835.png"
-            },
-            "team_b": {
-                "id": "675fc5b6da878853e3c01c78",
-                "name": "Hayleys-A",
-                "short_name": "Hayleys-A",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1734329780343-372124539.png"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760522464939-614083303.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68d533ec050ee9aed47ce9f1",
             "name": "Pakistan VS South Africa",
             "category_name": "Cricket",
@@ -143,6 +114,35 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681849705-822802914.webp"
             },
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497474480-639068426.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68dfcc76db41b6ee2b169236",
+            "name": "Victoria VS Tasmania Tiger",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "7 | Day - 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-28",
+            "start_date_time": "2025-10-28T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+            },
+            "team_b": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tiger",
+                "short_name": "Tasmania Tiger",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681915111-851524084.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497330979-727409589.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
