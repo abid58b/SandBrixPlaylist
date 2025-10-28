@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
 
+#EXTINF:-1 tvg-id="68da9250db41b6ee2b169210" tvg-name="Maliban Biscuits VS Hayleys-A" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760522464939-614083303.webp" group-title="Live",Maliban Biscuits VS Hayleys-A
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
+
