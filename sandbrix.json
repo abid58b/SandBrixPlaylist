@@ -117,6 +117,35 @@
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
+        },
+        {
+            "id": "68dfcd06db41b6ee2b169237",
+            "name": "Queensland Bulls VS New South Wales",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "8 | Day - 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-28",
+            "start_date_time": "2025-10-28T23:00:00.000Z",
+            "team_a": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
+            },
+            "team_b": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681849705-822802914.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497474480-639068426.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
         }
     ]
 }
