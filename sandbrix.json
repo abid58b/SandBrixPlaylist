@@ -3,64 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68fb53fe9875ed29f29a4866",
-            "name": "Altrad VS ALS Superstars",
-            "category_name": "Cricket",
-            "tour_id": "68f8e1de9875ed29f29a484e",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T15:30:00.000Z",
-            "team_a": {
-                "id": "6799f97291e311a90ee8d806",
-                "name": "Altrad",
-                "short_name": "Altrad",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1738327459929-430683158.png"
-            },
-            "team_b": {
-                "id": "6799f9d54ba256cf3abcdab7",
-                "name": "ALS Superstars",
-                "short_name": "ALS Superstars",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758518901883-514146498.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761301496266-645562149.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68fb81d9ca36150098b0411b",
-            "name": "Auckland Aces VS Otago Volts",
-            "category_name": "Cricket",
-            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
-            },
-            "team_b": {
-                "id": "68fa38479875ed29f29a485d",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228870014-296651115.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313239178-577591508.webp",
-            "venue": "Eden Park Outer Oval ,Auckland",
-            "score_match_id": 92653,
-            "content_zone_id": ""
-        },
-        {
             "id": "68fb81a04517c5f2602e1cb1",
             "name": "Central Stags VS Northern District",
             "category_name": "Cricket",
@@ -116,6 +58,35 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313137374-665528805.webp",
             "venue": "Basin Reserve ,Wellington",
             "score_match_id": 92651,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68fb81d9ca36150098b0411b",
+            "name": "Auckland Aces VS Otago Volts",
+            "category_name": "Cricket",
+            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-29",
+            "start_date_time": "2025-10-29T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+            },
+            "team_b": {
+                "id": "68fa38479875ed29f29a485d",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228870014-296651115.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313239178-577591508.webp",
+            "venue": "Eden Park Outer Oval ,Auckland",
+            "score_match_id": 92653,
             "content_zone_id": ""
         },
         {
