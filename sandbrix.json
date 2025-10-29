@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "67fe2f2b1168d5ef554e9918",
-            "name": "Australia VS India",
-            "category_name": "Cricket",
-            "tour_id": "67fd0183aca1728cb8f17393",
-            "tour_name": "India Tour of Australia 2025",
-            "match_no": "1st T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T07:45:00.000Z",
-            "team_a": {
-                "id": "66d44a7d3b04cf3cd8eb9361",
-                "name": "Australia",
-                "short_name": "Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744617949741-168826235.png"
-            },
-            "team_b": {
-                "id": "671bc13b3cea6bb9b2cb5ac8",
-                "name": "India",
-                "short_name": "India",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744634115359-677821889.png"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759736289272-407386474.webp",
-            "venue": "Manuka Oval ,Canberra",
-            "score_match_id": 89048,
-            "content_zone_id": ""
-        },
-        {
             "id": "68f35952efea2a9ef3a8c3b5",
             "name": "Zimbabwe VS Afghanistan",
             "category_name": "Cricket",
@@ -148,35 +119,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "68fb81d9ca36150098b0411b",
-            "name": "Auckland Aces VS Otago Volts",
-            "category_name": "Cricket",
-            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
-            },
-            "team_b": {
-                "id": "68fa38479875ed29f29a485d",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228870014-296651115.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313239178-577591508.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68fb81754517c5f2602e1cb0",
             "name": "Wellington Firebirds VS Canterbury Kings",
             "category_name": "Cricket",
@@ -206,32 +148,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "68dfcd06db41b6ee2b169237",
-            "name": "Queensland Bulls VS New South Wales",
+            "id": "68fb81d9ca36150098b0411b",
+            "name": "Auckland Aces VS Otago Volts",
             "category_name": "Cricket",
-            "tour_id": "68df662addd581736c30e938",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "8 | Day - 3",
+            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "6",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T23:00:00.000Z",
+            "start_date_time": "2025-10-29T21:00:00.000Z",
             "team_a": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
             },
             "team_b": {
-                "id": "67143f77bb231d3543008cb0",
-                "name": "New South Wales",
-                "short_name": "New South Wales",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681849705-822802914.webp"
+                "id": "68fa38479875ed29f29a485d",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228870014-296651115.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497474480-639068426.webp",
-            "venue": "The Gabba ,Brisbane",
-            "score_match_id": 92852,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313239178-577591508.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         },
         {
@@ -261,6 +203,35 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497330979-727409589.webp",
             "venue": "Junction Oval ,Melbourne",
             "score_match_id": 92851,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68dfcd06db41b6ee2b169237",
+            "name": "Queensland Bulls VS New South Wales",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "8 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-29",
+            "start_date_time": "2025-10-29T23:00:00.000Z",
+            "team_a": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
+            },
+            "team_b": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681849705-822802914.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497474480-639068426.webp",
+            "venue": "The Gabba ,Brisbane",
+            "score_match_id": 92852,
             "content_zone_id": ""
         }
     ]

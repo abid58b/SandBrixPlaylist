@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="67fe2f2b1168d5ef554e9918" tvg-name="Australia VS India" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1759736289272-407386474.webp" group-title="Live",Australia VS India
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://sandbrixcdn.b-cdn.net/LiveApp/streams/zsIr8ZGT66YBV90i36306588907906.m3u8
-
 #EXTINF:-1 tvg-id="68f35952efea2a9ef3a8c3b5" tvg-name="Zimbabwe VS Afghanistan" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760778573239-851420336.webp" group-title="Live",Zimbabwe VS Afghanistan
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://sandbrixcdn.b-cdn.net/LiveApp/streams/w5E5aByUIsjuYosC155908902611.m3u8
+
+#EXTINF:-1 tvg-id="68f33755efea2a9ef3a8c3b0" tvg-name="Bangladesh VS West Indies" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760769876073-228365970.webp" group-title="Live",Bangladesh VS West Indies
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://sandbrixcdn.b-cdn.net/LiveApp/streams/d8dG8ew76tuf4Zhk242747603365482.m3u8
 
