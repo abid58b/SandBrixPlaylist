@@ -27,8 +27,8 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681872997-926769284.webp"
             },
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497565943-386250722.webp",
-            "venue": "",
-            "score_match_id": 0,
+            "venue": "W.A.C.A. Ground ,Perth",
+            "score_match_id": 92853,
             "content_zone_id": ""
         },
         {
@@ -261,6 +261,35 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313181971-918294634.webp",
             "venue": "",
             "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68dfcc76db41b6ee2b169236",
+            "name": "Victoria VS Tasmania Tiger",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "7 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-29",
+            "start_date_time": "2025-10-29T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+            },
+            "team_b": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tiger",
+                "short_name": "Tasmania Tiger",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681915111-851524084.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497330979-727409589.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 92851,
             "content_zone_id": ""
         }
     ]
