@@ -119,35 +119,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "68fb81754517c5f2602e1cb0",
-            "name": "Wellington Firebirds VS Canterbury Kings",
-            "category_name": "Cricket",
-            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa37fbefea2a9ef3a8c3d4",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
-            },
-            "team_b": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313137374-665528805.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68fb81d9ca36150098b0411b",
             "name": "Auckland Aces VS Otago Volts",
             "category_name": "Cricket",
@@ -177,32 +148,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "68dfcc76db41b6ee2b169236",
-            "name": "Victoria VS Tasmania Tiger",
+            "id": "68fb81754517c5f2602e1cb0",
+            "name": "Wellington Firebirds VS Canterbury Kings",
             "category_name": "Cricket",
-            "tour_id": "68df662addd581736c30e938",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "7 | Day - 3",
+            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "4",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-10-29",
-            "start_date_time": "2025-10-29T23:00:00.000Z",
+            "start_date_time": "2025-10-29T21:00:00.000Z",
             "team_a": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+                "id": "68fa37fbefea2a9ef3a8c3d4",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
             },
             "team_b": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tiger",
-                "short_name": "Tasmania Tiger",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681915111-851524084.webp"
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497330979-727409589.webp",
-            "venue": "Junction Oval ,Melbourne",
-            "score_match_id": 92851,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313137374-665528805.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         },
         {
@@ -232,6 +203,35 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497474480-639068426.webp",
             "venue": "The Gabba ,Brisbane",
             "score_match_id": 92852,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68dfcc76db41b6ee2b169236",
+            "name": "Victoria VS Tasmania Tiger",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "7 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-10-29",
+            "start_date_time": "2025-10-29T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+            },
+            "team_b": {
+                "id": "67144bcd8a9eea3b43513351",
+                "name": "Tasmania Tiger",
+                "short_name": "Tasmania Tiger",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681915111-851524084.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759497330979-727409589.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 92851,
             "content_zone_id": ""
         }
     ]
