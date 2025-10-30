@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68fb5440efea2a9ef3a8c3df",
-            "name": "Lexington Shotguns VS Abu Dhabi Smashers",
-            "category_name": "Cricket",
-            "tour_id": "68f8e1de9875ed29f29a484e",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-30",
-            "start_date_time": "2025-10-30T15:30:00.000Z",
-            "team_a": {
-                "id": "6799f91091e311a90ee8d805",
-                "name": "Lexington Shotguns",
-                "short_name": "Lexington Shotguns",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758518939399-639890555.webp"
-            },
-            "team_b": {
-                "id": "6799fa0191e311a90ee8d807",
-                "name": "Abu Dhabi Smashers",
-                "short_name": "Abu Dhabi Smashers",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758519010585-669900030.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761301563038-63967956.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68dfcc76db41b6ee2b169236",
             "name": "Victoria VS Tasmania Tiger",
             "category_name": "Cricket",
