@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68d5341d29896ee3112ce42d" tvg-name="Pakistan VS South Africa" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758806390620-226976376.webp" group-title="Live",Pakistan VS South Africa
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://sandbrixcdn.b-cdn.net/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
-
 #EXTINF:-1 tvg-id="68fb54879875ed29f29a4867" tvg-name="Seven District VS Altrad" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761301636074-896851311.webp" group-title="Live",Seven District VS Altrad
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://sandbrixcdn.b-cdn.net/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8

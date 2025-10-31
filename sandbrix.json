@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68d5341d29896ee3112ce42d",
-            "name": "Pakistan VS South Africa",
-            "category_name": "Cricket",
-            "tour_id": "68d53321050ee9aed47ce9f0",
-            "tour_name": "South Africa tour of Pakistan, 2025",
-            "match_no": "2nd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-31",
-            "start_date_time": "2025-10-31T14:30:00.000Z",
-            "team_a": {
-                "id": "671bc2de68d746820ca1213c",
-                "name": "Pakistan",
-                "short_name": "Pakistan",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802312421-733434137.webp"
-            },
-            "team_b": {
-                "id": "66e81f0347f6bd8cb61c148b",
-                "name": "South Africa",
-                "short_name": "South Africa",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802334900-982909890.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758806390620-226976376.webp",
-            "venue": "Gaddafi Stadium ,Lahore",
-            "score_match_id": 93752,
-            "content_zone_id": ""
-        },
-        {
             "id": "68fb54879875ed29f29a4867",
             "name": "Seven District VS Altrad",
             "category_name": "Cricket",
