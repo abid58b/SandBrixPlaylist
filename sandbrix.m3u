@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://sandbrixcdn.b-cdn.net/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
 
+#EXTINF:-1 tvg-id="68f3597cca36150098b040e7" tvg-name="Zimbabwe VS Afghanistan" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760778617688-519754229.webp" group-title="Live",Zimbabwe VS Afghanistan
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://sandbrixcdn.b-cdn.net/LiveApp/streams/w5E5aByUIsjuYosC155908902611.m3u8
+
