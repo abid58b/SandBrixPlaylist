@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "67fe2f677d212f6a8b334b4c",
-            "name": "Australia VS India",
-            "category_name": "Cricket",
-            "tour_id": "67fd0183aca1728cb8f17393",
-            "tour_name": "India Tour of Australia 2025",
-            "match_no": "2nd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-10-31",
-            "start_date_time": "2025-10-31T07:45:00.000Z",
-            "team_a": {
-                "id": "66d44a7d3b04cf3cd8eb9361",
-                "name": "Australia",
-                "short_name": "Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744617949741-168826235.png"
-            },
-            "team_b": {
-                "id": "671bc13b3cea6bb9b2cb5ac8",
-                "name": "India",
-                "short_name": "India",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744634115359-677821889.png"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759736335526-219020999.webp",
-            "venue": "Melbourne Cricket Ground ,Melbourne",
-            "score_match_id": 89049,
-            "content_zone_id": ""
-        },
-        {
             "id": "68f3597cca36150098b040e7",
             "name": "Zimbabwe VS Afghanistan",
             "category_name": "Cricket",
