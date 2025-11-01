@@ -3,6 +3,35 @@
     "message": "Stream record is fetched",
     "data": [
         {
+            "id": "6905fb39717169d26d40fa7b",
+            "name": "Lexington Shotguns VS Volcano Sports Academy",
+            "category_name": "Cricket",
+            "tour_id": "68f8e1de9875ed29f29a484e",
+            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
+            "match_no": "Plate Semifinal - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-01",
+            "start_date_time": "2025-11-01T12:30:00.000Z",
+            "team_a": {
+                "id": "6799f91091e311a90ee8d805",
+                "name": "Lexington Shotguns",
+                "short_name": "Lexington Shotguns",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758518939399-639890555.webp"
+            },
+            "team_b": {
+                "id": "6799f8c3a694d3873e44920d",
+                "name": "Volcano Sports Academy",
+                "short_name": "Volcano Academy",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758519111642-289891150.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761999666507-223272837.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
             "id": "68d5345670776e9ff2fc1822",
             "name": "Pakistan VS South Africa",
             "category_name": "Cricket",
@@ -29,6 +58,35 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758806409577-804341363.webp",
             "venue": "Gaddafi Stadium ,Lahore",
             "score_match_id": 93753,
+            "content_zone_id": ""
+        },
+        {
+            "id": "6905fb95717169d26d40fa7c",
+            "name": "Karwan VS Altrad",
+            "category_name": "Cricket",
+            "tour_id": "68f8e1de9875ed29f29a484e",
+            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
+            "match_no": "Plate Semifinal - 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-01",
+            "start_date_time": "2025-11-01T17:00:00.000Z",
+            "team_a": {
+                "id": "6799f9294ba256cf3abcdab5",
+                "name": "Karwan",
+                "short_name": "Karwan",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1738327348352-137567970.png"
+            },
+            "team_b": {
+                "id": "6799f97291e311a90ee8d806",
+                "name": "Altrad",
+                "short_name": "Altrad",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1738327459929-430683158.png"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761999760578-312855734.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         }
     ]
