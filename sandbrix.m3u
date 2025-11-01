@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68d5345670776e9ff2fc1822" tvg-name="Pakistan VS South Africa" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1758806409577-804341363.webp" group-title="Live",Pakistan VS South Africa
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://sandbrixcdn.b-cdn.net/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
