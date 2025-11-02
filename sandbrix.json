@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68da92c0db41b6ee2b169212",
-            "name": "Hayleys-A VS CDB-A",
-            "category_name": "Cricket",
-            "tour_id": "68da8f00a65e8d0132fc36d2",
-            "tour_name": "32nd SINGER-MCA SUPER PREMIER T20 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-02",
-            "start_date_time": "2025-11-02T13:30:00.000Z",
-            "team_a": {
-                "id": "675fc5b6da878853e3c01c78",
-                "name": "Hayleys-A",
-                "short_name": "Hayleys-A",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1734329780343-372124539.png"
-            },
-            "team_b": {
-                "id": "675fc5e532a1502da349e92a",
-                "name": "CDB-A",
-                "short_name": "CDB-A",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1734329827933-968304497.png"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761728245453-186401905.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "6906068d717169d26d40fa80",
             "name": "Seven District VS Abu Dhabi Smashers",
             "category_name": "Cricket",
