@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "690717b75cd15a166b052b46",
-            "name": "Karwan VS Lexington Shotguns",
-            "category_name": "Cricket",
-            "tour_id": "68f8e1de9875ed29f29a484e",
-            "tour_name": "Abu Dhabi Cricket League X Hampshire 2025",
-            "match_no": "Plate Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-02",
-            "start_date_time": "2025-11-02T08:45:00.000Z",
-            "team_a": {
-                "id": "6799f9294ba256cf3abcdab5",
-                "name": "Karwan",
-                "short_name": "Karwan",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1738327348352-137567970.png"
-            },
-            "team_b": {
-                "id": "6799f91091e311a90ee8d805",
-                "name": "Lexington Shotguns",
-                "short_name": "Lexington Shotguns",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758518939399-639890555.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762072498266-458720247.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68f359a94517c5f2602e1c7c",
             "name": "Zimbabwe VS Afghanistan",
             "category_name": "Cricket",
@@ -148,30 +119,30 @@
             "content_zone_id": ""
         },
         {
-            "id": "68fb82514517c5f2602e1cb3",
-            "name": "Otago Volts VS Central Stags",
+            "id": "68fb82204517c5f2602e1cb2",
+            "name": "Canterbury Kings VS Auckland Aces",
             "category_name": "Cricket",
             "tour_id": "68fa38c6efea2a9ef3a8c3d6",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "7",
+            "match_no": "9",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-02",
             "start_date_time": "2025-11-02T21:00:00.000Z",
             "team_a": {
-                "id": "68fa38479875ed29f29a485d",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228870014-296651115.webp"
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
             },
             "team_b": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313358577-859252446.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313310003-756733608.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
@@ -206,30 +177,30 @@
             "content_zone_id": ""
         },
         {
-            "id": "68fb82204517c5f2602e1cb2",
-            "name": "Canterbury Kings VS Auckland Aces",
+            "id": "68fb82514517c5f2602e1cb3",
+            "name": "Otago Volts VS Central Stags",
             "category_name": "Cricket",
             "tour_id": "68fa38c6efea2a9ef3a8c3d6",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "9",
+            "match_no": "7",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-02",
             "start_date_time": "2025-11-02T21:00:00.000Z",
             "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+                "id": "68fa38479875ed29f29a485d",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228870014-296651115.webp"
             },
             "team_b": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313310003-756733608.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313358577-859252446.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
