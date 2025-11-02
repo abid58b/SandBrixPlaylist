@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6906064e5cd15a166b052b3b" tvg-name="ALS Superstars VS Consolidated Shipping Group" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762002484809-741550453.webp" group-title="Live",ALS Superstars VS Consolidated Shipping Group
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://sandbrixcdn.b-cdn.net/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
-
 #EXTINF:-1 tvg-id="68da92c0db41b6ee2b169212" tvg-name="Hayleys-A VS CDB-A" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761728245453-186401905.webp" group-title="Live",Hayleys-A VS CDB-A
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://sandbrixcdn.b-cdn.net/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
+
+#EXTINF:-1 tvg-id="6906068d717169d26d40fa80" tvg-name="Seven District VS Abu Dhabi Smashers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762002566754-367673923.webp" group-title="Live",Seven District VS Abu Dhabi Smashers
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://sandbrixcdn.b-cdn.net/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
 
