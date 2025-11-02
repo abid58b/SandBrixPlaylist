@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68f359a94517c5f2602e1c7c",
-            "name": "Zimbabwe VS Afghanistan",
-            "category_name": "Cricket",
-            "tour_id": "68f358caefea2a9ef3a8c3b3",
-            "tour_name": "Afghanistan tour of Zimbabwe 2025",
-            "match_no": "3rd T20I",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-02",
-            "start_date_time": "2025-11-02T11:00:00.000Z",
-            "team_a": {
-                "id": "686e033af8e4d8c21da7bc86",
-                "name": "Zimbabwe",
-                "short_name": "Zimbabwe",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760778284702-41013794.webp"
-            },
-            "team_b": {
-                "id": "66de5d2d985bb10dcaba1721",
-                "name": "Afghanistan",
-                "short_name": "Afghanistan",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758880785998-243143356.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760778663031-413874399.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "6906064e5cd15a166b052b3b",
             "name": "ALS Superstars VS Consolidated Shipping Group",
             "category_name": "Cricket",

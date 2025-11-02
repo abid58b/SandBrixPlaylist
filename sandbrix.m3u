@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68f359a94517c5f2602e1c7c" tvg-name="Zimbabwe VS Afghanistan" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760778663031-413874399.webp" group-title="Live",Zimbabwe VS Afghanistan
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://sandbrixcdn.b-cdn.net/LiveApp/streams/w5E5aByUIsjuYosC155908902611.m3u8
-
 #EXTINF:-1 tvg-id="6906064e5cd15a166b052b3b" tvg-name="ALS Superstars VS Consolidated Shipping Group" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762002484809-741550453.webp" group-title="Live",ALS Superstars VS Consolidated Shipping Group
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://sandbrixcdn.b-cdn.net/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
