@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://sandbrixcdn.b-cdn.net/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
 
+#EXTINF:-1 tvg-id="690717b75cd15a166b052b46" tvg-name="Karwan VS Lexington Shotguns" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762072498266-458720247.webp" group-title="Live",Karwan VS Lexington Shotguns
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://sandbrixcdn.b-cdn.net/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
+
