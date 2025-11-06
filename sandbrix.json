@@ -1,5 +1,151 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "690a0386717169d26d40faa8",
+            "name": "Lucknow CA VS Varanasi CA",
+            "category_name": "Cricket",
+            "tour_id": "690a0119717169d26d40faa5",
+            "tour_name": "G.C.R.G State Level Championship 2025",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-06",
+            "start_date_time": "2025-11-06T02:30:00.000Z",
+            "team_a": {
+                "id": "6909ffba5cd15a166b052b53",
+                "name": "Lucknow CA",
+                "short_name": "Lucknow CA",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762262967577-484141450.webp"
+            },
+            "team_b": {
+                "id": "6909ffe9717169d26d40faa3",
+                "name": "Varanasi CA",
+                "short_name": "Varanasi CA",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762263007855-813678825.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762263934685-325819948.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690a03c1717169d26d40faa9",
+            "name": "DCA Behraich VS DCA Aligarh",
+            "category_name": "Cricket",
+            "tour_id": "690a0119717169d26d40faa5",
+            "tour_name": "G.C.R.G State Level Championship 2025",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-06",
+            "start_date_time": "2025-11-06T06:30:00.000Z",
+            "team_a": {
+                "id": "690a001126e686b9e7f06fc6",
+                "name": "DCA Behraich",
+                "short_name": "DCA Behraich",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762263054004-906812639.webp"
+            },
+            "team_b": {
+                "id": "690a003f5cd15a166b052b54",
+                "name": "DCA Aligarh",
+                "short_name": "DCA Aligarh",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762263101467-264331145.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762263998232-670332179.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "67fe2fcb213b30ba5bd38660",
+            "name": "Australia VS India",
+            "category_name": "Cricket",
+            "tour_id": "67fd0183aca1728cb8f17393",
+            "tour_name": "India Tour of Australia 2025",
+            "match_no": "4th T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-06",
+            "start_date_time": "2025-11-06T07:45:00.000Z",
+            "team_a": {
+                "id": "66d44a7d3b04cf3cd8eb9361",
+                "name": "Australia",
+                "short_name": "Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744617949741-168826235.png"
+            },
+            "team_b": {
+                "id": "671bc13b3cea6bb9b2cb5ac8",
+                "name": "India",
+                "short_name": "India",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744634115359-677821889.png"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759736393475-594843359.webp",
+            "venue": "Carrara Oval ,Queensland",
+            "score_match_id": 89051,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68d535764913ae75872628f4",
+            "name": "Pakistan VS South Africa",
+            "category_name": "Cricket",
+            "tour_id": "68d53321050ee9aed47ce9f0",
+            "tour_name": "South Africa tour of Pakistan, 2025",
+            "match_no": "2nd ODI",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-06",
+            "start_date_time": "2025-11-06T08:30:00.000Z",
+            "team_a": {
+                "id": "671bc2de68d746820ca1213c",
+                "name": "Pakistan",
+                "short_name": "Pakistan",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802312421-733434137.webp"
+            },
+            "team_b": {
+                "id": "66e81f0347f6bd8cb61c148b",
+                "name": "South Africa",
+                "short_name": "South Africa",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802334900-982909890.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758803315977-529495058.webp",
+            "venue": "Iqbal Stadium ,Faisalabad",
+            "score_match_id": 93755,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690b5ec9717169d26d40fab9",
+            "name": "BANGLADESH VS HONG KONG, CHINA",
+            "category_name": "Cricket",
+            "tour_id": "690620b3bffb0fd323b3afff",
+            "tour_name": "Hong Kong Sixes 2025",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-06",
+            "start_date_time": "2025-11-06T23:45:00.000Z",
+            "team_a": {
+                "id": "69061f3ebffb0fd323b3affd",
+                "name": "BANGLADESH",
+                "short_name": "BANGLADESH",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008891944-128774669.webp"
+            },
+            "team_b": {
+                "id": "690620125cd15a166b052b41",
+                "name": "HONG KONG, CHINA",
+                "short_name": "HONG KONG, CHINA",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762009102836-379100618.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762352837927-257297742.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
