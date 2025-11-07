@@ -32,61 +32,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "690b612426e686b9e7f06fd1",
-            "name": "INDIA VS PAKISTAN",
+            "id": "68fb83294517c5f2602e1cb4",
+            "name": "Northern District VS Canterbury Kings",
             "category_name": "Cricket",
-            "tour_id": "690620b3bffb0fd323b3afff",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "9",
+            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "11",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T07:35:00.000Z",
+            "start_date_time": "2025-11-07T21:00:00.000Z",
             "team_a": {
-                "id": "69061e6dbffb0fd323b3affb",
-                "name": "INDIA",
-                "short_name": "INDIA",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008681598-891489556.webp"
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
             },
             "team_b": {
-                "id": "69061eaf5cd15a166b052b3e",
-                "name": "PAKISTAN",
-                "short_name": "PAKISTAN",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008747920-506839434.webp"
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762353439660-716273230.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94386,
-            "content_zone_id": ""
-        },
-        {
-            "id": "690b6174bffb0fd323b3b01e",
-            "name": "ENGLAND VS AUSTRALIA",
-            "category_name": "Cricket",
-            "tour_id": "690620b3bffb0fd323b3afff",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T08:30:00.000Z",
-            "team_a": {
-                "id": "69061f5f26e686b9e7f06fb3",
-                "name": "ENGLAND",
-                "short_name": "ENGLAND",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008923774-991504777.webp"
-            },
-            "team_b": {
-                "id": "69061e8e717169d26d40fa82",
-                "name": "AUSTRALIA",
-                "short_name": "AUSTRALIA",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008713573-281171402.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762353521327-413892472.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94387,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313575381-470328854.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         },
         {
@@ -114,35 +85,6 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228870014-296651115.webp"
             },
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313524783-851645186.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68fb83294517c5f2602e1cb4",
-            "name": "Northern District VS Canterbury Kings",
-            "category_name": "Cricket",
-            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
-            },
-            "team_b": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313575381-470328854.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
