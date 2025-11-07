@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
 
+#EXTINF:-1 tvg-id="690b6097717169d26d40fabd" tvg-name="SOUTH AFRICA VS AFGHANISTAN" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762353300528-33497141.webp" group-title="Live",SOUTH AFRICA VS AFGHANISTAN
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/tWMD8u0Wok0o03BT192917485703.m3u8
+
