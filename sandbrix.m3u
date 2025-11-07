@@ -1,10 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="690a03ff717169d26d40faaa" tvg-name="DCA Behraich VS Varanasi CA" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762264059889-317137180.webp" group-title="Live",DCA Behraich VS Varanasi CA
+#EXTINF:-1 tvg-id="690b60d726e686b9e7f06fd0" tvg-name="SRI LANKA VS BANGLADESH" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762353362968-904139238.webp" group-title="Live",SRI LANKA VS BANGLADESH
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/tWMD8u0Wok0o03BT192917485703.m3u8
+
+#EXTINF:-1 tvg-id="690a043e5cd15a166b052b55" tvg-name="Lucknow CA VS DCA Aligarh" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762264117179-571879197.webp" group-title="Live",Lucknow CA VS DCA Aligarh
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
 
-#EXTINF:-1 tvg-id="690b6097717169d26d40fabd" tvg-name="SOUTH AFRICA VS AFGHANISTAN" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762353300528-33497141.webp" group-title="Live",SOUTH AFRICA VS AFGHANISTAN
+#EXTINF:-1 tvg-id="690b612426e686b9e7f06fd1" tvg-name="INDIA VS PAKISTAN" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762353439660-716273230.webp" group-title="Live",INDIA VS PAKISTAN
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/tWMD8u0Wok0o03BT192917485703.m3u8
 
