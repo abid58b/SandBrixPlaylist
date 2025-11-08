@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "690c99bcbffb0fd323b3b025",
-            "name": "SOUTH AFRICA VS PAKISTAN",
-            "category_name": "Cricket",
-            "tour_id": "690620b3bffb0fd323b3afff",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "Quarterfinal 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T04:50:00.000Z",
-            "team_a": {
-                "id": "69061ef326e686b9e7f06fb2",
-                "name": "SOUTH AFRICA",
-                "short_name": "SOUTH AFRICA",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008816119-364634427.webp"
-            },
-            "team_b": {
-                "id": "69061eaf5cd15a166b052b3e",
-                "name": "PAKISTAN",
-                "short_name": "PAKISTAN",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008747920-506839434.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433459291-135301217.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94393,
-            "content_zone_id": ""
-        },
-        {
             "id": "690c99fe5cd15a166b052b68",
             "name": "NEPAL VS INDIA",
             "category_name": "Cricket",
