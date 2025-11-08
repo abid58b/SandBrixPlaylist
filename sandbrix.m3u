@@ -4,7 +4,11 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
 
-#EXTINF:-1 tvg-id="690c99fe5cd15a166b052b68" tvg-name="NEPAL VS INDIA" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762433530771-704128775.webp" group-title="Live",NEPAL VS INDIA
+#EXTINF:-1 tvg-id="690a054c717169d26d40faab" tvg-name="Kooh Sports VS N.E. Railway" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762264392405-47563292.webp" group-title="Live",Kooh Sports VS N.E. Railway
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
+
+#EXTINF:-1 tvg-id="690c9a41717169d26d40fac5" tvg-name="UNITED ARAB EMIRATES VS SRI LANKA" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762433598266-309609034.webp" group-title="Live",UNITED ARAB EMIRATES VS SRI LANKA
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/tWMD8u0Wok0o03BT192917485703.m3u8
 
