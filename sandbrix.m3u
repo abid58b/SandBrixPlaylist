@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="690a050e26e686b9e7f06fc8" tvg-name="DCA Barabanki VS G.C.R.G" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762264329833-74463482.webp" group-title="Live",DCA Barabanki VS G.C.R.G
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
-
 #EXTINF:-1 tvg-id="690a054c717169d26d40faab" tvg-name="Kooh Sports VS N.E. Railway" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762264392405-47563292.webp" group-title="Live",Kooh Sports VS N.E. Railway
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
