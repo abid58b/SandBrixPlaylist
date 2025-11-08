@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
 
+#EXTINF:-1 tvg-id="690c99fe5cd15a166b052b68" tvg-name="NEPAL VS INDIA" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762433530771-704128775.webp" group-title="Live",NEPAL VS INDIA
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/tWMD8u0Wok0o03BT192917485703.m3u8
+
