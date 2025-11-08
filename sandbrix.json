@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "690c9a84717169d26d40fac6",
-            "name": "HONG KONG, CHINA VS ENGLAND",
-            "category_name": "Cricket",
-            "tour_id": "690620b3bffb0fd323b3afff",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "Quarterfinal 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T07:35:00.000Z",
-            "team_a": {
-                "id": "690620125cd15a166b052b41",
-                "name": "HONG KONG, CHINA",
-                "short_name": "HONG KONG, CHINA",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762009102836-379100618.webp"
-            },
-            "team_b": {
-                "id": "69061f5f26e686b9e7f06fb3",
-                "name": "ENGLAND",
-                "short_name": "ENGLAND",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008923774-991504777.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433664666-112877660.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94396,
-            "content_zone_id": ""
-        },
-        {
             "id": "67fe2ff41168d5ef554e9919",
             "name": "Australia VS India",
             "category_name": "Cricket",
