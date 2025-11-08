@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "690c997b5cd15a166b052b67",
-            "name": "AUSTRALIA VS BANGLADESH",
-            "category_name": "Cricket",
-            "tour_id": "690620b3bffb0fd323b3afff",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "Quarterfinal 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T03:55:00.000Z",
-            "team_a": {
-                "id": "69061e8e717169d26d40fa82",
-                "name": "AUSTRALIA",
-                "short_name": "AUSTRALIA",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008713573-281171402.webp"
-            },
-            "team_b": {
-                "id": "69061f3ebffb0fd323b3affd",
-                "name": "BANGLADESH",
-                "short_name": "BANGLADESH",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008891944-128774669.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433400195-205879292.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94392,
-            "content_zone_id": ""
-        },
-        {
             "id": "690c99bcbffb0fd323b3b025",
             "name": "SOUTH AFRICA VS PAKISTAN",
             "category_name": "Cricket",
