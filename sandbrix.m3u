@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="690c98bb717169d26d40fac4" tvg-name="-TBC- VS SRI LANKA" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762433208039-204285240.webp" group-title="Live",-TBC- VS SRI LANKA
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/tWMD8u0Wok0o03BT192917485703.m3u8
+

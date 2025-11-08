@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "690b620926e686b9e7f06fd2",
-            "name": "INDIA VS KUWAIT",
-            "category_name": "Cricket",
-            "tour_id": "690620b3bffb0fd323b3afff",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-08",
-            "start_date_time": "2025-11-08T01:10:00.000Z",
-            "team_a": {
-                "id": "69061e6dbffb0fd323b3affb",
-                "name": "INDIA",
-                "short_name": "INDIA",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008681598-891489556.webp"
-            },
-            "team_b": {
-                "id": "69061f905cd15a166b052b40",
-                "name": "KUWAIT",
-                "short_name": "KUWAIT",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008973385-598802684.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762353653547-691056114.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94389,
-            "content_zone_id": ""
-        },
-        {
             "id": "690c98bb717169d26d40fac4",
             "name": "-TBC- VS SRI LANKA",
             "category_name": "Cricket",
