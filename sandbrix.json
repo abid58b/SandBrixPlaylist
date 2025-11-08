@@ -3,104 +3,191 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68fb83294517c5f2602e1cb4",
-            "name": "Northern District VS Canterbury Kings",
+            "id": "690b620926e686b9e7f06fd2",
+            "name": "INDIA VS KUWAIT",
             "category_name": "Cricket",
-            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
-            },
-            "team_b": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313575381-470328854.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68fb82f8ca36150098b0411c",
-            "name": "Wellington Firebirds VS Otago Volts",
-            "category_name": "Cricket",
-            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa37fbefea2a9ef3a8c3d4",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
-            },
-            "team_b": {
-                "id": "68fa38479875ed29f29a485d",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228870014-296651115.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313524783-851645186.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68fb82c09875ed29f29a486d",
-            "name": "Auckland Aces VS Central Stags",
-            "category_name": "Cricket",
-            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
-            "tour_name": "The Ford Trophy 2025-26",
+            "tour_id": "690620b3bffb0fd323b3afff",
+            "tour_name": "Hong Kong Sixes 2025",
             "match_no": "12",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T21:00:00.000Z",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T01:10:00.000Z",
             "team_a": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+                "id": "69061e6dbffb0fd323b3affb",
+                "name": "INDIA",
+                "short_name": "INDIA",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008681598-891489556.webp"
             },
             "team_b": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+                "id": "69061f905cd15a166b052b40",
+                "name": "KUWAIT",
+                "short_name": "KUWAIT",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008973385-598802684.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313470633-470311484.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762353653547-691056114.webp",
+            "venue": "Mission Road Ground ,Mong Kok",
+            "score_match_id": 94389,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690c98bb717169d26d40fac4",
+            "name": "-TBC- VS SRI LANKA",
+            "category_name": "Cricket",
+            "tour_id": "690620b3bffb0fd323b3afff",
+            "tour_name": "Hong Kong Sixes 2025",
+            "match_no": "Bowl Match 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T02:05:00.000Z",
+            "team_a": {
+                "id": "685d0092af31156326a44f54",
+                "name": "-TBC-",
+                "short_name": "-TBC-",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750925457232-428849621.png"
+            },
+            "team_b": {
+                "id": "69061ed0bffb0fd323b3affc",
+                "name": "SRI LANKA",
+                "short_name": "SRI LANKA",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008780772-63156404.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433208039-204285240.webp",
+            "venue": "Mission Road Ground ,Mong Kok",
+            "score_match_id": 94390,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690a050e26e686b9e7f06fc8",
+            "name": "DCA Barabanki VS G.C.R.G",
+            "category_name": "Cricket",
+            "tour_id": "690a0119717169d26d40faa5",
+            "tour_name": "G.C.R.G State Level Championship 2025",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T02:30:00.000Z",
+            "team_a": {
+                "id": "6909ff75bffb0fd323b3b012",
+                "name": "DCA Barabanki",
+                "short_name": "DCA Barabanki",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762262898700-191436673.webp"
+            },
+            "team_b": {
+                "id": "6909ff9c26e686b9e7f06fc5",
+                "name": "G.C.R.G",
+                "short_name": "G.C.R.G",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762262935827-631858088.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762264329833-74463482.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
         },
         {
-            "id": "690b61bb5cd15a166b052b61",
-            "name": "SOUTH AFRICA VS NEPAL",
+            "id": "690c993a5cd15a166b052b66",
+            "name": "UNITED ARAB EMIRATES VS -TBC-",
             "category_name": "Cricket",
             "tour_id": "690620b3bffb0fd323b3afff",
             "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "11",
+            "match_no": "Bowl Match 2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-11-07",
-            "start_date_time": "2025-11-07T23:45:00.000Z",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T03:00:00.000Z",
+            "team_a": {
+                "id": "69061fcabffb0fd323b3affe",
+                "name": "UNITED ARAB EMIRATES",
+                "short_name": "UNITED ARAB EMIRATES",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762009030743-776611443.webp"
+            },
+            "team_b": {
+                "id": "685d0092af31156326a44f54",
+                "name": "-TBC-",
+                "short_name": "-TBC-",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750925457232-428849621.png"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433336194-430999551.webp",
+            "venue": "Mission Road Ground ,Mong Kok",
+            "score_match_id": 94391,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690c997b5cd15a166b052b67",
+            "name": "AUSTRALIA VS BANGLADESH",
+            "category_name": "Cricket",
+            "tour_id": "690620b3bffb0fd323b3afff",
+            "tour_name": "Hong Kong Sixes 2025",
+            "match_no": "Quarterfinal 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T03:55:00.000Z",
+            "team_a": {
+                "id": "69061e8e717169d26d40fa82",
+                "name": "AUSTRALIA",
+                "short_name": "AUSTRALIA",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008713573-281171402.webp"
+            },
+            "team_b": {
+                "id": "69061f3ebffb0fd323b3affd",
+                "name": "BANGLADESH",
+                "short_name": "BANGLADESH",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008891944-128774669.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433400195-205879292.webp",
+            "venue": "Mission Road Ground ,Mong Kok",
+            "score_match_id": 94392,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690c99bcbffb0fd323b3b025",
+            "name": "-TBC- VS -TBC-",
+            "category_name": "Cricket",
+            "tour_id": "690620b3bffb0fd323b3afff",
+            "tour_name": "Hong Kong Sixes 2025",
+            "match_no": "Quarterfinal 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T04:50:00.000Z",
+            "team_a": {
+                "id": "685d0092af31156326a44f54",
+                "name": "-TBC-",
+                "short_name": "-TBC-",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750925457232-428849621.png"
+            },
+            "team_b": {
+                "id": "685d0092af31156326a44f54",
+                "name": "-TBC-",
+                "short_name": "-TBC-",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750925457232-428849621.png"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433459291-135301217.webp",
+            "venue": "Mission Road Ground ,Mong Kok",
+            "score_match_id": 94393,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690c99fe5cd15a166b052b68",
+            "name": "SOUTH AFRICA VS -TBC-",
+            "category_name": "Cricket",
+            "tour_id": "690620b3bffb0fd323b3afff",
+            "tour_name": "Hong Kong Sixes 2025",
+            "match_no": "Bowl Match 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T05:45:00.000Z",
             "team_a": {
                 "id": "69061ef326e686b9e7f06fb2",
                 "name": "SOUTH AFRICA",
@@ -108,14 +195,217 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008816119-364634427.webp"
             },
             "team_b": {
-                "id": "69061ff0717169d26d40fa83",
-                "name": "NEPAL",
-                "short_name": "NEPAL",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762009066302-850093421.webp"
+                "id": "685d0092af31156326a44f54",
+                "name": "-TBC-",
+                "short_name": "-TBC-",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750925457232-428849621.png"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762353591459-792007536.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433530771-704128775.webp",
             "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94388,
+            "score_match_id": 94394,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690a054c717169d26d40faab",
+            "name": "Kooh Sports VS N.E. Railway",
+            "category_name": "Cricket",
+            "tour_id": "690a0119717169d26d40faa5",
+            "tour_name": "G.C.R.G State Level Championship 2025",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T06:30:00.000Z",
+            "team_a": {
+                "id": "690a006b717169d26d40faa4",
+                "name": "Kooh Sports",
+                "short_name": "Kooh Sports",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762263143405-867667705.webp"
+            },
+            "team_b": {
+                "id": "690a009426e686b9e7f06fc7",
+                "name": "N.E. Railway",
+                "short_name": "N.E. Railway",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762263184669-726099541.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762264392405-47563292.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690c9a41717169d26d40fac5",
+            "name": "UNITED ARAB EMIRATES VS SRI LANKA",
+            "category_name": "Cricket",
+            "tour_id": "690620b3bffb0fd323b3afff",
+            "tour_name": "Hong Kong Sixes 2025",
+            "match_no": "Bowl Match 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T06:40:00.000Z",
+            "team_a": {
+                "id": "69061fcabffb0fd323b3affe",
+                "name": "UNITED ARAB EMIRATES",
+                "short_name": "UNITED ARAB EMIRATES",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762009030743-776611443.webp"
+            },
+            "team_b": {
+                "id": "69061ed0bffb0fd323b3affc",
+                "name": "SRI LANKA",
+                "short_name": "SRI LANKA",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008780772-63156404.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433598266-309609034.webp",
+            "venue": "Mission Road Ground ,Mong Kok",
+            "score_match_id": 94395,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690c9a84717169d26d40fac6",
+            "name": "HONG KONG, CHINA VS ENGLAND",
+            "category_name": "Cricket",
+            "tour_id": "690620b3bffb0fd323b3afff",
+            "tour_name": "Hong Kong Sixes 2025",
+            "match_no": "Quarterfinal 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T07:35:00.000Z",
+            "team_a": {
+                "id": "690620125cd15a166b052b41",
+                "name": "HONG KONG, CHINA",
+                "short_name": "HONG KONG, CHINA",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762009102836-379100618.webp"
+            },
+            "team_b": {
+                "id": "69061f5f26e686b9e7f06fb3",
+                "name": "ENGLAND",
+                "short_name": "ENGLAND",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008923774-991504777.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433664666-112877660.webp",
+            "venue": "Mission Road Ground ,Mong Kok",
+            "score_match_id": 94396,
+            "content_zone_id": ""
+        },
+        {
+            "id": "67fe2ff41168d5ef554e9919",
+            "name": "Australia VS India",
+            "category_name": "Cricket",
+            "tour_id": "67fd0183aca1728cb8f17393",
+            "tour_name": "India Tour of Australia 2025",
+            "match_no": "5th T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T07:45:00.000Z",
+            "team_a": {
+                "id": "66d44a7d3b04cf3cd8eb9361",
+                "name": "Australia",
+                "short_name": "Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744617949741-168826235.png"
+            },
+            "team_b": {
+                "id": "671bc13b3cea6bb9b2cb5ac8",
+                "name": "India",
+                "short_name": "India",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744634115359-677821889.png"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1759736420047-647612066.webp",
+            "venue": "The Gabba ,Brisbane",
+            "score_match_id": 89052,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690c9abe717169d26d40fac7",
+            "name": "-TBC- VS -TBC-",
+            "category_name": "Cricket",
+            "tour_id": "690620b3bffb0fd323b3afff",
+            "tour_name": "Hong Kong Sixes 2025",
+            "match_no": "Quarterfinal 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T08:30:00.000Z",
+            "team_a": {
+                "id": "685d0092af31156326a44f54",
+                "name": "-TBC-",
+                "short_name": "-TBC-",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750925457232-428849621.png"
+            },
+            "team_b": {
+                "id": "685d0092af31156326a44f54",
+                "name": "-TBC-",
+                "short_name": "-TBC-",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750925457232-428849621.png"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433723408-933754651.webp",
+            "venue": "Mission Road Ground ,Mong Kok",
+            "score_match_id": 94397,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68d535a1050ee9aed47ce9f2",
+            "name": "Pakistan VS South Africa",
+            "category_name": "Cricket",
+            "tour_id": "68d53321050ee9aed47ce9f0",
+            "tour_name": "South Africa tour of Pakistan, 2025",
+            "match_no": "3rd ODI",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T09:30:00.000Z",
+            "team_a": {
+                "id": "671bc2de68d746820ca1213c",
+                "name": "Pakistan",
+                "short_name": "Pakistan",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802312421-733434137.webp"
+            },
+            "team_b": {
+                "id": "66e81f0347f6bd8cb61c148b",
+                "name": "South Africa",
+                "short_name": "South Africa",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758802334900-982909890.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1758803359770-503047247.webp",
+            "venue": "Iqbal Stadium ,Faisalabad",
+            "score_match_id": 93756,
+            "content_zone_id": ""
+        },
+        {
+            "id": "690c9b02717169d26d40fac8",
+            "name": "-TBC- VS -TBC-",
+            "category_name": "Cricket",
+            "tour_id": "690620b3bffb0fd323b3afff",
+            "tour_name": "Hong Kong Sixes 2025",
+            "match_no": "Bowl Match 5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-08",
+            "start_date_time": "2025-11-08T23:45:00.000Z",
+            "team_a": {
+                "id": "685d0092af31156326a44f54",
+                "name": "-TBC-",
+                "short_name": "-TBC-",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750925457232-428849621.png"
+            },
+            "team_b": {
+                "id": "685d0092af31156326a44f54",
+                "name": "-TBC-",
+                "short_name": "-TBC-",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1750925457232-428849621.png"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762433790853-445990980.webp",
+            "venue": "Mission Road Ground ,Mong Kok",
+            "score_match_id": 94398,
             "content_zone_id": ""
         }
     ]
