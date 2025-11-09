@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "690c9bd4bffb0fd323b3b026",
-            "name": "BANGLADESH VS SOUTH AFRICA",
-            "category_name": "Cricket",
-            "tour_id": "690620b3bffb0fd323b3afff",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "Plate Semifinal 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T01:10:00.000Z",
-            "team_a": {
-                "id": "69061f3ebffb0fd323b3affd",
-                "name": "BANGLADESH",
-                "short_name": "BANGLADESH",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008891944-128774669.webp"
-            },
-            "team_b": {
-                "id": "69061ef326e686b9e7f06fb2",
-                "name": "SOUTH AFRICA",
-                "short_name": "SOUTH AFRICA",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008816119-364634427.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762434001877-235278758.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94399,
-            "content_zone_id": ""
-        },
-        {
             "id": "690c9c12bffb0fd323b3b027",
             "name": "HONG KONG, CHINA VS AFGHANISTAN",
             "category_name": "Cricket",
