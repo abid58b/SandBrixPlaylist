@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "690c9d38bffb0fd323b3b02a",
-            "name": "SRI LANKA VS UNITED ARAB EMIRATES",
-            "category_name": "Cricket",
-            "tour_id": "690620b3bffb0fd323b3afff",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "Bowl Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T06:00:00.000Z",
-            "team_a": {
-                "id": "69061ed0bffb0fd323b3affc",
-                "name": "SRI LANKA",
-                "short_name": "SRI LANKA",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008780772-63156404.webp"
-            },
-            "team_b": {
-                "id": "69061fcabffb0fd323b3affe",
-                "name": "UNITED ARAB EMIRATES",
-                "short_name": "UNITED ARAB EMIRATES",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762009030743-776611443.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762434356420-678591157.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94404,
-            "content_zone_id": ""
-        },
-        {
             "id": "690c9d725cd15a166b052b69",
             "name": "BANGLADESH VS HONG KONG, CHINA",
             "category_name": "Cricket",
