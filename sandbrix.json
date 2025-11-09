@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "690c9db3717169d26d40fac9",
-            "name": "PAKISTAN VS KUWAIT",
-            "category_name": "Cricket",
-            "tour_id": "690620b3bffb0fd323b3afff",
-            "tour_name": "Hong Kong Sixes 2025",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-09",
-            "start_date_time": "2025-11-09T08:00:00.000Z",
-            "team_a": {
-                "id": "69061eaf5cd15a166b052b3e",
-                "name": "PAKISTAN",
-                "short_name": "PAKISTAN",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008747920-506839434.webp"
-            },
-            "team_b": {
-                "id": "69061f905cd15a166b052b40",
-                "name": "KUWAIT",
-                "short_name": "KUWAIT",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762008973385-598802684.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762434480565-654705254.webp",
-            "venue": "Mission Road Ground ,Mong Kok",
-            "score_match_id": 94406,
-            "content_zone_id": ""
-        },
-        {
             "id": "68ea5bb01074534e14287973",
             "name": "New South Wales VS Victoria",
             "category_name": "Cricket",
