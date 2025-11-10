@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="690a05de5cd15a166b052b56" tvg-name="G.C.R.G VS Kooh Sports" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762264538863-448170222.webp" group-title="Live",G.C.R.G VS Kooh Sports
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
+
