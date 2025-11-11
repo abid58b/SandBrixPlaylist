@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/Cq2zHWf2OUOxPFV4163019881626.m3u8
 
+#EXTINF:-1 tvg-id="690a0675717169d26d40faad" tvg-name="N.E. Railway VS G.C.R.G" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762264690860-29796408.webp" group-title="Live",N.E. Railway VS G.C.R.G
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
+
