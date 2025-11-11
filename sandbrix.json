@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "690a0675717169d26d40faad",
-            "name": "N.E. Railway VS G.C.R.G",
-            "category_name": "Cricket",
-            "tour_id": "690a0119717169d26d40faa5",
-            "tour_name": "G.C.R.G State Level Championship 2025",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-11",
-            "start_date_time": "2025-11-11T02:30:00.000Z",
-            "team_a": {
-                "id": "690a009426e686b9e7f06fc7",
-                "name": "N.E. Railway",
-                "short_name": "N.E. Railway",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762263184669-726099541.webp"
-            },
-            "team_b": {
-                "id": "6909ff9c26e686b9e7f06fc5",
-                "name": "G.C.R.G",
-                "short_name": "G.C.R.G",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762262935827-631858088.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762264690860-29796408.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "690a07045cd15a166b052b57",
             "name": "DCA Barabanki VS Kooh Sports",
             "category_name": "Cricket",
@@ -119,6 +90,35 @@
             "content_zone_id": ""
         },
         {
+            "id": "68fb83c94517c5f2602e1cb6",
+            "name": "Canterbury Kings VS Central Stags",
+            "category_name": "Cricket",
+            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+            },
+            "team_b": {
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313735916-411102144.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 92660,
+            "content_zone_id": ""
+        },
+        {
             "id": "68fb835fefea2a9ef3a8c3e2",
             "name": "Northern District VS Otago Volts",
             "category_name": "Cricket",
@@ -174,35 +174,6 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313681340-665774708.webp",
             "venue": "Basin Reserve ,Wellington",
             "score_match_id": 92661,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68fb83c94517c5f2602e1cb6",
-            "name": "Canterbury Kings VS Central Stags",
-            "category_name": "Cricket",
-            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "15",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-11",
-            "start_date_time": "2025-11-11T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "team_b": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313735916-411102144.webp",
-            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
-            "score_match_id": 92660,
             "content_zone_id": ""
         }
     ]
