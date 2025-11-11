@@ -90,32 +90,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "68fb83c94517c5f2602e1cb6",
-            "name": "Canterbury Kings VS Central Stags",
+            "id": "68fb83944517c5f2602e1cb5",
+            "name": "Wellington Firebirds VS Auckland Aces",
             "category_name": "Cricket",
             "tour_id": "68fa38c6efea2a9ef3a8c3d6",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "15",
+            "match_no": "13",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-11",
             "start_date_time": "2025-11-11T21:00:00.000Z",
             "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+                "id": "68fa37fbefea2a9ef3a8c3d4",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
             },
             "team_b": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313735916-411102144.webp",
-            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
-            "score_match_id": 92660,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313681340-665774708.webp",
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92661,
             "content_zone_id": ""
         },
         {
@@ -148,32 +148,61 @@
             "content_zone_id": ""
         },
         {
-            "id": "68fb83944517c5f2602e1cb5",
-            "name": "Wellington Firebirds VS Auckland Aces",
+            "id": "68fb83c94517c5f2602e1cb6",
+            "name": "Canterbury Kings VS Central Stags",
             "category_name": "Cricket",
             "tour_id": "68fa38c6efea2a9ef3a8c3d6",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "13",
+            "match_no": "15",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-11",
             "start_date_time": "2025-11-11T21:00:00.000Z",
             "team_a": {
-                "id": "68fa37fbefea2a9ef3a8c3d4",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
             },
             "team_b": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313681340-665774708.webp",
-            "venue": "Basin Reserve ,Wellington",
-            "score_match_id": 92661,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313735916-411102144.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 92660,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68ea5bb01074534e14287973",
+            "name": "New South Wales VS Victoria",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "10 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-11",
+            "start_date_time": "2025-11-11T23:10:00.000Z",
+            "team_a": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681849705-822802914.webp"
+            },
+            "team_b": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760189356171-144582921.webp",
+            "venue": "Sydney Cricket Ground ,Sydney",
+            "score_match_id": 92854,
             "content_zone_id": ""
         }
     ]
