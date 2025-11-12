@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "690a077fbffb0fd323b3b014",
-            "name": "Lucknow CA VS G.C.R.G",
-            "category_name": "Cricket",
-            "tour_id": "690a0119717169d26d40faa5",
-            "tour_name": "G.C.R.G State Level Championship 2025",
-            "match_no": "Semifinal - 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-12",
-            "start_date_time": "2025-11-12T06:30:00.000Z",
-            "team_a": {
-                "id": "6909ffba5cd15a166b052b53",
-                "name": "Lucknow CA",
-                "short_name": "Lucknow CA",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762262967577-484141450.webp"
-            },
-            "team_b": {
-                "id": "6909ff9c26e686b9e7f06fc5",
-                "name": "G.C.R.G",
-                "short_name": "G.C.R.G",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762262935827-631858088.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762264955762-155984840.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
