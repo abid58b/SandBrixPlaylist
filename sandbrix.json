@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "690a07445cd15a166b052b58",
-            "name": "Kooh Sports VS DCA Behraich",
-            "category_name": "Cricket",
-            "tour_id": "690a0119717169d26d40faa5",
-            "tour_name": "G.C.R.G State Level Championship 2025",
-            "match_no": "Semifinal - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-12",
-            "start_date_time": "2025-11-12T02:30:00.000Z",
-            "team_a": {
-                "id": "690a006b717169d26d40faa4",
-                "name": "Kooh Sports",
-                "short_name": "Kooh Sports",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762263143405-867667705.webp"
-            },
-            "team_b": {
-                "id": "690a001126e686b9e7f06fc6",
-                "name": "DCA Behraich",
-                "short_name": "DCA Behraich",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762263054004-906812639.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762264896336-934130039.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "690a077fbffb0fd323b3b014",
             "name": "Lucknow CA VS G.C.R.G",
             "category_name": "Cricket",
