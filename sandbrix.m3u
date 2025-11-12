@@ -1,22 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68fb83c94517c5f2602e1cb6" tvg-name="Canterbury Kings VS Central Stags" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761313735916-411102144.webp" group-title="Live",Canterbury Kings VS Central Stags
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/vC19gZapiqRVC2ry35467275934172.m3u8
-
-#EXTINF:-1 tvg-id="68fb835fefea2a9ef3a8c3e2" tvg-name="Northern District VS Otago Volts" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761313629584-557418909.webp" group-title="Live",Northern District VS Otago Volts
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
-#EXTINF:-1 tvg-id="68fb83944517c5f2602e1cb5" tvg-name="Wellington Firebirds VS Auckland Aces" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761313681340-665774708.webp" group-title="Live",Wellington Firebirds VS Auckland Aces
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
-
-#EXTINF:-1 tvg-id="68ea5bb01074534e14287973" tvg-name="New South Wales VS Victoria" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760189356171-144582921.webp" group-title="Live",New South Wales VS Victoria
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/CnqXNydEKEunPd6x3815480106805843.m3u8
-
-#EXTINF:-1 tvg-id="68ea5bffd52b688f1f6b5a44" tvg-name="Tasmania Tiger VS South Australia" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760189436695-763096451.webp" group-title="Live",Tasmania Tiger VS South Australia
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
-
