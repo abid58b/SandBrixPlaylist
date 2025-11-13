@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "68ea5c5fdf96a5f1e9e01af6",
-            "name": "Western Australia VS Queensland Bulls",
-            "category_name": "Cricket",
-            "tour_id": "68df662addd581736c30e938",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "12 | Day - 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-13",
-            "start_date_time": "2025-11-13T02:00:00.000Z",
-            "team_a": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681947890-528959156.webp"
-            },
-            "team_b": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760189531126-224869427.webp",
-            "venue": "W.A.C.A. Ground ,Perth",
-            "score_match_id": 92856,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
