@@ -119,6 +119,93 @@
             "content_zone_id": ""
         },
         {
+            "id": "6916be26561e093c03fc2d2a",
+            "name": "Central Hinds VS Canterbury Magicians",
+            "category_name": "Cricket",
+            "tour_id": "6915eb3a0d68b43a40ecf54f",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e9b821b7758c81365622",
+                "name": "Central Hinds",
+                "short_name": "Central Hinds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043766706-796324034.webp"
+            },
+            "team_b": {
+                "id": "6915e9a60398da67b4a9ab46",
+                "name": "Canterbury Magicians",
+                "short_name": "Canterbury Magicians",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043748995-694996528.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763098146786-378216578.webp",
+            "venue": "Pukekura Park ,New Plymouth",
+            "score_match_id": 93611,
+            "content_zone_id": ""
+        },
+        {
+            "id": "6916be88561e093c03fc2d2c",
+            "name": "Otago Sparks VS Auckland Hearts",
+            "category_name": "Cricket",
+            "tour_id": "6915eb3a0d68b43a40ecf54f",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T21:00:00.000Z",
+            "team_a": {
+                "id": "6915ea070d68b43a40ecf54e",
+                "name": "Otago Sparks",
+                "short_name": "Otago Sparks",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043845017-210552058.webp"
+            },
+            "team_b": {
+                "id": "6915e9f121b7758c81365623",
+                "name": "Auckland Hearts",
+                "short_name": "Auckland Hearts",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043824208-780152100.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763098245627-860654013.webp",
+            "venue": "University Oval ,Dunedin",
+            "score_match_id": 93613,
+            "content_zone_id": ""
+        },
+        {
+            "id": "6916be58561e093c03fc2d2b",
+            "name": "Northern District Women VS Wellington Blaze",
+            "category_name": "Cricket",
+            "tour_id": "6915eb3a0d68b43a40ecf54f",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-14",
+            "start_date_time": "2025-11-14T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e9df0398da67b4a9ab47",
+                "name": "Northern District Women",
+                "short_name": "Northern District Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043805908-362563965.webp"
+            },
+            "team_b": {
+                "id": "6915e9cd561e093c03fc2d29",
+                "name": "Wellington Blaze",
+                "short_name": "Wellington Blaze",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043785176-936690363.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763098197358-910949414.webp",
+            "venue": "Cobham Ovall ,Whangarei",
+            "score_match_id": 93612,
+            "content_zone_id": ""
+        },
+        {
             "id": "68dd2afbddd581736c30e930",
             "name": "Tasmania Tigers VS South Australia",
             "category_name": "Cricket",
