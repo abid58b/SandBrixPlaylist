@@ -8,3 +8,7 @@ https://ams.sandbrix.live/LiveApp/streams/Cq2zHWf2OUOxPFV4163019881626.m3u8
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
 
+#EXTINF:-1 tvg-id="6901c21c26e686b9e7f06f82" tvg-name="Pakistan VS Sri Lanka" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761722904207-34014234.webp" group-title="Live",Pakistan VS Sri Lanka
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
+
