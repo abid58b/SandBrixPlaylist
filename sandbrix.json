@@ -32,32 +32,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "691885710d68b43a40ecf561",
-            "name": "Canterbury Kings VS Northern District",
+            "id": "691884e30d68b43a40ecf55f",
+            "name": "Central Stags VS Auckland Aces",
             "category_name": "Cricket",
             "tour_id": "6918846821b7758c8136563a",
             "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 3 Day 1",
+            "match_no": "Match - 1 Day 1",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-17",
             "start_date_time": "2025-11-17T21:00:00.000Z",
             "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
             },
             "team_b": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214702148-12250137.webp",
-            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
-            "score_match_id": 92903,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214559003-792814005.webp",
+            "venue": "Fitzherbert Park ,Palmerston North",
+            "score_match_id": 92901,
             "content_zone_id": ""
         },
         {
@@ -90,32 +90,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "691884e30d68b43a40ecf55f",
-            "name": "Central Stags VS Auckland Aces",
+            "id": "691885710d68b43a40ecf561",
+            "name": "Canterbury Kings VS Northern District",
             "category_name": "Cricket",
             "tour_id": "6918846821b7758c8136563a",
             "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 1 Day 1",
+            "match_no": "Match - 3 Day 1",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-17",
             "start_date_time": "2025-11-17T21:00:00.000Z",
             "team_a": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
             },
             "team_b": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214559003-792814005.webp",
-            "venue": "Fitzherbert Park ,Palmerston North",
-            "score_match_id": 92901,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214702148-12250137.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 92903,
             "content_zone_id": ""
         }
     ]
