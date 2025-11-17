@@ -1,5 +1,151 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "6910943d561e093c03fc2d0f",
+            "name": "Scotland Women VS Namibia Women",
+            "category_name": "Cricket",
+            "tour_id": "691093380d68b43a40ecf52c",
+            "tour_name": "Quadrangular Women's T20I Series in Thailand 2025",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-17",
+            "start_date_time": "2025-11-17T01:30:00.000Z",
+            "team_a": {
+                "id": "690f4f9d0d68b43a40ecf522",
+                "name": "Scotland Women",
+                "short_name": "Scotland Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762611099315-109066207.webp"
+            },
+            "team_b": {
+                "id": "66d84dba1cbb1c9739e6c109",
+                "name": "Namibia Women",
+                "short_name": "Namibia Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762611011560-126042976.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762694202567-55568308.webp",
+            "venue": "Terdthai Cricket Ground ,Bangkok",
+            "score_match_id": 94376,
+            "content_zone_id": ""
+        },
+        {
+            "id": "691094660d68b43a40ecf52d",
+            "name": "Thailand Women VS Papua New Guinea\tWomen",
+            "category_name": "Cricket",
+            "tour_id": "691093380d68b43a40ecf52c",
+            "tour_name": "Quadrangular Women's T20I Series in Thailand 2025",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-17",
+            "start_date_time": "2025-11-17T06:00:00.000Z",
+            "team_a": {
+                "id": "674ecefbe2cc6afe4b97daed",
+                "name": "Thailand Women",
+                "short_name": "Thailand Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762610991558-904608139.webp"
+            },
+            "team_b": {
+                "id": "690f4f6d0398da67b4a9ab1d",
+                "name": "Papua New Guinea\tWomen",
+                "short_name": "PNG Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762611050470-668369920.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762694242333-190952074.webp",
+            "venue": "Terdthai Cricket Ground ,Bangkok",
+            "score_match_id": 94377,
+            "content_zone_id": ""
+        },
+        {
+            "id": "691885710d68b43a40ecf561",
+            "name": "Canterbury Kings VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 3 Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-17",
+            "start_date_time": "2025-11-17T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+            },
+            "team_b": {
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214702148-12250137.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 92903,
+            "content_zone_id": ""
+        },
+        {
+            "id": "6918853a0d68b43a40ecf560",
+            "name": "Wellington Firebirds VS Otago",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 2 Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-17",
+            "start_date_time": "2025-11-17T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa37fbefea2a9ef3a8c3d4",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
+            },
+            "team_b": {
+                "id": "6918840421b7758c81365639",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214646972-480008638.webp",
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92902,
+            "content_zone_id": ""
+        },
+        {
+            "id": "691884e30d68b43a40ecf55f",
+            "name": "Central Stags VS Auckland Aces",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 1 Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-17",
+            "start_date_time": "2025-11-17T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+            },
+            "team_b": {
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214559003-792814005.webp",
+            "venue": "Fitzherbert Park ,Palmerston North",
+            "score_match_id": 92901,
+            "content_zone_id": ""
+        }
+    ]
 }
