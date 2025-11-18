@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6911ca5221b7758c81365610",
-            "name": "Sri Lanka Football VS Thailand Football",
-            "category_name": "Football",
-            "tour_id": "68467f381a9c64434bb9fb7e",
-            "tour_name": "AFC Asian Cup Qualification",
-            "match_no": "",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-18",
-            "start_date_time": "2025-11-18T09:30:00.000Z",
-            "team_a": {
-                "id": "68467e59014555282fc771bf",
-                "name": "Sri Lanka Football",
-                "short_name": "Sri Lanka Football",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1749450327466-154962207.png"
-            },
-            "team_b": {
-                "id": "6911c9aa0398da67b4a9ab2f",
-                "name": "Thailand Football",
-                "short_name": "Thailand Football",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762773414133-266759049.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762773541749-342137767.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "6900d2ed5cd15a166b052b14",
             "name": "Pakistan VS Zimbabwe",
             "category_name": "Cricket",
@@ -119,35 +90,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "691885710d68b43a40ecf561",
-            "name": "Canterbury Kings VS Northern District",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 3 Day 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-18",
-            "start_date_time": "2025-11-18T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "team_b": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214702148-12250137.webp",
-            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
-            "score_match_id": 92903,
-            "content_zone_id": ""
-        },
-        {
             "id": "691884e30d68b43a40ecf55f",
             "name": "Central Stags VS Auckland Aces",
             "category_name": "Cricket",
@@ -174,6 +116,35 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214559003-792814005.webp",
             "venue": "Fitzherbert Park ,Palmerston North",
             "score_match_id": 92901,
+            "content_zone_id": ""
+        },
+        {
+            "id": "691885710d68b43a40ecf561",
+            "name": "Canterbury Kings VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 3 Day 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-18",
+            "start_date_time": "2025-11-18T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+            },
+            "team_b": {
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214702148-12250137.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 92903,
             "content_zone_id": ""
         },
         {
