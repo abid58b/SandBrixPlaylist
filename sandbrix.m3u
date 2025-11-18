@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6911ca5221b7758c81365610" tvg-name="Sri Lanka Football VS Thailand Football" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762773541749-342137767.webp" group-title="Live",Sri Lanka Football VS Thailand Football
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
+
