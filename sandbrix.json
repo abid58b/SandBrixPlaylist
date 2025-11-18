@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "691b3571400a38f328371627",
-            "name": "Quetta Qavalry VS Northern Warriors",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-18",
-            "start_date_time": "2025-11-18T13:15:00.000Z",
-            "team_a": {
-                "id": "691b25a49ef48e06418772d0",
-                "name": "Quetta Qavalry",
-                "short_name": "Quetta Qavalry",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386787147-85925633.webp"
-            },
-            "team_b": {
-                "id": "673da6295479471b830a044f",
-                "name": "Northern Warriors",
-                "short_name": "Northern Warriors",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386955315-759372890.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763390830477-748481058.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94455,
-            "content_zone_id": ""
-        },
-        {
             "id": "691b3595400a38f328371628",
             "name": "Deccan Gladiators VS U.A.E. Bulls",
             "category_name": "Cricket",
@@ -71,7 +42,7 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-18",
-            "start_date_time": "2025-11-18T16:00:00.000Z",
+            "start_date_time": "2025-11-18T15:45:00.000Z",
             "team_a": {
                 "id": "673da2c69b1fbcd9a5703b58",
                 "name": "Deccan Gladiators",
@@ -87,35 +58,6 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763390868575-554876572.webp",
             "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
             "score_match_id": 94456,
-            "content_zone_id": ""
-        },
-        {
-            "id": "691885710d68b43a40ecf561",
-            "name": "Canterbury Kings VS Northern District",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 3 Day 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-18",
-            "start_date_time": "2025-11-18T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "team_b": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214702148-12250137.webp",
-            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
-            "score_match_id": 92903,
             "content_zone_id": ""
         },
         {
@@ -174,6 +116,35 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214646972-480008638.webp",
             "venue": "Basin Reserve ,Wellington",
             "score_match_id": 92902,
+            "content_zone_id": ""
+        },
+        {
+            "id": "691885710d68b43a40ecf561",
+            "name": "Canterbury Kings VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 3 Day 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-18",
+            "start_date_time": "2025-11-18T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+            },
+            "team_b": {
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214702148-12250137.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 92903,
             "content_zone_id": ""
         }
     ]
