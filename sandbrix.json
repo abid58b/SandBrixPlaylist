@@ -90,32 +90,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "691884e30d68b43a40ecf55f",
-            "name": "Central Stags VS Auckland Aces",
+            "id": "6918853a0d68b43a40ecf560",
+            "name": "Wellington Firebirds VS Otago",
             "category_name": "Cricket",
             "tour_id": "6918846821b7758c8136563a",
             "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 1 Day 2",
+            "match_no": "Match - 2 Day 2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-18",
             "start_date_time": "2025-11-18T21:00:00.000Z",
             "team_a": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+                "id": "68fa37fbefea2a9ef3a8c3d4",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
             },
             "team_b": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+                "id": "6918840421b7758c81365639",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214559003-792814005.webp",
-            "venue": "Fitzherbert Park ,Palmerston North",
-            "score_match_id": 92901,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214646972-480008638.webp",
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92902,
             "content_zone_id": ""
         },
         {
@@ -148,32 +148,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "6918853a0d68b43a40ecf560",
-            "name": "Wellington Firebirds VS Otago",
+            "id": "691884e30d68b43a40ecf55f",
+            "name": "Central Stags VS Auckland Aces",
             "category_name": "Cricket",
             "tour_id": "6918846821b7758c8136563a",
             "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 2 Day 2",
+            "match_no": "Match - 1 Day 2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-18",
             "start_date_time": "2025-11-18T21:00:00.000Z",
             "team_a": {
-                "id": "68fa37fbefea2a9ef3a8c3d4",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
             },
             "team_b": {
-                "id": "6918840421b7758c81365639",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214646972-480008638.webp",
-            "venue": "Basin Reserve ,Wellington",
-            "score_match_id": 92902,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214559003-792814005.webp",
+            "venue": "Fitzherbert Park ,Palmerston North",
+            "score_match_id": 92901,
             "content_zone_id": ""
         }
     ]

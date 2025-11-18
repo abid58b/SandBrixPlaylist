@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6900d2ed5cd15a166b052b14" tvg-name="Pakistan VS Zimbabwe" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761661669382-939117811.webp" group-title="Live",Pakistan VS Zimbabwe
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
+
