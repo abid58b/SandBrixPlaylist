@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="691b35c6400a38f328371629" tvg-name="Aspin Stallions VS Northern Warriors" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763390915456-86780105.webp" group-title="Live",Aspin Stallions VS Northern Warriors
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
+
