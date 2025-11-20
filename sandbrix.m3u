@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="691b3653ae7cda2cdf0e8ad6" tvg-name="Royal Champs VS Deccan Gladiators" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763391052183-606340255.webp" group-title="Live",Royal Champs VS Deccan Gladiators
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
+
