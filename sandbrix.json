@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691b3653ae7cda2cdf0e8ad6",
-            "name": "Royal Champs VS Deccan Gladiators",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-20",
-            "start_date_time": "2025-11-20T11:00:00.000Z",
-            "team_a": {
-                "id": "691b25bc400a38f328371626",
-                "name": "Royal Champs",
-                "short_name": "Royal Champs",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386810489-400596238.webp"
-            },
-            "team_b": {
-                "id": "673da2c69b1fbcd9a5703b58",
-                "name": "Deccan Gladiators",
-                "short_name": "Deccan Gladiators",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386937945-63060287.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763391052183-606340255.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94460,
-            "content_zone_id": ""
-        },
-        {
             "id": "6900d426bffb0fd323b3afc8",
             "name": "Sri Lanka VS Zimbabwe",
             "category_name": "Cricket",
