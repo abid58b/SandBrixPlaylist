@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6900d426bffb0fd323b3afc8",
-            "name": "Sri Lanka VS Zimbabwe",
-            "category_name": "Cricket",
-            "tour_id": "6900d24d5cd15a166b052b13",
-            "tour_name": "Pakistan T20I Tri-Series 2025",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-20",
-            "start_date_time": "2025-11-20T12:30:00.000Z",
-            "team_a": {
-                "id": "671bc3083cea6bb9b2cb5aca",
-                "name": "Sri Lanka",
-                "short_name": "Sri Lanka",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761661257099-160276659.webp"
-            },
-            "team_b": {
-                "id": "686e033af8e4d8c21da7bc86",
-                "name": "Zimbabwe",
-                "short_name": "Zimbabwe",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760778284702-41013794.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761661984182-957313335.webp",
-            "venue": "Rawalpindi Cricket Stadium ,Rawalpindi",
-            "score_match_id": 94298,
-            "content_zone_id": ""
-        },
-        {
             "id": "691b36a6ae7cda2cdf0e8ad8",
             "name": "Aspin Stallions VS Ajman Titans",
             "category_name": "Cricket",
