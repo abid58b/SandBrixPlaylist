@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "691b3679ae7cda2cdf0e8ad7",
-            "name": "U.A.E. Bulls VS Vista Riders",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-20",
-            "start_date_time": "2025-11-20T13:45:00.000Z",
-            "team_a": {
-                "id": "691b2601ae7cda2cdf0e8ad5",
-                "name": "U.A.E. Bulls",
-                "short_name": "U.A.E. Bulls",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386879234-650059996.webp"
-            },
-            "team_b": {
-                "id": "691b25d3a5953c6af3be656c",
-                "name": "Vista Riders",
-                "short_name": "Vista Riders",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386832590-48209637.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763391095914-547774446.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94461,
-            "content_zone_id": ""
-        },
-        {
             "id": "691b36a6ae7cda2cdf0e8ad8",
             "name": "Aspin Stallions VS Ajman Titans",
             "category_name": "Cricket",
