@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 
+#EXTINF:-1 tvg-id="691b36a6ae7cda2cdf0e8ad8" tvg-name="Aspin Stallions VS Ajman Titans" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763391141092-584639724.webp" group-title="Live",Aspin Stallions VS Ajman Titans
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
+
