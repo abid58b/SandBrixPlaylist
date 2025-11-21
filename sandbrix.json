@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69203a55d0b0fdbb565da498",
-            "name": "MORAGASMULLA SC VS PELICANS SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-21",
-            "start_date_time": "2025-11-21T10:00:00.000Z",
-            "team_a": {
-                "id": "6920396e50dafe260820f26a",
-                "name": "MORAGASMULLA SC",
-                "short_name": "MORAGASMULLA SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719527577-37536545.webp"
-            },
-            "team_b": {
-                "id": "69203998d0b0fdbb565da497",
-                "name": "PELICANS SC",
-                "short_name": "PELICANS",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719560123-135588507.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763719761783-991012419.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "691dc063400a38f32837163d",
             "name": "Deccan Gladiators VS Quetta Qavalry",
             "category_name": "Cricket",
