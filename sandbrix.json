@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69133d30561e093c03fc2d1d",
-            "name": "Australia VS England",
-            "category_name": "Cricket",
-            "tour_id": "69133c680398da67b4a9ab38",
-            "tour_name": "The Ashes 2025-26",
-            "match_no": "1st Test | Day - 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-21",
-            "start_date_time": "2025-11-21T01:50:00.000Z",
-            "team_a": {
-                "id": "66d44a7d3b04cf3cd8eb9361",
-                "name": "Australia",
-                "short_name": "Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744617949741-168826235.png"
-            },
-            "team_b": {
-                "id": "671bc2aa68d746820ca1213b",
-                "name": "England",
-                "short_name": "England",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762868218224-473389600.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762868523527-395538033.webp",
-            "venue": "Perth Stadium ,Perth",
-            "score_match_id": 84972,
-            "content_zone_id": ""
-        },
-        {
             "id": "69203a55d0b0fdbb565da498",
             "name": "MORAGASMULLA SC VS PELICANS SC",
             "category_name": "Football",
@@ -42,7 +13,7 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-21",
-            "start_date_time": "2025-11-21T10:30:00.000Z",
+            "start_date_time": "2025-11-21T10:00:00.000Z",
             "team_a": {
                 "id": "6920396e50dafe260820f26a",
                 "name": "MORAGASMULLA SC",
@@ -116,6 +87,35 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763557514320-380692831.webp",
             "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
             "score_match_id": 94464,
+            "content_zone_id": ""
+        },
+        {
+            "id": "69203b7f3bc500419986c42d",
+            "name": "SL POLICE SC VS SUPER SUN SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-21",
+            "start_date_time": "2025-11-21T14:00:00.000Z",
+            "team_a": {
+                "id": "692039bd3bc500419986c42b",
+                "name": "SL POLICE SC",
+                "short_name": "SL POLICE SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719610019-469747418.webp"
+            },
+            "team_b": {
+                "id": "692039dd50dafe260820f26b",
+                "name": "SUPER SUN SC",
+                "short_name": "SUPER SUN SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719642396-929413393.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763719842428-389542289.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         },
         {
