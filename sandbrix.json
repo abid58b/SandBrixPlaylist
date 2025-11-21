@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691dc08f400a38f32837163e",
-            "name": "Northern Warriors VS Ajman Titans",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-21",
-            "start_date_time": "2025-11-21T13:45:00.000Z",
-            "team_a": {
-                "id": "673da6295479471b830a044f",
-                "name": "Northern Warriors",
-                "short_name": "Northern Warriors",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386955315-759372890.webp"
-            },
-            "team_b": {
-                "id": "691b252ea5953c6af3be656b",
-                "name": "Ajman Titans",
-                "short_name": "Ajman Titans",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386665969-911115771.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763557514320-380692831.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94464,
-            "content_zone_id": ""
-        },
-        {
             "id": "69203b7f3bc500419986c42d",
             "name": "SL POLICE SC VS SUPER SUN SC",
             "category_name": "Football",
