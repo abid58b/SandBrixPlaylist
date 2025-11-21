@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691dc063400a38f32837163d",
-            "name": "Deccan Gladiators VS Quetta Qavalry",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-21",
-            "start_date_time": "2025-11-21T11:00:00.000Z",
-            "team_a": {
-                "id": "673da2c69b1fbcd9a5703b58",
-                "name": "Deccan Gladiators",
-                "short_name": "Deccan Gladiators",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386937945-63060287.webp"
-            },
-            "team_b": {
-                "id": "691b25a49ef48e06418772d0",
-                "name": "Quetta Qavalry",
-                "short_name": "Quetta Qavalry",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386787147-85925633.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763557470500-141632489.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94463,
-            "content_zone_id": ""
-        },
-        {
             "id": "691dc08f400a38f32837163e",
             "name": "Northern Warriors VS Ajman Titans",
             "category_name": "Cricket",

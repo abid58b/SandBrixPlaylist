@@ -1,6 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691dc063400a38f32837163d" tvg-name="Deccan Gladiators VS Quetta Qavalry" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763557470500-141632489.webp" group-title="Live",Deccan Gladiators VS Quetta Qavalry
+#EXTINF:-1 tvg-id="691dc08f400a38f32837163e" tvg-name="Northern Warriors VS Ajman Titans" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763557514320-380692831.webp" group-title="Live",Northern Warriors VS Ajman Titans
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
+
+#EXTINF:-1 tvg-id="69203b7f3bc500419986c42d" tvg-name="SL POLICE SC VS SUPER SUN SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763719842428-389542289.webp" group-title="Live",SL POLICE SC VS SUPER SUN SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
 
