@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69203b7f3bc500419986c42d",
-            "name": "SL POLICE SC VS SUPER SUN SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-21",
-            "start_date_time": "2025-11-21T14:00:00.000Z",
-            "team_a": {
-                "id": "692039bd3bc500419986c42b",
-                "name": "SL POLICE SC",
-                "short_name": "SL POLICE SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719610019-469747418.webp"
-            },
-            "team_b": {
-                "id": "692039dd50dafe260820f26b",
-                "name": "SUPER SUN SC",
-                "short_name": "SUPER SUN SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719642396-929413393.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763719842428-389542289.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "691dc0baa5953c6af3be657e",
             "name": "U.A.E. Bulls VS Royal Champs",
             "category_name": "Cricket",

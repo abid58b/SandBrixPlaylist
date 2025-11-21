@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69203b7f3bc500419986c42d" tvg-name="SL POLICE SC VS SUPER SUN SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763719842428-389542289.webp" group-title="Live",SL POLICE SC VS SUPER SUN SC
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
 #EXTINF:-1 tvg-id="691dc0baa5953c6af3be657e" tvg-name="U.A.E. Bulls VS Royal Champs" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763557559723-852946475.webp" group-title="Live",U.A.E. Bulls VS Royal Champs
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
