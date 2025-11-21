@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691ad2e7400a38f32837161f" tvg-name="Finals" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763365603322-739582815.webp" group-title="Live",Finals
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
-
 #EXTINF:-1 tvg-id="69133d30561e093c03fc2d1d" tvg-name="Australia VS England" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1762868523527-395538033.webp" group-title="Live",Australia VS England
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
