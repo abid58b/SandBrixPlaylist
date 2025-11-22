@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691dc0e1400a38f32837163f",
-            "name": "Ajman Titans VS Vista Riders",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-22",
-            "start_date_time": "2025-11-22T11:00:00.000Z",
-            "team_a": {
-                "id": "691b252ea5953c6af3be656b",
-                "name": "Ajman Titans",
-                "short_name": "Ajman Titans",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386665969-911115771.webp"
-            },
-            "team_b": {
-                "id": "691b25d3a5953c6af3be656c",
-                "name": "Vista Riders",
-                "short_name": "Vista Riders",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386832590-48209637.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763557596293-460366854.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94466,
-            "content_zone_id": ""
-        },
-        {
             "id": "6900d8bb717169d26d40fa49",
             "name": "Pakistan VS Sri Lanka",
             "category_name": "Cricket",
