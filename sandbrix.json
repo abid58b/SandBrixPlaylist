@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "691dc1099ef48e06418772e4",
-            "name": "Northern Warriors VS Deccan Gladiators",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "13",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-22",
-            "start_date_time": "2025-11-22T13:45:00.000Z",
-            "team_a": {
-                "id": "673da6295479471b830a044f",
-                "name": "Northern Warriors",
-                "short_name": "Northern Warriors",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386955315-759372890.webp"
-            },
-            "team_b": {
-                "id": "673da2c69b1fbcd9a5703b58",
-                "name": "Deccan Gladiators",
-                "short_name": "Deccan Gladiators",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386937945-63060287.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763557635637-755441781.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94467,
-            "content_zone_id": ""
-        },
-        {
             "id": "692069feb99189116c55de1c",
             "name": "SAUNDERS SC VS CRYSTAL PALACE FC",
             "category_name": "Football",
