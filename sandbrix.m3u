@@ -4,11 +4,11 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 
-#EXTINF:-1 tvg-id="691dc191a5953c6af3be657f" tvg-name="Quetta Qavalry VS Aspin Stallions" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763557774856-97544205.webp" group-title="Live",Quetta Qavalry VS Aspin Stallions
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
-
 #EXTINF:-1 tvg-id="69206a95b99189116c55de1d" tvg-name="NEW STAR SC VS NEGOMBO YOUTH FC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763732114119-404659880.webp" group-title="Live",NEW STAR SC VS NEGOMBO YOUTH FC
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
+
+#EXTINF:-1 tvg-id="691dc1b6a5953c6af3be6580" tvg-name="Northern Warriors VS Vista Riders" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763557811896-972286890.webp" group-title="Live",Northern Warriors VS Vista Riders
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
 

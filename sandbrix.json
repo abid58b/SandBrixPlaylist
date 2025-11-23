@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "691dc191a5953c6af3be657f",
-            "name": "Quetta Qavalry VS Aspin Stallions",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "16",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-23",
-            "start_date_time": "2025-11-23T13:45:00.000Z",
-            "team_a": {
-                "id": "691b25a49ef48e06418772d0",
-                "name": "Quetta Qavalry",
-                "short_name": "Quetta Qavalry",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386787147-85925633.webp"
-            },
-            "team_b": {
-                "id": "691b2591ae7cda2cdf0e8ad4",
-                "name": "Aspin Stallions",
-                "short_name": "Aspin Stallions",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386767156-689090503.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763557774856-97544205.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94470,
-            "content_zone_id": ""
-        },
-        {
             "id": "69206a95b99189116c55de1d",
             "name": "NEW STAR SC VS NEGOMBO YOUTH FC",
             "category_name": "Football",
