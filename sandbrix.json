@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691dc1b6a5953c6af3be6580",
-            "name": "Northern Warriors VS Vista Riders",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "17",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-23",
-            "start_date_time": "2025-11-23T16:00:00.000Z",
-            "team_a": {
-                "id": "673da6295479471b830a044f",
-                "name": "Northern Warriors",
-                "short_name": "Northern Warriors",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386955315-759372890.webp"
-            },
-            "team_b": {
-                "id": "691b25d3a5953c6af3be656c",
-                "name": "Vista Riders",
-                "short_name": "Vista Riders",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386832590-48209637.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763557811896-972286890.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94471,
-            "content_zone_id": ""
-        },
-        {
             "id": "68ea5cafd52b688f1f6b5a45",
             "name": "New South Wales VS Tasmania Tiger",
             "category_name": "Cricket",
