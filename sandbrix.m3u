@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 
+#EXTINF:-1 tvg-id="691dc1e6a5953c6af3be6581" tvg-name="Vista Riders VS Ajman Titans" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763557855138-868897604.webp" group-title="Live",Vista Riders VS Ajman Titans
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
+
