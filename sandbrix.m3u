@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6900d9775cd15a166b052b17" tvg-name="Sri Lanka VS Zimbabwe" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761663340057-298825295.webp" group-title="Live",Sri Lanka VS Zimbabwe
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
+
