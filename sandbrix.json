@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691dc2649ef48e06418772e6",
-            "name": "U.A.E. Bulls VS Northern Warriors",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "20",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-26",
-            "start_date_time": "2025-11-26T11:00:00.000Z",
-            "team_a": {
-                "id": "691b2601ae7cda2cdf0e8ad5",
-                "name": "U.A.E. Bulls",
-                "short_name": "U.A.E. Bulls",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386879234-650059996.webp"
-            },
-            "team_b": {
-                "id": "673da6295479471b830a044f",
-                "name": "Northern Warriors",
-                "short_name": "Northern Warriors",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386955315-759372890.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764150984334-987236074.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94480,
-            "content_zone_id": ""
-        },
-        {
             "id": "691dc298a5953c6af3be6583",
             "name": "Deccan Gladiators VS Ajman Titans",
             "category_name": "Cricket",
@@ -90,32 +61,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "6918864f21b7758c8136563d",
-            "name": "Otago VS Canterbury Kings",
+            "id": "6918861821b7758c8136563c",
+            "name": "Wellington Firebirds VS Central Stags",
             "category_name": "Cricket",
             "tour_id": "6918846821b7758c8136563a",
             "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 6 Day 2",
+            "match_no": "Match - 5 Day 2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-26",
             "start_date_time": "2025-11-26T21:00:00.000Z",
             "team_a": {
-                "id": "6918840421b7758c81365639",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
+                "id": "68fa37fbefea2a9ef3a8c3d4",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
             },
             "team_b": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214923800-278210289.webp",
-            "venue": "University Oval ,Dunedin",
-            "score_match_id": 92906,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214869636-98817896.webp",
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92905,
             "content_zone_id": ""
         },
         {
@@ -148,32 +119,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "6918861821b7758c8136563c",
-            "name": "Wellington Firebirds VS Central Stags",
+            "id": "6918864f21b7758c8136563d",
+            "name": "Otago VS Canterbury Kings",
             "category_name": "Cricket",
             "tour_id": "6918846821b7758c8136563a",
             "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 5 Day 2",
+            "match_no": "Match - 6 Day 2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-26",
             "start_date_time": "2025-11-26T21:00:00.000Z",
             "team_a": {
-                "id": "68fa37fbefea2a9ef3a8c3d4",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
+                "id": "6918840421b7758c81365639",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
             },
             "team_b": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214869636-98817896.webp",
-            "venue": "Basin Reserve ,Wellington",
-            "score_match_id": 92905,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214923800-278210289.webp",
+            "venue": "University Oval ,Dunedin",
+            "score_match_id": 92906,
             "content_zone_id": ""
         }
     ]
