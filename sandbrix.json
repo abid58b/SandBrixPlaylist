@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691dc2ebae7cda2cdf0e8af1",
-            "name": "Vista Riders VS Quetta Qavalry",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "23",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-27",
-            "start_date_time": "2025-11-27T11:00:00.000Z",
-            "team_a": {
-                "id": "691b25d3a5953c6af3be656c",
-                "name": "Vista Riders",
-                "short_name": "Vista Riders",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386832590-48209637.webp"
-            },
-            "team_b": {
-                "id": "691b25a49ef48e06418772d0",
-                "name": "Quetta Qavalry",
-                "short_name": "Quetta Qavalry",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386787147-85925633.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764151031453-700298993.webp",
-            "venue": "Sheikh Zayed Stadium ,Abu Dhabi",
-            "score_match_id": 94483,
-            "content_zone_id": ""
-        },
-        {
             "id": "6900d9ab26e686b9e7f06f7d",
             "name": "Pakistan VS Sri Lanka",
             "category_name": "Cricket",
@@ -119,35 +90,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "6918861821b7758c8136563c",
-            "name": "Wellington Firebirds VS Central Stags",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 5 Day 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-27",
-            "start_date_time": "2025-11-27T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa37fbefea2a9ef3a8c3d4",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
-            },
-            "team_b": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214869636-98817896.webp",
-            "venue": "Basin Reserve ,Wellington",
-            "score_match_id": 92905,
-            "content_zone_id": ""
-        },
-        {
             "id": "6918864f21b7758c8136563d",
             "name": "Otago VS Canterbury Kings",
             "category_name": "Cricket",
@@ -174,6 +116,35 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214923800-278210289.webp",
             "venue": "University Oval ,Dunedin",
             "score_match_id": 92906,
+            "content_zone_id": ""
+        },
+        {
+            "id": "6918861821b7758c8136563c",
+            "name": "Wellington Firebirds VS Central Stags",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 5 Day 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-27",
+            "start_date_time": "2025-11-27T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa37fbefea2a9ef3a8c3d4",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
+            },
+            "team_b": {
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214869636-98817896.webp",
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92905,
             "content_zone_id": ""
         },
         {
