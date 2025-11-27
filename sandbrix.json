@@ -119,32 +119,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "691885ee21b7758c8136563b",
-            "name": "Northern District VS Auckland Aces",
+            "id": "6918861821b7758c8136563c",
+            "name": "Wellington Firebirds VS Central Stags",
             "category_name": "Cricket",
             "tour_id": "6918846821b7758c8136563a",
             "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 4 Day 3",
+            "match_no": "Match - 5 Day 3",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-27",
             "start_date_time": "2025-11-27T21:00:00.000Z",
             "team_a": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+                "id": "68fa37fbefea2a9ef3a8c3d4",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
             },
             "team_b": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214748558-815790494.webp",
-            "venue": "Bay Oval ,Mount Maunganui",
-            "score_match_id": 92904,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214869636-98817896.webp",
+            "venue": "Basin Reserve ,Wellington",
+            "score_match_id": 92905,
             "content_zone_id": ""
         },
         {
@@ -177,32 +177,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "6918861821b7758c8136563c",
-            "name": "Wellington Firebirds VS Central Stags",
+            "id": "691885ee21b7758c8136563b",
+            "name": "Northern District VS Auckland Aces",
             "category_name": "Cricket",
             "tour_id": "6918846821b7758c8136563a",
             "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 5 Day 3",
+            "match_no": "Match - 4 Day 3",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-27",
             "start_date_time": "2025-11-27T21:00:00.000Z",
             "team_a": {
-                "id": "68fa37fbefea2a9ef3a8c3d4",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
             },
             "team_b": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214869636-98817896.webp",
-            "venue": "Basin Reserve ,Wellington",
-            "score_match_id": 92905,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214748558-815790494.webp",
+            "venue": "Bay Oval ,Mount Maunganui",
+            "score_match_id": 92904,
             "content_zone_id": ""
         }
     ]
