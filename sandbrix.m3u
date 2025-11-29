@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6928831d87438ee7360d80d3" tvg-name="Pakistan VS Sri Lanka" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764262734150-954606265.webp" group-title="Live",Pakistan VS Sri Lanka
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
+
