@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "692a93c0b38ab16defa0ea2e",
-            "name": "Quetta Qavalry VS Ajman Titans",
-            "category_name": "Cricket",
-            "tour_id": "691b26ce9ef48e06418772d1",
-            "tour_name": "Abu Dhabi T10 League 2025",
-            "match_no": "Qualifier 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-29",
-            "start_date_time": "2025-11-29T13:15:00.000Z",
-            "team_a": {
-                "id": "691b25a49ef48e06418772d0",
-                "name": "Quetta Qavalry",
-                "short_name": "Quetta Qavalry",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386787147-85925633.webp"
-            },
-            "team_b": {
-                "id": "691b252ea5953c6af3be656b",
-                "name": "Ajman Titans",
-                "short_name": "Ajman Titans",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386665969-911115771.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764398012161-826867701.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "692a93fb88cc91e2e8033ee9",
             "name": "Ajman Titans VS U.A.E. Bulls",
             "category_name": "Cricket",
