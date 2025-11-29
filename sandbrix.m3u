@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
 
+#EXTINF:-1 tvg-id="692a93c0b38ab16defa0ea2e" tvg-name="Quetta Qavalry VS Ajman Titans" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764398012161-826867701.webp" group-title="Live",Quetta Qavalry VS Ajman Titans
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
+
