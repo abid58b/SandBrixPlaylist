@@ -42,7 +42,7 @@
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-11-30",
-            "start_date_time": "2025-11-30T13:15:00.000Z",
+            "start_date_time": "2025-11-30T13:30:00.000Z",
             "team_a": {
                 "id": "691b2591ae7cda2cdf0e8ad4",
                 "name": "Aspin Stallions",
@@ -50,12 +50,12 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386767156-689090503.webp"
             },
             "team_b": {
-                "id": "66f7c0a8084e23d08c0b6d72",
-                "name": "TBC",
-                "short_name": "TBC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+                "id": "691b2601ae7cda2cdf0e8ad5",
+                "name": "U.A.E. Bulls",
+                "short_name": "U.A.E. Bulls",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386879234-650059996.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764484026086-133796208.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764508501939-642025781.jpg",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
