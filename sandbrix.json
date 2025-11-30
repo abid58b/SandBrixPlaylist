@@ -3,90 +3,32 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691880e621b7758c81365637",
-            "name": "Canterbury Magicians VS Auckland Hearts",
+            "id": "68d7e696ddd581736c30e90e",
+            "name": "PACC Premier VS HKCC Premier",
             "category_name": "Cricket",
-            "tour_id": "6915eb3a0d68b43a40ecf54f",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "12",
+            "tour_id": "68d79a0f050ee9aed47cea05",
+            "tour_name": "CHK Premier One Day League 2025",
+            "match_no": "",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-11-29",
-            "start_date_time": "2025-11-29T21:00:00.000Z",
+            "start_date": "2025-11-30",
+            "start_date_time": "2025-11-30T00:30:00.000Z",
             "team_a": {
-                "id": "6915e9a60398da67b4a9ab46",
-                "name": "Canterbury Magicians",
-                "short_name": "Canterbury Magicians",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043748995-694996528.webp"
+                "id": "672f6832b270671853e2e56c",
+                "name": "PACC Premier",
+                "short_name": "PACC Premier",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758959963964-517843488.webp"
             },
             "team_b": {
-                "id": "6915e9f121b7758c81365623",
-                "name": "Auckland Hearts",
-                "short_name": "Auckland Hearts",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043824208-780152100.webp"
+                "id": "672f67d5940d92dae749b04b",
+                "name": "HKCC Premier",
+                "short_name": "HKCC Premier",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758960046690-152156182.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213538818-892172706.webp",
-            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
-            "score_match_id": 93622,
-            "content_zone_id": ""
-        },
-        {
-            "id": "6918809621b7758c81365636",
-            "name": "Northern District Women VS Otago Sparks",
-            "category_name": "Cricket",
-            "tour_id": "6915eb3a0d68b43a40ecf54f",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-29",
-            "start_date_time": "2025-11-29T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e9df0398da67b4a9ab47",
-                "name": "Northern District Women",
-                "short_name": "Northern District Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043805908-362563965.webp"
-            },
-            "team_b": {
-                "id": "6915ea070d68b43a40ecf54e",
-                "name": "Otago Sparks",
-                "short_name": "Otago Sparks",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043845017-210552058.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213458810-706789536.webp",
-            "venue": "Cobham Ovall ,Whangarei",
-            "score_match_id": 93621,
-            "content_zone_id": ""
-        },
-        {
-            "id": "6918805221b7758c81365635",
-            "name": "Central Hinds VS Wellington Blaze",
-            "category_name": "Cricket",
-            "tour_id": "6915eb3a0d68b43a40ecf54f",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-11-29",
-            "start_date_time": "2025-11-29T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e9b821b7758c81365622",
-                "name": "Central Hinds",
-                "short_name": "Central Hinds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043766706-796324034.webp"
-            },
-            "team_b": {
-                "id": "6915e9cd561e093c03fc2d29",
-                "name": "Wellington Blaze",
-                "short_name": "Wellington Blaze",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043785176-936690363.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213388427-996054973.webp",
-            "venue": "Fitzherbert Park ,Palmerston North",
-            "score_match_id": 93620,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764398471349-584309000.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         }
     ]
