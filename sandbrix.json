@@ -30,6 +30,64 @@
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
+        },
+        {
+            "id": "692be36e88cc91e2e8033ef1",
+            "name": "Quetta Qavalry VS U.A.E. Bulls",
+            "category_name": "Cricket",
+            "tour_id": "691b26ce9ef48e06418772d1",
+            "tour_name": "Abu Dhabi T10 League 2025",
+            "match_no": "Qualifier 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-30",
+            "start_date_time": "2025-11-30T11:00:00.000Z",
+            "team_a": {
+                "id": "691b25a49ef48e06418772d0",
+                "name": "Quetta Qavalry",
+                "short_name": "Quetta Qavalry",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386787147-85925633.webp"
+            },
+            "team_b": {
+                "id": "691b2601ae7cda2cdf0e8ad5",
+                "name": "U.A.E. Bulls",
+                "short_name": "U.A.E. Bulls",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386879234-650059996.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764483946670-759632748.jpg",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "692be3bdc35fc8eed4d44ac0",
+            "name": "Aspin Stallions VS TBC",
+            "category_name": "Cricket",
+            "tour_id": "691b26ce9ef48e06418772d1",
+            "tour_name": "Abu Dhabi T10 League 2025",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-11-30",
+            "start_date_time": "2025-11-30T13:15:00.000Z",
+            "team_a": {
+                "id": "691b2591ae7cda2cdf0e8ad4",
+                "name": "Aspin Stallions",
+                "short_name": "Aspin Stallions",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763386767156-689090503.webp"
+            },
+            "team_b": {
+                "id": "66f7c0a8084e23d08c0b6d72",
+                "name": "TBC",
+                "short_name": "TBC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1727512741585-210103694.png"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764484026086-133796208.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
         }
     ]
 }
