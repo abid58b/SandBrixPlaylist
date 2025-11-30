@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="692be36e88cc91e2e8033ef1" tvg-name="Quetta Qavalry VS U.A.E. Bulls" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764483946670-759632748.jpg" group-title="Live",Quetta Qavalry VS U.A.E. Bulls
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
+
