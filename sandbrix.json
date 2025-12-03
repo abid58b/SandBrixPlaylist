@@ -1,5 +1,35 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "68ea5e15df96a5f1e9e01af9",
+            "name": "Victoria VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "16| Day - 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-03",
+            "start_date_time": "2025-12-03T23:30:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+            },
+            "team_b": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681947890-528959156.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760189970858-163401440.webp",
+            "venue": "Melbourne Cricket Ground ,Melbourne",
+            "score_match_id": 92892,
+            "content_zone_id": ""
+        }
+    ]
 }
