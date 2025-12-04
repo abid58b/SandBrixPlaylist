@@ -12,3 +12,11 @@ https://ams.sandbrix.live/LiveApp/streams/vC19gZapiqRVC2ry35467275934172.m3u8
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
 
+#EXTINF:-1 tvg-id="68ea5e4fe250a97a24c4654c" tvg-name="New South Wales VS Queensland Bulls" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190026620-929145779.webp" group-title="Live",New South Wales VS Queensland Bulls
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Cq2zHWf2OUOxPFV4163019881626.m3u8
+
+#EXTINF:-1 tvg-id="68ea5e15df96a5f1e9e01af9" tvg-name="Victoria VS Western Australia" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760189970858-163401440.webp" group-title="Live",Victoria VS Western Australia
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
