@@ -61,35 +61,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "692308a1d0b0fdbb565da4b6",
-            "name": "Central Stags VS Canterbury Kings",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 9 | Day 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-06",
-            "start_date_time": "2025-12-06T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
-            },
-            "team_b": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903647747-336200853.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "692307cbb99189116c55de2a",
             "name": "Auckland Aces VS Wellington Firebirds",
             "category_name": "Cricket",
@@ -145,6 +116,64 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903497237-442133783.webp",
             "venue": "",
             "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "692308a1d0b0fdbb565da4b6",
+            "name": "Central Stags VS Canterbury Kings",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 9 | Day 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-06",
+            "start_date_time": "2025-12-06T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+            },
+            "team_b": {
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903647747-336200853.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68ea5e4fe250a97a24c4654c",
+            "name": "New South Wales VS Queensland Bulls",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "17 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-06",
+            "start_date_time": "2025-12-06T23:30:00.000Z",
+            "team_a": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681849705-822802914.webp"
+            },
+            "team_b": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190026620-929145779.webp",
+            "venue": "Sydney Cricket Ground ,Sydney",
+            "score_match_id": 92893,
             "content_zone_id": ""
         }
     ]
