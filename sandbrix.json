@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "68ea5ea4e250a97a24c4654d",
-            "name": "South Australia VS Tasmania Tiger",
-            "category_name": "Cricket",
-            "tour_id": "68df662addd581736c30e938",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "18 | Day - 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-07",
-            "start_date_time": "2025-12-07T00:00:00.000Z",
-            "team_a": {
-                "id": "671448fd166de3cf1b69e62a",
-                "name": "South Australia",
-                "short_name": "South Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681872997-926769284.webp"
-            },
-            "team_b": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tiger",
-                "short_name": "Tasmania Tiger",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681915111-851524084.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190113960-979736519.webp",
-            "venue": "Adelaide Oval ,Adelaide",
-            "score_match_id": 92894,
-            "content_zone_id": ""
-        },
-        {
             "id": "69133daf0d68b43a40ecf539",
             "name": "Australia VS England",
             "category_name": "Cricket",
@@ -58,6 +29,64 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762868652149-898864841.webp",
             "venue": "The Gabba ,Brisbane",
             "score_match_id": 84973,
+            "content_zone_id": ""
+        },
+        {
+            "id": "692307cbb99189116c55de2a",
+            "name": "Auckland Aces VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 7 | Day 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-07",
+            "start_date_time": "2025-12-07T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+            },
+            "team_b": {
+                "id": "68fa37fbefea2a9ef3a8c3d4",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903432997-420121052.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "6923080b50dafe260820f287",
+            "name": "Northern District VS Otago",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 8 | Day 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-07",
+            "start_date_time": "2025-12-07T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+            },
+            "team_b": {
+                "id": "6918840421b7758c81365639",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903497237-442133783.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         }
     ]
