@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "6932e1e8b38ab16defa0ea4e",
-            "name": "Dca Unnao VS Dca Agra",
-            "category_name": "Cricket",
-            "tour_id": "6932e177c35fc8eed4d44ad4",
-            "tour_name": "Jagdish Bhalla Trophy 2025",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-08",
-            "start_date_time": "2025-12-08T06:30:00.000Z",
-            "team_a": {
-                "id": "6932e06b87438ee7360d80fb",
-                "name": "Dca Unnao",
-                "short_name": "Dca Unnao",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764941929360-208423888.webp"
-            },
-            "team_b": {
-                "id": "6932e035c35fc8eed4d44ad2",
-                "name": "Dca Agra",
-                "short_name": "Dca Agra",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764941875335-807694031.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764942309634-370703182.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
