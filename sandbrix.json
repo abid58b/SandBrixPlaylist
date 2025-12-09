@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6932e21187438ee7360d80fc",
-            "name": "Dca Firozabad VS Dca Unnao",
-            "category_name": "Cricket",
-            "tour_id": "6932e177c35fc8eed4d44ad4",
-            "tour_name": "Jagdish Bhalla Trophy 2025",
-            "match_no": "3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-09",
-            "start_date_time": "2025-12-09T02:30:00.000Z",
-            "team_a": {
-                "id": "6932e0a2c35fc8eed4d44ad3",
-                "name": "Dca Firozabad",
-                "short_name": "Dca Firozabad",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764941982313-733461333.webp"
-            },
-            "team_b": {
-                "id": "6932e06b87438ee7360d80fb",
-                "name": "Dca Unnao",
-                "short_name": "Dca Unnao",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764941929360-208423888.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764942350115-110779312.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "6935510bb38ab16defa0ea5c",
             "name": "Bhutan VS Bahrain",
             "category_name": "Cricket",
