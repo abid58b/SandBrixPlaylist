@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6935510bb38ab16defa0ea5c" tvg-name="Bhutan VS Bahrain" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1765101832863-186880044.webp" group-title="Live",Bhutan VS Bahrain
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/zsIr8ZGT66YBV90i36306588907906.m3u8
-
-#EXTINF:-1 tvg-id="6932e23f88cc91e2e8033f09" tvg-name="Dca Jalaun Red VS Dca Agra" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764942395763-676722895.webp" group-title="Live",Dca Jalaun Red VS Dca Agra
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/bTmPjfzgZANq3b80344037922176970.m3u8
-
