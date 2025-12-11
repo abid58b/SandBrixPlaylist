@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "6932e31088cc91e2e8033f0a",
-            "name": "Kg Colts Delhi VS Dca Jalaun Blue",
-            "category_name": "Cricket",
-            "tour_id": "6932e177c35fc8eed4d44ad4",
-            "tour_name": "Jagdish Bhalla Trophy 2025",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-11",
-            "start_date_time": "2025-12-11T06:30:00.000Z",
-            "team_a": {
-                "id": "69396b13358859aa202e7409",
-                "name": "Gwalior Division",
-                "short_name": "Gwalior Division",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1765370639966-890978807.webp"
-            },
-            "team_b": {
-                "id": "6932e08288cc91e2e8033f07",
-                "name": "Dca Jalaun Blue",
-                "short_name": "Dca Jalaun Blue",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764941951820-46828387.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764942598858-689369576.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
