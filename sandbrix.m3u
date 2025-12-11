@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6932e2bdc35fc8eed4d44ad6" tvg-name="Dca Moradabad VS CA Lucknow" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764942520625-306498711.webp" group-title="Live",Dca Moradabad VS CA Lucknow
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/bTmPjfzgZANq3b80344037922176970.m3u8
-
-#EXTINF:-1 tvg-id="69355138b38ab16defa0ea5d" tvg-name="Bhutan VS Bahrain" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1765101878491-694864896.webp" group-title="Live",Bhutan VS Bahrain
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/zsIr8ZGT66YBV90i36306588907906.m3u8
-
 #EXTINF:-1 tvg-id="6932e31088cc91e2e8033f0a" tvg-name="Kg Colts Delhi VS Dca Jalaun Blue" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764942598858-689369576.webp" group-title="Live",Kg Colts Delhi VS Dca Jalaun Blue
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/bTmPjfzgZANq3b80344037922176970.m3u8
