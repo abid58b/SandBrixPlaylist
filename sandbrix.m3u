@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6932e2bdc35fc8eed4d44ad6" tvg-name="Dca Moradabad VS CA Lucknow" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764942520625-306498711.webp" group-title="Live",Dca Moradabad VS CA Lucknow
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/bTmPjfzgZANq3b80344037922176970.m3u8
+
