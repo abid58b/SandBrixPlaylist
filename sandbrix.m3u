@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/zsIr8ZGT66YBV90i36306588907906.m3u8
 
+#EXTINF:-1 tvg-id="693ac822358859aa202e740d" tvg-name="Jade Jets VS Bauhinia Stars" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1765459996788-312636774.webp" group-title="Live",Jade Jets VS Bauhinia Stars
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/bTmPjfzgZANq3b80344037922176970.m3u8
+
