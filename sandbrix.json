@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691881ae0398da67b4a9ab54",
-            "name": "Canterbury Magicians VS Wellington Blaze",
-            "category_name": "Cricket",
-            "tour_id": "6915eb3a0d68b43a40ecf54f",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "14",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e9a60398da67b4a9ab46",
-                "name": "Canterbury Magicians",
-                "short_name": "Canterbury Magicians",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043748995-694996528.webp"
-            },
-            "team_b": {
-                "id": "6915e9cd561e093c03fc2d29",
-                "name": "Wellington Blaze",
-                "short_name": "Wellington Blaze",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043785176-936690363.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213736335-346741919.webp",
-            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
-            "score_match_id": 93625,
-            "content_zone_id": ""
-        },
-        {
             "id": "691881fa21b7758c81365638",
             "name": "Auckland Hearts VS Northern District Women",
             "category_name": "Cricket",
@@ -90,6 +61,64 @@
             "content_zone_id": ""
         },
         {
+            "id": "691881ae0398da67b4a9ab54",
+            "name": "Canterbury Magicians VS Wellington Blaze",
+            "category_name": "Cricket",
+            "tour_id": "6915eb3a0d68b43a40ecf54f",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-12",
+            "start_date_time": "2025-12-12T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e9a60398da67b4a9ab46",
+                "name": "Canterbury Magicians",
+                "short_name": "Canterbury Magicians",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043748995-694996528.webp"
+            },
+            "team_b": {
+                "id": "6915e9cd561e093c03fc2d29",
+                "name": "Wellington Blaze",
+                "short_name": "Wellington Blaze",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043785176-936690363.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213736335-346741919.webp",
+            "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
+            "score_match_id": 93625,
+            "content_zone_id": ""
+        },
+        {
+            "id": "692308e1b99189116c55de2b",
+            "name": "Otago VS Central Stags",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 10 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-12",
+            "start_date_time": "2025-12-12T21:00:00.000Z",
+            "team_a": {
+                "id": "6918840421b7758c81365639",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
+            },
+            "team_b": {
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903711017-798014834.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
             "id": "692309753bc500419986c441",
             "name": "Canterbury Kings VS Auckland Aces",
             "category_name": "Cricket",
@@ -143,35 +172,6 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
             },
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903788147-693894296.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "692308e1b99189116c55de2b",
-            "name": "Otago VS Central Stags",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 10 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
-            "team_a": {
-                "id": "6918840421b7758c81365639",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
-            },
-            "team_b": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903711017-798014834.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
