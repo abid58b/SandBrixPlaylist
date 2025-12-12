@@ -90,35 +90,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "691881fa21b7758c81365638",
-            "name": "Auckland Hearts VS Northern District Women",
-            "category_name": "Cricket",
-            "tour_id": "6915eb3a0d68b43a40ecf54f",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "15",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e9f121b7758c81365623",
-                "name": "Auckland Hearts",
-                "short_name": "Auckland Hearts",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043824208-780152100.webp"
-            },
-            "team_b": {
-                "id": "6915e9df0398da67b4a9ab47",
-                "name": "Northern District Women",
-                "short_name": "Northern District Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043805908-362563965.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213812730-825248635.webp",
-            "venue": "Kennards Hire Community Oval ,Auckland",
-            "score_match_id": 93626,
-            "content_zone_id": ""
-        },
-        {
             "id": "691881670d68b43a40ecf55c",
             "name": "Central Hinds VS Otago Sparks",
             "category_name": "Cricket",
@@ -148,32 +119,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "692309753bc500419986c441",
-            "name": "Canterbury Kings VS Auckland Aces",
+            "id": "691881fa21b7758c81365638",
+            "name": "Auckland Hearts VS Northern District Women",
             "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 12 | Day 1",
+            "tour_id": "6915eb3a0d68b43a40ecf54f",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "15",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2025-12-12",
             "start_date_time": "2025-12-12T21:00:00.000Z",
             "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+                "id": "6915e9f121b7758c81365623",
+                "name": "Auckland Hearts",
+                "short_name": "Auckland Hearts",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043824208-780152100.webp"
             },
             "team_b": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+                "id": "6915e9df0398da67b4a9ab47",
+                "name": "Northern District Women",
+                "short_name": "Northern District Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043805908-362563965.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903858871-303082784.webp",
-            "venue": "",
-            "score_match_id": 0,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213812730-825248635.webp",
+            "venue": "Kennards Hire Community Oval ,Auckland",
+            "score_match_id": 93626,
             "content_zone_id": ""
         },
         {
@@ -201,6 +172,35 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
             },
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903711017-798014834.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "692309753bc500419986c441",
+            "name": "Canterbury Kings VS Auckland Aces",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 12 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-12",
+            "start_date_time": "2025-12-12T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+            },
+            "team_b": {
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903858871-303082784.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
