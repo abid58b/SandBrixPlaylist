@@ -90,35 +90,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "692309753bc500419986c441",
-            "name": "Canterbury Kings VS Auckland Aces",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 12 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "team_b": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903858871-303082784.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "6923093a50dafe260820f288",
             "name": "Northern District VS Wellington Firebirds",
             "category_name": "Cricket",
@@ -143,6 +114,35 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
             },
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903788147-693894296.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "692309753bc500419986c441",
+            "name": "Canterbury Kings VS Auckland Aces",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 12 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-12",
+            "start_date_time": "2025-12-12T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+            },
+            "team_b": {
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903858871-303082784.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
