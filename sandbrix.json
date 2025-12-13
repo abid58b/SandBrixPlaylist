@@ -3,17 +3,75 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "691881ae0398da67b4a9ab54",
+            "id": "69355183b38ab16defa0ea5f",
+            "name": "Bhutan VS Bahrain",
+            "category_name": "Cricket",
+            "tour_id": "69354d6088cc91e2e8033f1a",
+            "tour_name": "Bahrain tour of Bhutan 2025",
+            "match_no": "5th T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-13",
+            "start_date_time": "2025-12-13T03:30:00.000Z",
+            "team_a": {
+                "id": "69354cceb38ab16defa0ea5a",
+                "name": "Bhutan",
+                "short_name": "Bhutan",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1765100746438-209001606.webp"
+            },
+            "team_b": {
+                "id": "671dea49bb231d3543008d16",
+                "name": "Bahrain",
+                "short_name": "Bahrain",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1765114832181-780372747.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765101952825-883125680.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "693ac85f0a85ff22f9984d47",
+            "name": "Bauhinia Stars VS Jade Jets",
+            "category_name": "Cricket",
+            "tour_id": "693ac7e3697e5550bdeef95d",
+            "tour_name": "Women's All Star Series 2025",
+            "match_no": "2nd T20I",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-13",
+            "start_date_time": "2025-12-13T05:00:00.000Z",
+            "team_a": {
+                "id": "674896dc9f64fac57a120aba",
+                "name": "Bauhinia Stars",
+                "short_name": "BS",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1765459770741-16804873.webp"
+            },
+            "team_b": {
+                "id": "6748967323f1ee69536eaff6",
+                "name": "Jade Jets",
+                "short_name": "JJ",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1765459754712-77935446.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765460058882-516223190.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "691882bc0398da67b4a9ab55",
             "name": "Canterbury Magicians VS Wellington Blaze",
             "category_name": "Cricket",
             "tour_id": "6915eb3a0d68b43a40ecf54f",
             "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "14",
+            "match_no": "17",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
+            "start_date": "2025-12-13",
+            "start_date_time": "2025-12-13T21:00:00.000Z",
             "team_a": {
                 "id": "6915e9a60398da67b4a9ab46",
                 "name": "Canterbury Magicians",
@@ -26,23 +84,23 @@
                 "short_name": "Wellington Blaze",
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043785176-936690363.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213736335-346741919.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214004144-918594759.webp",
             "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
-            "score_match_id": 93625,
+            "score_match_id": 93628,
             "content_zone_id": ""
         },
         {
-            "id": "691881670d68b43a40ecf55c",
+            "id": "691882630d68b43a40ecf55d",
             "name": "Central Hinds VS Otago Sparks",
             "category_name": "Cricket",
             "tour_id": "6915eb3a0d68b43a40ecf54f",
             "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "13",
+            "match_no": "16",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
+            "start_date": "2025-12-13",
+            "start_date_time": "2025-12-13T21:00:00.000Z",
             "team_a": {
                 "id": "6915e9b821b7758c81365622",
                 "name": "Central Hinds",
@@ -55,23 +113,23 @@
                 "short_name": "Otago Sparks",
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043845017-210552058.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213667798-391082310.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213918108-208352415.webp",
             "venue": "Fitzherbert Park ,Palmerston North",
-            "score_match_id": 93624,
+            "score_match_id": 93627,
             "content_zone_id": ""
         },
         {
-            "id": "691881fa21b7758c81365638",
+            "id": "691882f80d68b43a40ecf55e",
             "name": "Auckland Hearts VS Northern District Women",
             "category_name": "Cricket",
             "tour_id": "6915eb3a0d68b43a40ecf54f",
             "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "15",
+            "match_no": "18",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
+            "start_date": "2025-12-13",
+            "start_date_time": "2025-12-13T21:00:00.000Z",
             "team_a": {
                 "id": "6915e9f121b7758c81365623",
                 "name": "Auckland Hearts",
@@ -84,96 +142,9 @@
                 "short_name": "Northern District Women",
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043805908-362563965.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213812730-825248635.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214068913-839151375.webp",
             "venue": "Kennards Hire Community Oval ,Auckland",
-            "score_match_id": 93626,
-            "content_zone_id": ""
-        },
-        {
-            "id": "6923093a50dafe260820f288",
-            "name": "Northern District VS Wellington Firebirds",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 11 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
-            },
-            "team_b": {
-                "id": "68fa37fbefea2a9ef3a8c3d4",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903788147-693894296.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "692308e1b99189116c55de2b",
-            "name": "Otago VS Central Stags",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 10 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
-            "team_a": {
-                "id": "6918840421b7758c81365639",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
-            },
-            "team_b": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903711017-798014834.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "692309753bc500419986c441",
-            "name": "Canterbury Kings VS Auckland Aces",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 12 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-12",
-            "start_date_time": "2025-12-12T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "team_b": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903858871-303082784.webp",
-            "venue": "",
-            "score_match_id": 0,
+            "score_match_id": 93629,
             "content_zone_id": ""
         }
     ]
