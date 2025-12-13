@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="69355183b38ab16defa0ea5f" tvg-name="Bhutan VS Bahrain" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1765101952825-883125680.webp" group-title="Live",Bhutan VS Bahrain
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/zsIr8ZGT66YBV90i36306588907906.m3u8
+
