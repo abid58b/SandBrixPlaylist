@@ -61,6 +61,35 @@
             "content_zone_id": ""
         },
         {
+            "id": "691882630d68b43a40ecf55d",
+            "name": "Central Hinds VS Otago Sparks",
+            "category_name": "Cricket",
+            "tour_id": "6915eb3a0d68b43a40ecf54f",
+            "tour_name": "Hallyburton Johnstone Shield 2025-26",
+            "match_no": "16",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-13",
+            "start_date_time": "2025-12-13T21:00:00.000Z",
+            "team_a": {
+                "id": "6915e9b821b7758c81365622",
+                "name": "Central Hinds",
+                "short_name": "Central Hinds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043766706-796324034.webp"
+            },
+            "team_b": {
+                "id": "6915ea070d68b43a40ecf54e",
+                "name": "Otago Sparks",
+                "short_name": "Otago Sparks",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043845017-210552058.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213918108-208352415.webp",
+            "venue": "Fitzherbert Park ,Palmerston North",
+            "score_match_id": 93627,
+            "content_zone_id": ""
+        },
+        {
             "id": "691882f80d68b43a40ecf55e",
             "name": "Auckland Hearts VS Northern District Women",
             "category_name": "Cricket",
@@ -116,35 +145,6 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763214004144-918594759.webp",
             "venue": "Mainpower Oval (Recreation Ground) ,Rangiora",
             "score_match_id": 93628,
-            "content_zone_id": ""
-        },
-        {
-            "id": "691882630d68b43a40ecf55d",
-            "name": "Central Hinds VS Otago Sparks",
-            "category_name": "Cricket",
-            "tour_id": "6915eb3a0d68b43a40ecf54f",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "16",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-13",
-            "start_date_time": "2025-12-13T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e9b821b7758c81365622",
-                "name": "Central Hinds",
-                "short_name": "Central Hinds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043766706-796324034.webp"
-            },
-            "team_b": {
-                "id": "6915ea070d68b43a40ecf54e",
-                "name": "Otago Sparks",
-                "short_name": "Otago Sparks",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043845017-210552058.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763213918108-208352415.webp",
-            "venue": "Fitzherbert Park ,Palmerston North",
-            "score_match_id": 93627,
             "content_zone_id": ""
         }
     ]
