@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/bTmPjfzgZANq3b80344037922176970.m3u8
 
+#EXTINF:-1 tvg-id="69318b3688cc91e2e8033f03" tvg-name="Perth Scorchers VS Sydney Sixers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764854574119-891946786.webp" group-title="Live",Perth Scorchers VS Sydney Sixers
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
+
