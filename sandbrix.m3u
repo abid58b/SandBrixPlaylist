@@ -1,26 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="691882630d68b43a40ecf55d" tvg-name="Central Hinds VS Otago Sparks" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763213918108-208352415.webp" group-title="Live",Central Hinds VS Otago Sparks
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
-
-#EXTINF:-1 tvg-id="691882bc0398da67b4a9ab55" tvg-name="Canterbury Magicians VS Wellington Blaze" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763214004144-918594759.webp" group-title="Live",Canterbury Magicians VS Wellington Blaze
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
-
-#EXTINF:-1 tvg-id="691882f80d68b43a40ecf55e" tvg-name="Auckland Hearts VS Northern District Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763214068913-839151375.webp" group-title="Live",Auckland Hearts VS Northern District Women
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/p3Y14cr6UjCaEzo790511975087845.m3u8
-
-#EXTINF:-1 tvg-id="6923093a50dafe260820f288" tvg-name="Northern District VS Wellington Firebirds" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763903788147-693894296.webp" group-title="Live",Northern District VS Wellington Firebirds
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
-
-#EXTINF:-1 tvg-id="692308e1b99189116c55de2b" tvg-name="Otago VS Central Stags" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763903711017-798014834.webp" group-title="Live",Otago VS Central Stags
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
-#EXTINF:-1 tvg-id="692309753bc500419986c441" tvg-name="Canterbury Kings VS Auckland Aces" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763903858871-303082784.webp" group-title="Live",Canterbury Kings VS Auckland Aces
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/vC19gZapiqRVC2ry35467275934172.m3u8
-
