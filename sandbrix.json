@@ -30,6 +30,35 @@
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
+        },
+        {
+            "id": "69133e080398da67b4a9ab39",
+            "name": "Australia VS England",
+            "category_name": "Cricket",
+            "tour_id": "69133c680398da67b4a9ab38",
+            "tour_name": "The Ashes 2025-26",
+            "match_no": "3rd Test | Day - 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-17",
+            "start_date_time": "2025-12-17T23:30:00.000Z",
+            "team_a": {
+                "id": "66d44a7d3b04cf3cd8eb9361",
+                "name": "Australia",
+                "short_name": "Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744617949741-168826235.png"
+            },
+            "team_b": {
+                "id": "671bc2aa68d746820ca1213b",
+                "name": "England",
+                "short_name": "England",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762868218224-473389600.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762868740300-293849182.webp",
+            "venue": "Adelaide Oval ,Adelaide",
+            "score_match_id": 84974,
+            "content_zone_id": ""
         }
     ]
 }
