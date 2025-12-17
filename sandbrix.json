@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69318c4ac35fc8eed4d44acd",
-            "name": "Sydney Sixers VS Adelaide Strikers",
-            "category_name": "Cricket",
-            "tour_id": "69318a83c35fc8eed4d44acb",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-17",
-            "start_date_time": "2025-12-17T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa7c980f48a2d71d6aff",
-                "name": "Sydney Sixers",
-                "short_name": "Sydney sixers men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854141912-239740257.webp"
-            },
-            "team_b": {
-                "id": "673afa0196116b8cceadc34f",
-                "name": "Adelaide Strikers",
-                "short_name": "Adelaide strikers men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854254420-14571717.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764854851270-844666089.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "69133e080398da67b4a9ab39",
             "name": "Australia VS England",
             "category_name": "Cricket",
