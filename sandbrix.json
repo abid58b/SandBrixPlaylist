@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69318c7bb38ab16defa0ea45",
-            "name": "Melbourne Stars VS Hobart Hurricanes",
-            "category_name": "Cricket",
-            "tour_id": "69318a83c35fc8eed4d44acb",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "5",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-18",
-            "start_date_time": "2025-12-18T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa54980f48a2d71d6afd",
-                "name": "Melbourne Stars",
-                "short_name": "Melbourne stars men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854202245-628609197.webp"
-            },
-            "team_b": {
-                "id": "673afa27980f48a2d71d6afb",
-                "name": "Hobart Hurricanes",
-                "short_name": "Hobart hurricanes men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854099552-905586195.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764854903920-52457544.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "69133e080398da67b4a9ab39",
             "name": "Australia VS England",
             "category_name": "Cricket",
