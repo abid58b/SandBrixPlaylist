@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
 
+#EXTINF:-1 tvg-id="6943952c5f08a89148086df0" tvg-name="SL POLICE SC VS Matara City Club" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1766036775071-432378662.webp" group-title="Live",SL POLICE SC VS Matara City Club
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
