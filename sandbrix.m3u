@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="69318cac87438ee7360d80f3" tvg-name="Brisbane Heat VS Perth Scorchers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764854953126-383760577.webp" group-title="Live",Brisbane Heat VS Perth Scorchers
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
+
