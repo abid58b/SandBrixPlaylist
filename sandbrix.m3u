@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69318cac87438ee7360d80f3" tvg-name="Brisbane Heat VS Perth Scorchers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764854953126-383760577.webp" group-title="Live",Brisbane Heat VS Perth Scorchers
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
-
-#EXTINF:-1 tvg-id="6943952c5f08a89148086df0" tvg-name="SL POLICE SC VS Matara City Club" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1766036775071-432378662.webp" group-title="Live",SL POLICE SC VS Matara City Club
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
-
