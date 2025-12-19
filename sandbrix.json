@@ -3,32 +3,90 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69133e080398da67b4a9ab39",
-            "name": "Australia VS England",
+            "id": "69318cac87438ee7360d80f3",
+            "name": "Brisbane Heat VS Perth Scorchers",
             "category_name": "Cricket",
-            "tour_id": "69133c680398da67b4a9ab38",
-            "tour_name": "The Ashes 2025-26",
-            "match_no": "3rd Test | Day - 3",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "6",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-12-18",
-            "start_date_time": "2025-12-18T23:30:00.000Z",
+            "start_date": "2025-12-19",
+            "start_date_time": "2025-12-19T07:45:00.000Z",
             "team_a": {
-                "id": "66d44a7d3b04cf3cd8eb9361",
-                "name": "Australia",
-                "short_name": "Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744617949741-168826235.png"
+                "id": "673afa15980f48a2d71d6afa",
+                "name": "Brisbane Heat",
+                "short_name": "Brisbane heat men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854226988-491808519.webp"
             },
             "team_b": {
-                "id": "671bc2aa68d746820ca1213b",
-                "name": "England",
-                "short_name": "England",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762868218224-473389600.webp"
+                "id": "673afa67980f48a2d71d6afe",
+                "name": "Perth Scorchers",
+                "short_name": "Perth scorchers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854277867-709878106.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762868740300-293849182.webp",
-            "venue": "Adelaide Oval ,Adelaide",
-            "score_match_id": 84974,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764854953126-383760577.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "6943952c5f08a89148086df0",
+            "name": "SL POLICE SC VS Matara City Club",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-19",
+            "start_date_time": "2025-12-19T10:00:00.000Z",
+            "team_a": {
+                "id": "692039bd3bc500419986c42b",
+                "name": "SL POLICE SC",
+                "short_name": "SL POLICE SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719610019-469747418.webp"
+            },
+            "team_b": {
+                "id": "69257a98870cb13512d7311b",
+                "name": "Matara City Club",
+                "short_name": "Matara City Club",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063892412-771236280.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766036775071-432378662.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "6943957e5f08a89148086df1",
+            "name": "SLTB SC VS NEW STAR SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-19",
+            "start_date_time": "2025-12-19T14:00:00.000Z",
+            "team_a": {
+                "id": "6920654c50dafe260820f274",
+                "name": "SLTB SC",
+                "short_name": "SLTB SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730758898-620955131.webp"
+            },
+            "team_b": {
+                "id": "692065ce3bc500419986c432",
+                "name": "NEW STAR SC",
+                "short_name": "NEW STAR SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730878587-577134984.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766036859525-859391356.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         }
     ]
