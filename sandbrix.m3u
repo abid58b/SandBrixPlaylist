@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69318d19b38ab16defa0ea47" tvg-name="Melbourne Renegades VS Hobart Hurricanes" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764855060351-490397722.webp" group-title="Live",Melbourne Renegades VS Hobart Hurricanes
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
-
 #EXTINF:-1 tvg-id="6943962d5f08a89148086df4" tvg-name="PELICANS SC VS SOLID SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1766037034419-134875935.webp" group-title="Live",PELICANS SC VS SOLID SC
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
