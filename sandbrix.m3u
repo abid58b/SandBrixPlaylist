@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6943965e5f08a89148086df5" tvg-name="NEGOMBO YOUTH FC VS SAUNDERS SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1766037083418-711684899.webp" group-title="Live",NEGOMBO YOUTH FC VS SAUNDERS SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
