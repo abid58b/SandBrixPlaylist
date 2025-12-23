@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "69318db987438ee7360d80f4",
-            "name": "Adelaide Strikers VS Melbourne Stars",
-            "category_name": "Cricket",
-            "tour_id": "69318a83c35fc8eed4d44acb",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-23",
-            "start_date_time": "2025-12-23T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa0196116b8cceadc34f",
-                "name": "Adelaide Strikers",
-                "short_name": "Adelaide strikers men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854254420-14571717.webp"
-            },
-            "team_b": {
-                "id": "673afa54980f48a2d71d6afd",
-                "name": "Melbourne Stars",
-                "short_name": "Melbourne stars men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854202245-628609197.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764855222172-62427338.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
