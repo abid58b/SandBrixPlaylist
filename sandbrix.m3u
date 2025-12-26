@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
 
+#EXTINF:-1 tvg-id="6932e5af87438ee7360d8102" tvg-name="Perth Scorchers VS Hobart Hurricanes" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764943275274-341340719.webp" group-title="Live",Perth Scorchers VS Hobart Hurricanes
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/CnqXNydEKEunPd6x3815480106805843.m3u8
+
