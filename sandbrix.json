@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "694d3ed0e0f3830711d6c74c",
-            "name": "Java Lane SC VS CRYSTAL PALACE FC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "20",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-27",
-            "start_date_time": "2025-12-27T14:00:00.000Z",
-            "team_a": {
-                "id": "69257a7867e62543527af29d",
-                "name": "Java Lane SC",
-                "short_name": "Java Lane SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063852751-985151343.webp"
-            },
-            "team_b": {
-                "id": "69206681d0b0fdbb565da4a6",
-                "name": "CRYSTAL PALACE FC",
-                "short_name": "CRYSTAL PALACE FC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731068574-506064448.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766670028885-303633326.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
