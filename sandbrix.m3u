@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
 
+#EXTINF:-1 tvg-id="694d3ea8e0f3830711d6c74b" tvg-name="Matara City Club VS ST. MARY’S SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1766669987252-535594845.webp" group-title="Live",Matara City Club VS ST. MARY’S SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
