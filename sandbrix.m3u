@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="694d3ed0e0f3830711d6c74c" tvg-name="Java Lane SC VS CRYSTAL PALACE FC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1766670028885-303633326.webp" group-title="Live",Java Lane SC VS CRYSTAL PALACE FC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
