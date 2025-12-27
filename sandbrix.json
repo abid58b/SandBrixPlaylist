@@ -3,32 +3,90 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69133e61561e093c03fc2d1e",
-            "name": "Australia VS England",
+            "id": "6932e614b38ab16defa0ea50",
+            "name": "Brisbane Heat VS Adelaide Strikers",
             "category_name": "Cricket",
-            "tour_id": "69133c680398da67b4a9ab38",
-            "tour_name": "The Ashes 2025-26",
-            "match_no": "4th Test | Day - 2",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "13",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2025-12-26",
-            "start_date_time": "2025-12-26T23:30:00.000Z",
+            "start_date": "2025-12-27",
+            "start_date_time": "2025-12-27T07:45:00.000Z",
             "team_a": {
-                "id": "66d44a7d3b04cf3cd8eb9361",
-                "name": "Australia",
-                "short_name": "Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744617949741-168826235.png"
+                "id": "673afa15980f48a2d71d6afa",
+                "name": "Brisbane Heat",
+                "short_name": "Brisbane heat men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854226988-491808519.webp"
             },
             "team_b": {
-                "id": "671bc2aa68d746820ca1213b",
-                "name": "England",
-                "short_name": "England",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762868218224-473389600.webp"
+                "id": "673afa0196116b8cceadc34f",
+                "name": "Adelaide Strikers",
+                "short_name": "Adelaide strikers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854254420-14571717.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762868830428-137028543.webp",
-            "venue": "Melbourne Cricket Ground ,Melbourne",
-            "score_match_id": 84975,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764943374285-301789651.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "694d3ea8e0f3830711d6c74b",
+            "name": "Matara City Club VS ST. MARY’S SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "19",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-27",
+            "start_date_time": "2025-12-27T10:00:00.000Z",
+            "team_a": {
+                "id": "69257a98870cb13512d7311b",
+                "name": "Matara City Club",
+                "short_name": "Matara City Club",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063892412-771236280.webp"
+            },
+            "team_b": {
+                "id": "6920659fd0b0fdbb565da4a5",
+                "name": "ST. MARY’S SC",
+                "short_name": "ST. MARY’S SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730841705-646400233.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766669987252-535594845.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "694d3ed0e0f3830711d6c74c",
+            "name": "Java Lane SC VS CRYSTAL PALACE FC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "20",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-27",
+            "start_date_time": "2025-12-27T14:00:00.000Z",
+            "team_a": {
+                "id": "69257a7867e62543527af29d",
+                "name": "Java Lane SC",
+                "short_name": "Java Lane SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063852751-985151343.webp"
+            },
+            "team_b": {
+                "id": "69206681d0b0fdbb565da4a6",
+                "name": "CRYSTAL PALACE FC",
+                "short_name": "CRYSTAL PALACE FC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731068574-506064448.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766670028885-303633326.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         }
     ]
