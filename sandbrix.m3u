@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="694d3f32e0f3830711d6c74e" tvg-name="NEW STAR SC VS SERENDIB SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1766670126658-970641522.webp" group-title="Live",NEW STAR SC VS SERENDIB SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
