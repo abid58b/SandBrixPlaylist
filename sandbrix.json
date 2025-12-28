@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "694d3f32e0f3830711d6c74e",
-            "name": "NEW STAR SC VS SERENDIB SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "22",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-28",
-            "start_date_time": "2025-12-28T14:00:00.000Z",
-            "team_a": {
-                "id": "692065ce3bc500419986c432",
-                "name": "NEW STAR SC",
-                "short_name": "NEW STAR SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730878587-577134984.webp"
-            },
-            "team_b": {
-                "id": "6920651eb99189116c55de1b",
-                "name": "SERENDIB SC",
-                "short_name": "SERENDIB SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730688710-50527613.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766670126658-970641522.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
