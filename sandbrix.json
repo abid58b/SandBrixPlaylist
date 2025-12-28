@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "694d3f03e0f3830711d6c74d",
-            "name": "SOLID SC VS SUPER SUN SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "21",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-28",
-            "start_date_time": "2025-12-28T10:00:00.000Z",
-            "team_a": {
-                "id": "69206576d0b0fdbb565da4a4",
-                "name": "SOLID SC",
-                "short_name": "SOLID SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730804043-529676221.webp"
-            },
-            "team_b": {
-                "id": "692039dd50dafe260820f26b",
-                "name": "SUPER SUN SC",
-                "short_name": "SUPER SUN SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719642396-929413393.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766670080925-537014203.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "694d3f32e0f3830711d6c74e",
             "name": "NEW STAR SC VS SERENDIB SC",
             "category_name": "Football",
