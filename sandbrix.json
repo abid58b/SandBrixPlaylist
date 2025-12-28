@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6932e65ec35fc8eed4d44ad8",
-            "name": "Melbourne Stars VS Sydney Thunder",
-            "category_name": "Cricket",
-            "tour_id": "69318a83c35fc8eed4d44acb",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "14",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-28",
-            "start_date_time": "2025-12-28T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa54980f48a2d71d6afd",
-                "name": "Melbourne Stars",
-                "short_name": "Melbourne stars men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854202245-628609197.webp"
-            },
-            "team_b": {
-                "id": "673afa8c980f48a2d71d6b00",
-                "name": "Sydney Thunder",
-                "short_name": "Sydney thunder men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854164591-703399890.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764943451151-920968459.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "694d3f03e0f3830711d6c74d",
             "name": "SOLID SC VS SUPER SUN SC",
             "category_name": "Football",

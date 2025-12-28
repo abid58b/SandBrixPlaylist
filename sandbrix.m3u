@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6932e65ec35fc8eed4d44ad8" tvg-name="Melbourne Stars VS Sydney Thunder" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764943451151-920968459.webp" group-title="Live",Melbourne Stars VS Sydney Thunder
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
-
 #EXTINF:-1 tvg-id="694d3f03e0f3830711d6c74d" tvg-name="SOLID SC VS SUPER SUN SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1766670080925-537014203.webp" group-title="Live",SOLID SC VS SUPER SUN SC
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
