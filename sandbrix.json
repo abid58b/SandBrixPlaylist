@@ -1,5 +1,93 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "6932e65ec35fc8eed4d44ad8",
+            "name": "Melbourne Stars VS Sydney Thunder",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-28",
+            "start_date_time": "2025-12-28T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa54980f48a2d71d6afd",
+                "name": "Melbourne Stars",
+                "short_name": "Melbourne stars men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854202245-628609197.webp"
+            },
+            "team_b": {
+                "id": "673afa8c980f48a2d71d6b00",
+                "name": "Sydney Thunder",
+                "short_name": "Sydney thunder men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854164591-703399890.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764943451151-920968459.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "694d3f03e0f3830711d6c74d",
+            "name": "SOLID SC VS SUPER SUN SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "21",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-28",
+            "start_date_time": "2025-12-28T10:00:00.000Z",
+            "team_a": {
+                "id": "69206576d0b0fdbb565da4a4",
+                "name": "SOLID SC",
+                "short_name": "SOLID SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730804043-529676221.webp"
+            },
+            "team_b": {
+                "id": "692039dd50dafe260820f26b",
+                "name": "SUPER SUN SC",
+                "short_name": "SUPER SUN SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719642396-929413393.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766670080925-537014203.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "694d3f32e0f3830711d6c74e",
+            "name": "NEW STAR SC VS SERENDIB SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "22",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-28",
+            "start_date_time": "2025-12-28T14:00:00.000Z",
+            "team_a": {
+                "id": "692065ce3bc500419986c432",
+                "name": "NEW STAR SC",
+                "short_name": "NEW STAR SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730878587-577134984.webp"
+            },
+            "team_b": {
+                "id": "6920651eb99189116c55de1b",
+                "name": "SERENDIB SC",
+                "short_name": "SERENDIB SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730688710-50527613.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766670126658-970641522.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
