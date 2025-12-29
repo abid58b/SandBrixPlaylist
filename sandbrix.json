@@ -1,5 +1,93 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "6932e6bdb38ab16defa0ea51",
+            "name": "Hobart Hurricanes VS Melbourne Renegades",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-29",
+            "start_date_time": "2025-12-29T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa27980f48a2d71d6afb",
+                "name": "Hobart Hurricanes",
+                "short_name": "Hobart hurricanes men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854099552-905586195.webp"
+            },
+            "team_b": {
+                "id": "673afa3c96116b8cceadc354",
+                "name": "Melbourne Renegades",
+                "short_name": "Melbourne renegades men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854191296-556672901.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1764943545638-517702794.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "694d3f61e0f3830711d6c74f",
+            "name": "MORAGASMULLA SC VS SL POLICE SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "23",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-29",
+            "start_date_time": "2025-12-29T10:00:00.000Z",
+            "team_a": {
+                "id": "6920396e50dafe260820f26a",
+                "name": "MORAGASMULLA SC",
+                "short_name": "MORAGASMULLA SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719527577-37536545.webp"
+            },
+            "team_b": {
+                "id": "692039bd3bc500419986c42b",
+                "name": "SL POLICE SC",
+                "short_name": "SL POLICE SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719610019-469747418.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766670174550-66651508.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "694d3f8fe0f3830711d6c750",
+            "name": "SAUNDERS SC VS SLTB SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "24",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2025-12-29",
+            "start_date_time": "2025-12-29T14:00:00.000Z",
+            "team_a": {
+                "id": "692066613bc500419986c433",
+                "name": "SAUNDERS SC",
+                "short_name": "SAUNDERS SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731036634-474074906.webp"
+            },
+            "team_b": {
+                "id": "6920654c50dafe260820f274",
+                "name": "SLTB SC",
+                "short_name": "SLTB SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730758898-620955131.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766670220911-210417850.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
