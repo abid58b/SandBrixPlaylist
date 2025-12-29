@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="694d3f8fe0f3830711d6c750" tvg-name="SAUNDERS SC VS SLTB SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1766670220911-210417850.webp" group-title="Live",SAUNDERS SC VS SLTB SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
