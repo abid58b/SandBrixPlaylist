@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "694d3f61e0f3830711d6c74f",
-            "name": "MORAGASMULLA SC VS SL POLICE SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "23",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2025-12-29",
-            "start_date_time": "2025-12-29T10:00:00.000Z",
-            "team_a": {
-                "id": "6920396e50dafe260820f26a",
-                "name": "MORAGASMULLA SC",
-                "short_name": "MORAGASMULLA SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719527577-37536545.webp"
-            },
-            "team_b": {
-                "id": "692039bd3bc500419986c42b",
-                "name": "SL POLICE SC",
-                "short_name": "SL POLICE SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719610019-469747418.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1766670174550-66651508.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "694d3f8fe0f3830711d6c750",
             "name": "SAUNDERS SC VS SLTB SC",
             "category_name": "Football",
