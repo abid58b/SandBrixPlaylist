@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6932e6bdb38ab16defa0ea51" tvg-name="Hobart Hurricanes VS Melbourne Renegades" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764943545638-517702794.webp" group-title="Live",Hobart Hurricanes VS Melbourne Renegades
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
-
 #EXTINF:-1 tvg-id="694d3f61e0f3830711d6c74f" tvg-name="MORAGASMULLA SC VS SL POLICE SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1766670174550-66651508.webp" group-title="Live",MORAGASMULLA SC VS SL POLICE SC
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
