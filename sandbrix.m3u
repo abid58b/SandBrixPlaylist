@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6932e79b88cc91e2e8033f0c" tvg-name="Melbourne Renegades VS Sydney Sixers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1764943755592-301995818.webp" group-title="Live",Melbourne Renegades VS Sydney Sixers
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
+
