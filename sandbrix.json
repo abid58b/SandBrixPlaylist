@@ -32,6 +32,64 @@
             "content_zone_id": ""
         },
         {
+            "id": "6958aaeb7c9c32adff4f3845",
+            "name": "PELICANS SC VS SL POLICE SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "25",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-03",
+            "start_date_time": "2026-01-03T10:00:00.000Z",
+            "team_a": {
+                "id": "69203998d0b0fdbb565da497",
+                "name": "PELICANS SC",
+                "short_name": "PELICANS",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719560123-135588507.webp"
+            },
+            "team_b": {
+                "id": "692039bd3bc500419986c42b",
+                "name": "SL POLICE SC",
+                "short_name": "SL POLICE SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719610019-469747418.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767418598399-434205171.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "6958ab33507e7075a292906b",
+            "name": "NEGOMBO YOUTH FC VS SERENDIB SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "26",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-03",
+            "start_date_time": "2026-01-03T14:00:00.000Z",
+            "team_a": {
+                "id": "69206973d0b0fdbb565da4a7",
+                "name": "NEGOMBO YOUTH FC",
+                "short_name": "NEGOMBO YOUTH FC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731822909-1873510.webp"
+            },
+            "team_b": {
+                "id": "6920651eb99189116c55de1b",
+                "name": "SERENDIB SC",
+                "short_name": "SERENDIB SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730688710-50527613.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767418672625-764798730.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
             "id": "68e90a5a597318c837de563f",
             "name": "Tasmanian Tigers Women VS Queensland Fire Women",
             "category_name": "Cricket",
