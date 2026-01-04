@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "693c1628e8a59eea7fee81b5",
-            "name": "Perth Scorchers VS Adelaide Strikers",
-            "category_name": "Cricket",
-            "tour_id": "69318a83c35fc8eed4d44acb",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "23",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-04",
-            "start_date_time": "2026-01-04T10:00:00.000Z",
-            "team_a": {
-                "id": "673afa67980f48a2d71d6afe",
-                "name": "Perth Scorchers",
-                "short_name": "Perth scorchers men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854277867-709878106.webp"
-            },
-            "team_b": {
-                "id": "673afa0196116b8cceadc34f",
-                "name": "Adelaide Strikers",
-                "short_name": "Adelaide strikers men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854254420-14571717.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765545509641-815063603.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "6958abae7c9c32adff4f3846",
             "name": "SUPER SUN SC VS Matara City Club",
             "category_name": "Football",
