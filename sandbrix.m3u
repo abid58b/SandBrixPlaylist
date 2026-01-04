@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6958abae7c9c32adff4f3846" tvg-name="SUPER SUN SC VS Matara City Club" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767418792824-733822860.webp" group-title="Live",SUPER SUN SC VS Matara City Club
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
