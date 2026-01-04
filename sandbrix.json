@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "6958ab667bd2f9d846bb5bb0",
-            "name": "CRYSTAL PALACE FC VS NEW STAR SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "27",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-04",
-            "start_date_time": "2026-01-04T10:00:00.000Z",
-            "team_a": {
-                "id": "69206681d0b0fdbb565da4a6",
-                "name": "CRYSTAL PALACE FC",
-                "short_name": "CRYSTAL PALACE FC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731068574-506064448.webp"
-            },
-            "team_b": {
-                "id": "692065ce3bc500419986c432",
-                "name": "NEW STAR SC",
-                "short_name": "NEW STAR SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730878587-577134984.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767418720626-926698240.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "6958abae7c9c32adff4f3846",
             "name": "SUPER SUN SC VS Matara City Club",
             "category_name": "Football",
