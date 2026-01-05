@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68e90b3c6cf04d63ab038366" tvg-name="Queensland Fire Women VS Tasmanian Tigers Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760103219721-90731008.webp" group-title="Live",Queensland Fire Women VS Tasmanian Tigers Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/CnqXNydEKEunPd6x3815480106805843.m3u8
+
+#EXTINF:-1 tvg-id="68e90adc6cf04d63ab038365" tvg-name="ACT Meteors Women VS Victoria Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760103127140-380799960.webp" group-title="Live",ACT Meteors Women VS Victoria Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
