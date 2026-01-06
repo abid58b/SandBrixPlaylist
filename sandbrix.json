@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "693c16d121efabc398b5ed2b",
-            "name": "Adelaide Strikers VS Sydney Thunder",
-            "category_name": "Cricket",
-            "tour_id": "69318a83c35fc8eed4d44acb",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "25",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-06",
-            "start_date_time": "2026-01-06T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa0196116b8cceadc34f",
-                "name": "Adelaide Strikers",
-                "short_name": "Adelaide strikers men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854254420-14571717.webp"
-            },
-            "team_b": {
-                "id": "673afa8c980f48a2d71d6b00",
-                "name": "Sydney Thunder",
-                "short_name": "Sydney thunder men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854164591-703399890.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765545675998-435744878.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "69133eaa0d68b43a40ecf53a",
             "name": "Australia VS England",
             "category_name": "Cricket",
