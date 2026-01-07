@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "693c17ae21efabc398b5ed2c",
-            "name": "Perth Scorchers VS Melbourne Renegades",
-            "category_name": "Cricket",
-            "tour_id": "69318a83c35fc8eed4d44acb",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "26",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-07",
-            "start_date_time": "2026-01-07T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa67980f48a2d71d6afe",
-                "name": "Perth Scorchers",
-                "short_name": "Perth scorchers men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854277867-709878106.webp"
-            },
-            "team_b": {
-                "id": "673afa3c96116b8cceadc354",
-                "name": "Melbourne Renegades",
-                "short_name": "Melbourne renegades men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854191296-556672901.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765545891072-795539315.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68e90ba86cf04d63ab038367",
             "name": "Victoria Women VS ACT Meteors Women",
             "category_name": "Cricket",
