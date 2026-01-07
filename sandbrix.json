@@ -3,32 +3,61 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69133eaa0d68b43a40ecf53a",
-            "name": "Australia VS England",
+            "id": "693c17ae21efabc398b5ed2c",
+            "name": "Perth Scorchers VS Melbourne Renegades",
             "category_name": "Cricket",
-            "tour_id": "69133c680398da67b4a9ab38",
-            "tour_name": "The Ashes 2025-26",
-            "match_no": "5th Test | Day - 4",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "26",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-01-06",
-            "start_date_time": "2026-01-06T23:00:00.000Z",
+            "start_date": "2026-01-07",
+            "start_date_time": "2026-01-07T07:45:00.000Z",
             "team_a": {
-                "id": "66d44a7d3b04cf3cd8eb9361",
-                "name": "Australia",
-                "short_name": "Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1744617949741-168826235.png"
+                "id": "673afa67980f48a2d71d6afe",
+                "name": "Perth Scorchers",
+                "short_name": "Perth scorchers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854277867-709878106.webp"
             },
             "team_b": {
-                "id": "671bc2aa68d746820ca1213b",
-                "name": "England",
-                "short_name": "England",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1762868218224-473389600.webp"
+                "id": "673afa3c96116b8cceadc354",
+                "name": "Melbourne Renegades",
+                "short_name": "Melbourne renegades men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854191296-556672901.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1762868903739-948291864.webp",
-            "venue": "Sydney Cricket Ground ,Sydney",
-            "score_match_id": 84976,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765545891072-795539315.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68e90ba86cf04d63ab038367",
+            "name": "Victoria Women VS ACT Meteors Women",
+            "category_name": "Cricket",
+            "tour_id": "68d148c6050ee9aed47ce9da",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "16",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-07",
+            "start_date_time": "2026-01-07T22:30:00.000Z",
+            "team_a": {
+                "id": "675d0e1172efbbdadc2ef8f8",
+                "name": "Victoria Women",
+                "short_name": "Victoria Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545851330-325191706.webp"
+            },
+            "team_b": {
+                "id": "68d1483a29896ee3112ce411",
+                "name": "ACT Meteors Women",
+                "short_name": "ACT Meteors Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545976597-670572210.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760103331052-750408288.webp",
+            "venue": "EPC Solar Park ,Canberra",
+            "score_match_id": 92862,
             "content_zone_id": ""
         }
     ]
