@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
 
+#EXTINF:-1 tvg-id="693c180621efabc398b5ed2d" tvg-name="Melbourne Stars VS Sydney Sixers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1765545980254-893057376.webp" group-title="Live",Melbourne Stars VS Sydney Sixers
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
+
