@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68e90c0d972d8d159edde8ce" tvg-name="Western Australia Women VS South Australia Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760103430652-193795672.webp" group-title="Live",Western Australia Women VS South Australia Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
