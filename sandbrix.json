@@ -30,35 +30,6 @@
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
-        },
-        {
-            "id": "695e2dc96f35dbe20b274a47",
-            "name": "SAUNDERS SC VS NEW STAR SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "32",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-09",
-            "start_date_time": "2026-01-09T14:30:00.000Z",
-            "team_a": {
-                "id": "692066613bc500419986c433",
-                "name": "SAUNDERS SC",
-                "short_name": "SAUNDERS SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731036634-474074906.webp"
-            },
-            "team_b": {
-                "id": "692065ce3bc500419986c432",
-                "name": "NEW STAR SC",
-                "short_name": "NEW STAR SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730878587-577134984.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767779782619-712580746.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
         }
     ]
 }
