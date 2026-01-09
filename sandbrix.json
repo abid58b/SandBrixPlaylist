@@ -1,5 +1,122 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "693c1858e8a59eea7fee81b6",
+            "name": "Hobart Hurricanes VS Adelaide Strikers",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "28",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-09",
+            "start_date_time": "2026-01-09T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa27980f48a2d71d6afb",
+                "name": "Hobart Hurricanes",
+                "short_name": "Hobart hurricanes men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854099552-905586195.webp"
+            },
+            "team_b": {
+                "id": "673afa0196116b8cceadc34f",
+                "name": "Adelaide Strikers",
+                "short_name": "Adelaide strikers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854254420-14571717.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765546068330-366562778.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e2d996f35dbe20b274a46",
+            "name": "CRYSTAL PALACE FC VS SLTB SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "31",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-09",
+            "start_date_time": "2026-01-09T10:45:00.000Z",
+            "team_a": {
+                "id": "69206681d0b0fdbb565da4a6",
+                "name": "CRYSTAL PALACE FC",
+                "short_name": "CRYSTAL PALACE FC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731068574-506064448.webp"
+            },
+            "team_b": {
+                "id": "6920654c50dafe260820f274",
+                "name": "SLTB SC",
+                "short_name": "SLTB SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730758898-620955131.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767779732143-179180955.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695bbe0aa0bca5d514928358",
+            "name": "Mumbai Indians Women VS Royal Challengers Bengaluru Women",
+            "category_name": "Cricket",
+            "tour_id": "695bbdaf6f35dbe20b274a3b",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-09",
+            "start_date_time": "2026-01-09T13:30:00.000Z",
+            "team_a": {
+                "id": "695bbb70a0bca5d514928356",
+                "name": "Mumbai Indians Women",
+                "short_name": "MI Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619430341-820039308.webp"
+            },
+            "team_b": {
+                "id": "695bbbc26f35dbe20b274a39",
+                "name": "Royal Challengers Bengaluru Women",
+                "short_name": "RCB Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619517365-563580933.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767620104461-283028560.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e2dc96f35dbe20b274a47",
+            "name": "SAUNDERS SC VS NEW STAR SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "32",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-09",
+            "start_date_time": "2026-01-09T14:30:00.000Z",
+            "team_a": {
+                "id": "692066613bc500419986c433",
+                "name": "SAUNDERS SC",
+                "short_name": "SAUNDERS SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731036634-474074906.webp"
+            },
+            "team_b": {
+                "id": "692065ce3bc500419986c432",
+                "name": "NEW STAR SC",
+                "short_name": "NEW STAR SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730878587-577134984.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767779782619-712580746.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
