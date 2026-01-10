@@ -1,5 +1,209 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "693c18a921efabc398b5ed2e",
+            "name": "Brisbane Heat VS Sydney Thunder",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "29",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T04:30:00.000Z",
+            "team_a": {
+                "id": "673afa15980f48a2d71d6afa",
+                "name": "Brisbane Heat",
+                "short_name": "Brisbane heat men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854226988-491808519.webp"
+            },
+            "team_b": {
+                "id": "673afa8c980f48a2d71d6b00",
+                "name": "Sydney Thunder",
+                "short_name": "Sydney thunder men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854164591-703399890.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765546145569-513707904.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68e90c5a6cf04d63ab038368",
+            "name": "Western Australia Women VS South Australia Women",
+            "category_name": "Cricket",
+            "tour_id": "68d148c6050ee9aed47ce9da",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "18",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T05:00:00.000Z",
+            "team_a": {
+                "id": "675d0df2feaf9c45f3b7d0f0",
+                "name": "Western Australia Women",
+                "short_name": "Western Australia Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545837995-123656163.webp"
+            },
+            "team_b": {
+                "id": "675d0e4f72efbbdadc2ef8f9",
+                "name": "South Australia Women",
+                "short_name": "South Australia Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545874726-852226936.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760103510263-946297929.webp",
+            "venue": "W.A.C.A. Ground ,Perth",
+            "score_match_id": 92863,
+            "content_zone_id": ""
+        },
+        {
+            "id": "693c18e321efabc398b5ed2f",
+            "name": "Melbourne Renegades VS Melbourne Stars",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "30",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa3c96116b8cceadc354",
+                "name": "Melbourne Renegades",
+                "short_name": "Melbourne renegades men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854191296-556672901.webp"
+            },
+            "team_b": {
+                "id": "673afa54980f48a2d71d6afd",
+                "name": "Melbourne Stars",
+                "short_name": "Melbourne stars men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854202245-628609197.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765546205543-337924067.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695bbe4997a59830249f0454",
+            "name": "UP Warriorz Women VS Gujarat Giants Women",
+            "category_name": "Cricket",
+            "tour_id": "695bbdaf6f35dbe20b274a3b",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T09:00:00.000Z",
+            "team_a": {
+                "id": "695bbc3fa0bca5d514928357",
+                "name": "UP Warriorz Women",
+                "short_name": "UPW Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619645038-364473479.webp"
+            },
+            "team_b": {
+                "id": "695bbc6b97a59830249f0453",
+                "name": "Gujarat Giants Women",
+                "short_name": "GG Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619688117-370518227.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767620165407-425548084.jpg",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e2df46f35dbe20b274a48",
+            "name": "Java Lane SC VS NEGOMBO YOUTH FC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "33",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T10:00:00.000Z",
+            "team_a": {
+                "id": "69257a7867e62543527af29d",
+                "name": "Java Lane SC",
+                "short_name": "Java Lane SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063852751-985151343.webp"
+            },
+            "team_b": {
+                "id": "69206973d0b0fdbb565da4a7",
+                "name": "NEGOMBO YOUTH FC",
+                "short_name": "NEGOMBO YOUTH FC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731822909-1873510.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767779825065-772844806.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695bbe751f1a786103491fda",
+            "name": "Mumbai Indians Women VS Delhi Capitals Women",
+            "category_name": "Cricket",
+            "tour_id": "695bbdaf6f35dbe20b274a3b",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T13:30:00.000Z",
+            "team_a": {
+                "id": "695bbb70a0bca5d514928356",
+                "name": "Mumbai Indians Women",
+                "short_name": "MI Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619430341-820039308.webp"
+            },
+            "team_b": {
+                "id": "695bbc8c6f35dbe20b274a3a",
+                "name": "Delhi Capitals Women",
+                "short_name": "DC Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619722549-534200513.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767620211277-489382091.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e2e2f97a59830249f046c",
+            "name": "SOLID SC VS MORAGASMULLA SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "34",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-10",
+            "start_date_time": "2026-01-10T14:00:00.000Z",
+            "team_a": {
+                "id": "69206576d0b0fdbb565da4a4",
+                "name": "SOLID SC",
+                "short_name": "SOLID SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730804043-529676221.webp"
+            },
+            "team_b": {
+                "id": "6920396e50dafe260820f26a",
+                "name": "MORAGASMULLA SC",
+                "short_name": "MORAGASMULLA SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719527577-37536545.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767779884923-725882916.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
