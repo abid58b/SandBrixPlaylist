@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="693c18a921efabc398b5ed2e" tvg-name="Brisbane Heat VS Sydney Thunder" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1765546145569-513707904.webp" group-title="Live",Brisbane Heat VS Sydney Thunder
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
-
 #EXTINF:-1 tvg-id="68e90c5a6cf04d63ab038368" tvg-name="Western Australia Women VS South Australia Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760103510263-946297929.webp" group-title="Live",Western Australia Women VS South Australia Women
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
