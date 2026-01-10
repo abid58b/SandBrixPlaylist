@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68e90c5a6cf04d63ab038368" tvg-name="Western Australia Women VS South Australia Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760103510263-946297929.webp" group-title="Live",Western Australia Women VS South Australia Women
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
 #EXTINF:-1 tvg-id="693c18e321efabc398b5ed2f" tvg-name="Melbourne Renegades VS Melbourne Stars" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1765546205543-337924067.webp" group-title="Live",Melbourne Renegades VS Melbourne Stars
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
