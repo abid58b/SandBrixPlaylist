@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "695bbe4997a59830249f0454",
-            "name": "UP Warriorz Women VS Gujarat Giants Women",
-            "category_name": "Cricket",
-            "tour_id": "695bbdaf6f35dbe20b274a3b",
-            "tour_name": "Women's Premier League 2026",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-10",
-            "start_date_time": "2026-01-10T09:00:00.000Z",
-            "team_a": {
-                "id": "695bbc3fa0bca5d514928357",
-                "name": "UP Warriorz Women",
-                "short_name": "UPW Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619645038-364473479.webp"
-            },
-            "team_b": {
-                "id": "695bbc6b97a59830249f0453",
-                "name": "Gujarat Giants Women",
-                "short_name": "GG Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619688117-370518227.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767620165407-425548084.jpg",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "695bbe751f1a786103491fda",
             "name": "Mumbai Indians Women VS Delhi Capitals Women",
             "category_name": "Cricket",
