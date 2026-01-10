@@ -32,35 +32,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "695e2df46f35dbe20b274a48",
-            "name": "Java Lane SC VS NEGOMBO YOUTH FC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "33",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-10",
-            "start_date_time": "2026-01-10T10:00:00.000Z",
-            "team_a": {
-                "id": "69257a7867e62543527af29d",
-                "name": "Java Lane SC",
-                "short_name": "Java Lane SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063852751-985151343.webp"
-            },
-            "team_b": {
-                "id": "69206973d0b0fdbb565da4a7",
-                "name": "NEGOMBO YOUTH FC",
-                "short_name": "NEGOMBO YOUTH FC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731822909-1873510.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767779825065-772844806.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "695bbe751f1a786103491fda",
             "name": "Mumbai Indians Women VS Delhi Capitals Women",
             "category_name": "Cricket",
