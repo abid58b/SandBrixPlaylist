@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="693c18e321efabc398b5ed2f" tvg-name="Melbourne Renegades VS Melbourne Stars" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1765546205543-337924067.webp" group-title="Live",Melbourne Renegades VS Melbourne Stars
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
-
 #EXTINF:-1 tvg-id="695bbe4997a59830249f0454" tvg-name="UP Warriorz Women VS Gujarat Giants Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767620165407-425548084.jpg" group-title="Live",UP Warriorz Women VS Gujarat Giants Women
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
