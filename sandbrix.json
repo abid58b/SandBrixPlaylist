@@ -30,35 +30,6 @@
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
-        },
-        {
-            "id": "695e2e2f97a59830249f046c",
-            "name": "SOLID SC VS MORAGASMULLA SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "34",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-10",
-            "start_date_time": "2026-01-10T14:00:00.000Z",
-            "team_a": {
-                "id": "69206576d0b0fdbb565da4a4",
-                "name": "SOLID SC",
-                "short_name": "SOLID SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730804043-529676221.webp"
-            },
-            "team_b": {
-                "id": "6920396e50dafe260820f26a",
-                "name": "MORAGASMULLA SC",
-                "short_name": "MORAGASMULLA SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719527577-37536545.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767779884923-725882916.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
         }
     ]
 }
