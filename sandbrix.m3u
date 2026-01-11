@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="693c1ac5a4f40de951b7da81" tvg-name="Adelaide Strikers VS Perth Scorchers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1765546689922-914650057.webp" group-title="Live",Adelaide Strikers VS Perth Scorchers
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
-
 #EXTINF:-1 tvg-id="695e2e58a0bca5d51492836c" tvg-name="ST. MARY’S SC VS SUPER SUN SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767779924672-386133935.webp" group-title="Live",ST. MARY’S SC VS SUPER SUN SC
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
