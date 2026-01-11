@@ -30,35 +30,6 @@
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
-        },
-        {
-            "id": "695e2e9d97a59830249f046d",
-            "name": "Matara City Club VS PELICANS SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "36",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-11",
-            "start_date_time": "2026-01-11T14:00:00.000Z",
-            "team_a": {
-                "id": "69257a98870cb13512d7311b",
-                "name": "Matara City Club",
-                "short_name": "Matara City Club",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063892412-771236280.webp"
-            },
-            "team_b": {
-                "id": "69203998d0b0fdbb565da497",
-                "name": "PELICANS SC",
-                "short_name": "PELICANS",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719560123-135588507.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767779991025-547323035.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
         }
     ]
 }
