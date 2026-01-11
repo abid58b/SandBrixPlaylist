@@ -1,5 +1,151 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "693c19b45f08a89148086dd5",
+            "name": "Sydney Sixers VS Hobart Hurricanes",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "31",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-11",
+            "start_date_time": "2026-01-11T02:35:00.000Z",
+            "team_a": {
+                "id": "673afa7c980f48a2d71d6aff",
+                "name": "Sydney Sixers",
+                "short_name": "Sydney sixers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854141912-239740257.webp"
+            },
+            "team_b": {
+                "id": "673afa27980f48a2d71d6afb",
+                "name": "Hobart Hurricanes",
+                "short_name": "Hobart hurricanes men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854099552-905586195.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765546416981-587207841.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "693c1ac5a4f40de951b7da81",
+            "name": "Adelaide Strikers VS Perth Scorchers",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "32",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-11",
+            "start_date_time": "2026-01-11T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa0196116b8cceadc34f",
+                "name": "Adelaide Strikers",
+                "short_name": "Adelaide strikers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854254420-14571717.webp"
+            },
+            "team_b": {
+                "id": "673afa67980f48a2d71d6afe",
+                "name": "Perth Scorchers",
+                "short_name": "Perth scorchers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854277867-709878106.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765546689922-914650057.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695bbeb9a0bca5d514928359",
+            "name": "Delhi Capitals Women VS Gujarat Giants Women",
+            "category_name": "Cricket",
+            "tour_id": "695bbdaf6f35dbe20b274a3b",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-11",
+            "start_date_time": "2026-01-11T13:30:00.000Z",
+            "team_a": {
+                "id": "695bbc8c6f35dbe20b274a3a",
+                "name": "Delhi Capitals Women",
+                "short_name": "DC Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619722549-534200513.webp"
+            },
+            "team_b": {
+                "id": "695bbc6b97a59830249f0453",
+                "name": "Gujarat Giants Women",
+                "short_name": "GG Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619688117-370518227.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767620273703-850635508.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e2e58a0bca5d51492836c",
+            "name": "ST. MARY’S SC VS SUPER SUN SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "35",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-11",
+            "start_date_time": "2026-01-11T14:00:00.000Z",
+            "team_a": {
+                "id": "6920659fd0b0fdbb565da4a5",
+                "name": "ST. MARY’S SC",
+                "short_name": "ST. MARY’S SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730841705-646400233.webp"
+            },
+            "team_b": {
+                "id": "692039dd50dafe260820f26b",
+                "name": "SUPER SUN SC",
+                "short_name": "SUPER SUN SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719642396-929413393.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767779924672-386133935.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e2e9d97a59830249f046d",
+            "name": "Matara City Club VS PELICANS SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "36",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-11",
+            "start_date_time": "2026-01-11T14:00:00.000Z",
+            "team_a": {
+                "id": "69257a98870cb13512d7311b",
+                "name": "Matara City Club",
+                "short_name": "Matara City Club",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063892412-771236280.webp"
+            },
+            "team_b": {
+                "id": "69203998d0b0fdbb565da497",
+                "name": "PELICANS SC",
+                "short_name": "PELICANS",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719560123-135588507.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767779991025-547323035.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
