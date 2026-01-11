@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
 
+#EXTINF:-1 tvg-id="695e2e9d97a59830249f046d" tvg-name="Matara City Club VS PELICANS SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767779991025-547323035.webp" group-title="Live",Matara City Club VS PELICANS SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
