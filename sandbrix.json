@@ -1,5 +1,64 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "693c1b145f08a89148086dd6",
+            "name": "Sydney Thunder VS Melbourne Renegades",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "33",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-12",
+            "start_date_time": "2026-01-12T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa8c980f48a2d71d6b00",
+                "name": "Sydney Thunder",
+                "short_name": "Sydney thunder men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854164591-703399890.webp"
+            },
+            "team_b": {
+                "id": "673afa3c96116b8cceadc354",
+                "name": "Melbourne Renegades",
+                "short_name": "Melbourne renegades men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854191296-556672901.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765546764271-315485866.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695bbf426f35dbe20b274a3c",
+            "name": "Royal Challengers Bengaluru Women VS UP Warriorz Women",
+            "category_name": "Cricket",
+            "tour_id": "695bbdaf6f35dbe20b274a3b",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-12",
+            "start_date_time": "2026-01-12T13:30:00.000Z",
+            "team_a": {
+                "id": "695bbbc26f35dbe20b274a39",
+                "name": "Royal Challengers Bengaluru Women",
+                "short_name": "RCB Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619517365-563580933.webp"
+            },
+            "team_b": {
+                "id": "695bbc3fa0bca5d514928357",
+                "name": "UP Warriorz Women",
+                "short_name": "UPW Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619645038-364473479.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767623699080-14812603.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
