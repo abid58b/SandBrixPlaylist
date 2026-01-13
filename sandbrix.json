@@ -1,5 +1,64 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "693c1b6aa4f40de951b7da82",
+            "name": "Melbourne Stars VS Adelaide Strikers",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "34",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-13",
+            "start_date_time": "2026-01-13T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa54980f48a2d71d6afd",
+                "name": "Melbourne Stars",
+                "short_name": "Melbourne stars men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854202245-628609197.webp"
+            },
+            "team_b": {
+                "id": "673afa0196116b8cceadc34f",
+                "name": "Adelaide Strikers",
+                "short_name": "Adelaide strikers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854254420-14571717.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765546851318-234519206.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695bbf7697a59830249f0455",
+            "name": "Mumbai Indians Women VS Gujarat Giants Women",
+            "category_name": "Cricket",
+            "tour_id": "695bbdaf6f35dbe20b274a3b",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-13",
+            "start_date_time": "2026-01-13T13:30:00.000Z",
+            "team_a": {
+                "id": "695bbb70a0bca5d514928356",
+                "name": "Mumbai Indians Women",
+                "short_name": "MI Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619430341-820039308.webp"
+            },
+            "team_b": {
+                "id": "695bbc6b97a59830249f0453",
+                "name": "Gujarat Giants Women",
+                "short_name": "GG Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619688117-370518227.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767623721512-872017754.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
