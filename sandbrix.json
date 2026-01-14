@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "695bbfae1f1a786103491fdb",
-            "name": "UP Warriorz Women VS Delhi Capitals Women",
-            "category_name": "Cricket",
-            "tour_id": "695bbdaf6f35dbe20b274a3b",
-            "tour_name": "Women's Premier League 2026",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-14",
-            "start_date_time": "2026-01-14T13:30:00.000Z",
-            "team_a": {
-                "id": "695bbc3fa0bca5d514928357",
-                "name": "UP Warriorz Women",
-                "short_name": "UPW Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619645038-364473479.webp"
-            },
-            "team_b": {
-                "id": "695bbc8c6f35dbe20b274a3a",
-                "name": "Delhi Capitals Women",
-                "short_name": "DC Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619722549-534200513.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767620520759-828197589.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
