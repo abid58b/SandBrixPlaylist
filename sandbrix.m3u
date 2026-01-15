@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="695bbfe4a0bca5d51492835a" tvg-name="Mumbai Indians Women VS UP Warriorz Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767620575666-47464824.webp" group-title="Live",Mumbai Indians Women VS UP Warriorz Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
+
