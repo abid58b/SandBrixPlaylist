@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "693c1c33e8a59eea7fee81b7",
-            "name": "Melbourne Renegades VS Perth Scorchers",
-            "category_name": "Cricket",
-            "tour_id": "69318a83c35fc8eed4d44acb",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "36",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-15",
-            "start_date_time": "2026-01-15T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa3c96116b8cceadc354",
-                "name": "Melbourne Renegades",
-                "short_name": "Melbourne renegades men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854191296-556672901.webp"
-            },
-            "team_b": {
-                "id": "673afa67980f48a2d71d6afe",
-                "name": "Perth Scorchers",
-                "short_name": "Perth scorchers men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854277867-709878106.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765546994598-389291130.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "695bbfe4a0bca5d51492835a",
             "name": "Mumbai Indians Women VS UP Warriorz Women",
             "category_name": "Cricket",
