@@ -1,5 +1,122 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "693c1d4a5f08a89148086dd8",
+            "name": "Sydney Sixers VS Sydney Thunder",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "37",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa7c980f48a2d71d6aff",
+                "name": "Sydney Sixers",
+                "short_name": "Sydney sixers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854141912-239740257.webp"
+            },
+            "team_b": {
+                "id": "673afa8c980f48a2d71d6b00",
+                "name": "Sydney Thunder",
+                "short_name": "Sydney thunder men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854164591-703399890.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765547332231-348985160.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e2ee497a59830249f046e",
+            "name": "SLTB SC VS NEGOMBO YOUTH FC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "37",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T10:45:00.000Z",
+            "team_a": {
+                "id": "6920654c50dafe260820f274",
+                "name": "SLTB SC",
+                "short_name": "SLTB SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730758898-620955131.webp"
+            },
+            "team_b": {
+                "id": "69206973d0b0fdbb565da4a7",
+                "name": "NEGOMBO YOUTH FC",
+                "short_name": "NEGOMBO YOUTH FC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731822909-1873510.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767780090896-211914595.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695bc0266f35dbe20b274a3d",
+            "name": "Royal Challengers Bengaluru Women VS Gujarat Giants Women",
+            "category_name": "Cricket",
+            "tour_id": "695bbdaf6f35dbe20b274a3b",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T13:30:00.000Z",
+            "team_a": {
+                "id": "695bbbc26f35dbe20b274a39",
+                "name": "Royal Challengers Bengaluru Women",
+                "short_name": "RCB Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619517365-563580933.webp"
+            },
+            "team_b": {
+                "id": "695bbc6b97a59830249f0453",
+                "name": "Gujarat Giants Women",
+                "short_name": "GG Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619688117-370518227.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767620637119-141291357.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e2f3f1f1a786103491fe5",
+            "name": "SUPER SUN SC VS PELICANS SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "38",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-16",
+            "start_date_time": "2026-01-16T14:30:00.000Z",
+            "team_a": {
+                "id": "692039dd50dafe260820f26b",
+                "name": "SUPER SUN SC",
+                "short_name": "SUPER SUN SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719642396-929413393.webp"
+            },
+            "team_b": {
+                "id": "69203998d0b0fdbb565da497",
+                "name": "PELICANS SC",
+                "short_name": "PELICANS",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719560123-135588507.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767780157018-558049608.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
