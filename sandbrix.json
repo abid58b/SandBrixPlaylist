@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "695bc05d97a59830249f0456",
-            "name": "UP Warriorz Women VS Mumbai Indians Women",
-            "category_name": "Cricket",
-            "tour_id": "695bbdaf6f35dbe20b274a3b",
-            "tour_name": "Women's Premier League 2026",
-            "match_no": "10",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-17",
-            "start_date_time": "2026-01-17T09:00:00.000Z",
-            "team_a": {
-                "id": "695bbc3fa0bca5d514928357",
-                "name": "UP Warriorz Women",
-                "short_name": "UPW Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619645038-364473479.webp"
-            },
-            "team_b": {
-                "id": "695bbb70a0bca5d514928356",
-                "name": "Mumbai Indians Women",
-                "short_name": "MI Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619430341-820039308.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767620697297-982864700.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "695bc09ea0bca5d51492835b",
             "name": "Delhi Capitals Women VS Royal Challengers Bengaluru Women",
             "category_name": "Cricket",
