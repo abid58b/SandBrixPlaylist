@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "695bc09ea0bca5d51492835b",
-            "name": "Delhi Capitals Women VS Royal Challengers Bengaluru Women",
-            "category_name": "Cricket",
-            "tour_id": "695bbdaf6f35dbe20b274a3b",
-            "tour_name": "Women's Premier League 2026",
-            "match_no": "11",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-17",
-            "start_date_time": "2026-01-17T13:30:00.000Z",
-            "team_a": {
-                "id": "695bbc8c6f35dbe20b274a3a",
-                "name": "Delhi Capitals Women",
-                "short_name": "DC Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619722549-534200513.webp"
-            },
-            "team_b": {
-                "id": "695bbbc26f35dbe20b274a39",
-                "name": "Royal Challengers Bengaluru Women",
-                "short_name": "RCB Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619517365-563580933.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767620751495-830609084.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
