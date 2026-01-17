@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
 
+#EXTINF:-1 tvg-id="695e2fb6a0bca5d51492836d" tvg-name="Matara City Club VS SOLID SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767780274372-666713215.webp" group-title="Live",Matara City Club VS SOLID SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
