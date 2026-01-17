@@ -1,5 +1,180 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "693c1d8ae8a59eea7fee81b8",
+            "name": "Adelaide Strikers VS Melbourne Renegades",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "38",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-17",
+            "start_date_time": "2026-01-17T05:30:00.000Z",
+            "team_a": {
+                "id": "673afa0196116b8cceadc34f",
+                "name": "Adelaide Strikers",
+                "short_name": "Adelaide strikers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854254420-14571717.webp"
+            },
+            "team_b": {
+                "id": "673afa3c96116b8cceadc354",
+                "name": "Melbourne Renegades",
+                "short_name": "Melbourne renegades men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854191296-556672901.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765547398170-849100414.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "693c1f3d21efabc398b5ed30",
+            "name": "Perth Scorchers VS Melbourne Stars",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "39",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-17",
+            "start_date_time": "2026-01-17T08:45:00.000Z",
+            "team_a": {
+                "id": "673afa67980f48a2d71d6afe",
+                "name": "Perth Scorchers",
+                "short_name": "Perth scorchers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854277867-709878106.webp"
+            },
+            "team_b": {
+                "id": "673afa54980f48a2d71d6afd",
+                "name": "Melbourne Stars",
+                "short_name": "Melbourne stars men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854202245-628609197.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765547830694-376801671.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695bc05d97a59830249f0456",
+            "name": "UP Warriorz Women VS Mumbai Indians Women",
+            "category_name": "Cricket",
+            "tour_id": "695bbdaf6f35dbe20b274a3b",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-17",
+            "start_date_time": "2026-01-17T09:00:00.000Z",
+            "team_a": {
+                "id": "695bbc3fa0bca5d514928357",
+                "name": "UP Warriorz Women",
+                "short_name": "UPW Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619645038-364473479.webp"
+            },
+            "team_b": {
+                "id": "695bbb70a0bca5d514928356",
+                "name": "Mumbai Indians Women",
+                "short_name": "MI Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619430341-820039308.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767620697297-982864700.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e2f7f97a59830249f046f",
+            "name": "CRYSTAL PALACE FC VS SERENDIB SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "39",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-17",
+            "start_date_time": "2026-01-17T10:00:00.000Z",
+            "team_a": {
+                "id": "69206681d0b0fdbb565da4a6",
+                "name": "CRYSTAL PALACE FC",
+                "short_name": "CRYSTAL PALACE FC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731068574-506064448.webp"
+            },
+            "team_b": {
+                "id": "6920651eb99189116c55de1b",
+                "name": "SERENDIB SC",
+                "short_name": "SERENDIB SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730688710-50527613.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767780217951-865618691.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695bc09ea0bca5d51492835b",
+            "name": "Delhi Capitals Women VS Royal Challengers Bengaluru Women",
+            "category_name": "Cricket",
+            "tour_id": "695bbdaf6f35dbe20b274a3b",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-17",
+            "start_date_time": "2026-01-17T13:30:00.000Z",
+            "team_a": {
+                "id": "695bbc8c6f35dbe20b274a3a",
+                "name": "Delhi Capitals Women",
+                "short_name": "DC Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619722549-534200513.webp"
+            },
+            "team_b": {
+                "id": "695bbbc26f35dbe20b274a39",
+                "name": "Royal Challengers Bengaluru Women",
+                "short_name": "RCB Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619517365-563580933.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767620751495-830609084.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e2fb6a0bca5d51492836d",
+            "name": "Matara City Club VS SOLID SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "40",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-17",
+            "start_date_time": "2026-01-17T14:00:00.000Z",
+            "team_a": {
+                "id": "69257a98870cb13512d7311b",
+                "name": "Matara City Club",
+                "short_name": "Matara City Club",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063892412-771236280.webp"
+            },
+            "team_b": {
+                "id": "69206576d0b0fdbb565da4a4",
+                "name": "SOLID SC",
+                "short_name": "SOLID SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730804043-529676221.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767780274372-666713215.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
