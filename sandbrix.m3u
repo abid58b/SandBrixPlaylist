@@ -1,14 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="693c1f3d21efabc398b5ed30" tvg-name="Perth Scorchers VS Melbourne Stars" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1765547830694-376801671.webp" group-title="Live",Perth Scorchers VS Melbourne Stars
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
-
 #EXTINF:-1 tvg-id="695bc05d97a59830249f0456" tvg-name="UP Warriorz Women VS Mumbai Indians Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767620697297-982864700.webp" group-title="Live",UP Warriorz Women VS Mumbai Indians Women
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
-
-#EXTINF:-1 tvg-id="695e2f7f97a59830249f046f" tvg-name="CRYSTAL PALACE FC VS SERENDIB SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767780217951-865618691.webp" group-title="Live",CRYSTAL PALACE FC VS SERENDIB SC
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
 
