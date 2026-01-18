@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "695e30276f35dbe20b274a4a",
-            "name": "Java Lane SC VS SAUNDERS SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "42",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-18",
-            "start_date_time": "2026-01-18T14:00:00.000Z",
-            "team_a": {
-                "id": "69257a7867e62543527af29d",
-                "name": "Java Lane SC",
-                "short_name": "Java Lane SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063852751-985151343.webp"
-            },
-            "team_b": {
-                "id": "692066613bc500419986c433",
-                "name": "SAUNDERS SC",
-                "short_name": "SAUNDERS SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731036634-474074906.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767780387443-264020465.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
