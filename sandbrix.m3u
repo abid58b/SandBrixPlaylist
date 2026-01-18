@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="693c1f83a4f40de951b7da83" tvg-name="Brisbane Heat VS Sydney Sixers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1765547902652-93579951.webp" group-title="Live",Brisbane Heat VS Sydney Sixers
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
+
