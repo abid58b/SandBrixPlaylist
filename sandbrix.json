@@ -1,5 +1,93 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "693c1f83a4f40de951b7da83",
+            "name": "Brisbane Heat VS Sydney Sixers",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "40",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-18",
+            "start_date_time": "2026-01-18T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa15980f48a2d71d6afa",
+                "name": "Brisbane Heat",
+                "short_name": "Brisbane heat men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854226988-491808519.webp"
+            },
+            "team_b": {
+                "id": "673afa7c980f48a2d71d6aff",
+                "name": "Sydney Sixers",
+                "short_name": "Sydney sixers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854141912-239740257.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765547902652-93579951.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e2fea6f35dbe20b274a49",
+            "name": "ST. MARY’S SC VS SL POLICE SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "41",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-18",
+            "start_date_time": "2026-01-18T10:00:00.000Z",
+            "team_a": {
+                "id": "6920659fd0b0fdbb565da4a5",
+                "name": "ST. MARY’S SC",
+                "short_name": "ST. MARY’S SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730841705-646400233.webp"
+            },
+            "team_b": {
+                "id": "692039bd3bc500419986c42b",
+                "name": "SL POLICE SC",
+                "short_name": "SL POLICE SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719610019-469747418.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767780322325-3131164.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e30276f35dbe20b274a4a",
+            "name": "Java Lane SC VS SAUNDERS SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "42",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-18",
+            "start_date_time": "2026-01-18T14:00:00.000Z",
+            "team_a": {
+                "id": "69257a7867e62543527af29d",
+                "name": "Java Lane SC",
+                "short_name": "Java Lane SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063852751-985151343.webp"
+            },
+            "team_b": {
+                "id": "692066613bc500419986c433",
+                "name": "SAUNDERS SC",
+                "short_name": "SAUNDERS SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731036634-474074906.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767780387443-264020465.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
