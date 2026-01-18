@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
 
+#EXTINF:-1 tvg-id="695e2fea6f35dbe20b274a49" tvg-name="ST. MARY’S SC VS SL POLICE SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767780322325-3131164.webp" group-title="Live",ST. MARY’S SC VS SL POLICE SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
