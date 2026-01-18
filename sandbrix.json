@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "693c1f83a4f40de951b7da83",
-            "name": "Brisbane Heat VS Sydney Sixers",
-            "category_name": "Cricket",
-            "tour_id": "69318a83c35fc8eed4d44acb",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "40",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-18",
-            "start_date_time": "2026-01-18T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa15980f48a2d71d6afa",
-                "name": "Brisbane Heat",
-                "short_name": "Brisbane heat men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854226988-491808519.webp"
-            },
-            "team_b": {
-                "id": "673afa7c980f48a2d71d6aff",
-                "name": "Sydney Sixers",
-                "short_name": "Sydney sixers men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854141912-239740257.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1765547902652-93579951.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "695e2fea6f35dbe20b274a49",
             "name": "ST. MARY’S SC VS SL POLICE SC",
             "category_name": "Football",
