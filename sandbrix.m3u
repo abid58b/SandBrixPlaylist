@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="695bc13697a59830249f0457" tvg-name="Delhi Capitals Women VS Mumbai Indians Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767620915082-412629096.webp" group-title="Live",Delhi Capitals Women VS Mumbai Indians Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
+
