@@ -30,6 +30,35 @@
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
+        },
+        {
+            "id": "696f95a66f35dbe20b274a9e",
+            "name": "MG Lion Monsters VS VLBook 777 Vipers",
+            "category_name": "Cricket",
+            "tour_id": "696f951da0bca5d5149283c0",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-20",
+            "start_date_time": "2026-01-20T15:30:00.000Z",
+            "team_a": {
+                "id": "696f946c97a59830249f04c1",
+                "name": "MG Lion Monsters",
+                "short_name": "MG Lion Monsters",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1768920170100-74936191.webp"
+            },
+            "team_b": {
+                "id": "696f94c5a0bca5d5149283bf",
+                "name": "VLBook 777 Vipers",
+                "short_name": "VLBook 777 Vipers",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1768920259157-616399973.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1768920831844-895327792.png",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
         }
     ]
 }
