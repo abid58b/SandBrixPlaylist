@@ -1,5 +1,122 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "696d11776f35dbe20b274a9a",
+            "name": "Hobart Hurricanes VS Melbourne Stars",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "Knockout",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T08:00:00.000Z",
+            "team_a": {
+                "id": "673afa27980f48a2d71d6afb",
+                "name": "Hobart Hurricanes",
+                "short_name": "Hobart hurricanes men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854099552-905586195.webp"
+            },
+            "team_b": {
+                "id": "673afa54980f48a2d71d6afd",
+                "name": "Melbourne Stars",
+                "short_name": "Melbourne stars men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854202245-628609197.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1768755572437-972888922.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "696fbc17a0bca5d5149283c4",
+            "name": "DuraBet Dragons VS CricAdda Captivators",
+            "category_name": "Cricket",
+            "tour_id": "696f951da0bca5d5149283c0",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "9",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T12:30:00.000Z",
+            "team_a": {
+                "id": "696fbaa96f35dbe20b274a9f",
+                "name": "DuraBet Dragons",
+                "short_name": "DuraBet Dragons",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1768929957315-527346895.webp"
+            },
+            "team_b": {
+                "id": "696fbac897a59830249f04c3",
+                "name": "CricAdda Captivators",
+                "short_name": "CricAdda Captivators",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1768929990088-735674379.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1768930323776-389595481.png",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68e90da9972d8d159edde8cf",
+            "name": "ACT Meteors Women VS NSW Women",
+            "category_name": "Cricket",
+            "tour_id": "68d148c6050ee9aed47ce9da",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "21",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T23:00:00.000Z",
+            "team_a": {
+                "id": "68d1483a29896ee3112ce411",
+                "name": "ACT Meteors Women",
+                "short_name": "ACT Meteors Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545976597-670572210.webp"
+            },
+            "team_b": {
+                "id": "675d0e8972efbbdadc2ef8fa",
+                "name": "NSW Women",
+                "short_name": "NSW Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545913239-407054954.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760103842429-850467201.webp",
+            "venue": "EPC Solar Park ,Canberra",
+            "score_match_id": 92868,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68e90df86cf04d63ab038369",
+            "name": "Queensland Fire Women VS South Australia Women",
+            "category_name": "Cricket",
+            "tour_id": "68d148c6050ee9aed47ce9da",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "22",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-21",
+            "start_date_time": "2026-01-21T23:00:00.000Z",
+            "team_a": {
+                "id": "675d0e6c7520fc727ac56980",
+                "name": "Queensland Fire Women",
+                "short_name": "Queensland Fire",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545898990-843116547.webp"
+            },
+            "team_b": {
+                "id": "675d0e4f72efbbdadc2ef8f9",
+                "name": "South Australia Women",
+                "short_name": "South Australia Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545874726-852226936.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760103924042-832326763.webp",
+            "venue": "Allan Border Field ,Brisbane",
+            "score_match_id": 92867,
+            "content_zone_id": ""
+        }
+    ]
 }
