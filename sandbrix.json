@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "696d11776f35dbe20b274a9a",
-            "name": "Hobart Hurricanes VS Melbourne Stars",
-            "category_name": "Cricket",
-            "tour_id": "69318a83c35fc8eed4d44acb",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "Knockout",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-21",
-            "start_date_time": "2026-01-21T08:00:00.000Z",
-            "team_a": {
-                "id": "673afa27980f48a2d71d6afb",
-                "name": "Hobart Hurricanes",
-                "short_name": "Hobart hurricanes men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854099552-905586195.webp"
-            },
-            "team_b": {
-                "id": "673afa54980f48a2d71d6afd",
-                "name": "Melbourne Stars",
-                "short_name": "Melbourne stars men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854202245-628609197.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1768755572437-972888922.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "696fbc17a0bca5d5149283c4",
             "name": "DuraBet Dragons VS CricAdda Captivators",
             "category_name": "Cricket",
