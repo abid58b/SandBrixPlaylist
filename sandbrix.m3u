@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="696fbc17a0bca5d5149283c4" tvg-name="DuraBet Dragons VS CricAdda Captivators" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1768973085057-807445616.webp" group-title="Live",DuraBet Dragons VS CricAdda Captivators
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
+
