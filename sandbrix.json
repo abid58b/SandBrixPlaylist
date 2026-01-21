@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "696fbc17a0bca5d5149283c4",
-            "name": "DuraBet Dragons VS CricAdda Captivators",
-            "category_name": "Cricket",
-            "tour_id": "696f951da0bca5d5149283c0",
-            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
-            "match_no": "9",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-21",
-            "start_date_time": "2026-01-21T12:30:00.000Z",
-            "team_a": {
-                "id": "696fbaa96f35dbe20b274a9f",
-                "name": "DuraBet Dragons",
-                "short_name": "DuraBet Dragons",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1768929957315-527346895.webp"
-            },
-            "team_b": {
-                "id": "696fbac897a59830249f04c3",
-                "name": "CricAdda Captivators",
-                "short_name": "CricAdda Captivators",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1768929990088-735674379.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1768973085057-807445616.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "6970a27497a59830249f04c7",
             "name": "Winfair 247 Warriors VS MG Lion Monsters",
             "category_name": "Cricket",
