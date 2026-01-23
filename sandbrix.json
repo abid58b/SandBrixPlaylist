@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69710750a0bca5d5149283df",
-            "name": "Sydney Sixers VS Hobart Hurricanes",
-            "category_name": "Cricket",
-            "tour_id": "69318a83c35fc8eed4d44acb",
-            "tour_name": "Big Bash League 2025-26",
-            "match_no": "Challenger",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-23",
-            "start_date_time": "2026-01-23T07:45:00.000Z",
-            "team_a": {
-                "id": "673afa7c980f48a2d71d6aff",
-                "name": "Sydney Sixers",
-                "short_name": "Sydney sixers men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854141912-239740257.webp"
-            },
-            "team_b": {
-                "id": "673afa27980f48a2d71d6afb",
-                "name": "Hobart Hurricanes",
-                "short_name": "Hobart hurricanes men",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854099552-905586195.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769015116669-376981994.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "695e30926f35dbe20b274a4b",
             "name": "MORAGASMULLA SC VS Matara City Club",
             "category_name": "Football",
