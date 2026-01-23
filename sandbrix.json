@@ -1,5 +1,151 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "69710750a0bca5d5149283df",
+            "name": "Sydney Sixers VS Hobart Hurricanes",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "Challenger",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-23",
+            "start_date_time": "2026-01-23T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa7c980f48a2d71d6aff",
+                "name": "Sydney Sixers",
+                "short_name": "Sydney sixers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854141912-239740257.webp"
+            },
+            "team_b": {
+                "id": "673afa27980f48a2d71d6afb",
+                "name": "Hobart Hurricanes",
+                "short_name": "Hobart hurricanes men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854099552-905586195.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769015116669-376981994.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e30926f35dbe20b274a4b",
+            "name": "MORAGASMULLA SC VS Matara City Club",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "43",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-23",
+            "start_date_time": "2026-01-23T10:45:00.000Z",
+            "team_a": {
+                "id": "6920396e50dafe260820f26a",
+                "name": "MORAGASMULLA SC",
+                "short_name": "MORAGASMULLA SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719527577-37536545.webp"
+            },
+            "team_b": {
+                "id": "69257a98870cb13512d7311b",
+                "name": "Matara City Club",
+                "short_name": "Matara City Club",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063892412-771236280.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767780494130-130921851.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "6970d95da0bca5d5149283d7",
+            "name": "CricAdda Captivators VS VLBook 777 Vipers",
+            "category_name": "Cricket",
+            "tour_id": "696f951da0bca5d5149283c0",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "13",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-23",
+            "start_date_time": "2026-01-23T12:30:00.000Z",
+            "team_a": {
+                "id": "696fbac897a59830249f04c3",
+                "name": "CricAdda Captivators",
+                "short_name": "CricAdda Captivators",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1768929990088-735674379.webp"
+            },
+            "team_b": {
+                "id": "696f94c5a0bca5d5149283bf",
+                "name": "VLBook 777 Vipers",
+                "short_name": "VLBook 777 Vipers",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1768929917773-819541496.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769003354911-229222527.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e30ca1f1a786103491fe6",
+            "name": "NEW STAR SC VS Java Lane SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "44",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-23",
+            "start_date_time": "2026-01-23T14:30:00.000Z",
+            "team_a": {
+                "id": "692065ce3bc500419986c432",
+                "name": "NEW STAR SC",
+                "short_name": "NEW STAR SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730878587-577134984.webp"
+            },
+            "team_b": {
+                "id": "69257a7867e62543527af29d",
+                "name": "Java Lane SC",
+                "short_name": "Java Lane SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063852751-985151343.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767780550121-602390541.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "6970d986a0bca5d5149283d8",
+            "name": "MG Lion Monsters VS JSK1 Jammys",
+            "category_name": "Cricket",
+            "tour_id": "696f951da0bca5d5149283c0",
+            "tour_name": "Gulf Ticket Taqdeer Ka Badshah T10 Cricket Championship",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-23",
+            "start_date_time": "2026-01-23T15:00:00.000Z",
+            "team_a": {
+                "id": "696f946c97a59830249f04c1",
+                "name": "MG Lion Monsters",
+                "short_name": "MG Lion Monsters",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1768929900138-569069696.webp"
+            },
+            "team_b": {
+                "id": "696fbb2497a59830249f04c4",
+                "name": "JSK1 Jammys",
+                "short_name": "JSK1 Jammys",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1768930061236-535283119.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769003396758-323832117.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
