@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="695e30926f35dbe20b274a4b" tvg-name="MORAGASMULLA SC VS Matara City Club" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767780494130-130921851.webp" group-title="Live",MORAGASMULLA SC VS Matara City Club
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
-
-#EXTINF:-1 tvg-id="6970d95da0bca5d5149283d7" tvg-name="CricAdda Captivators VS VLBook 777 Vipers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769003354911-229222527.webp" group-title="Live",CricAdda Captivators VS VLBook 777 Vipers
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/NKAv2V2BTnEuVJdS170390248731.m3u8
-
