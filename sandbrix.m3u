@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/DHsByHV1xSvMQZjb3815423756653417.m3u8
 
+#EXTINF:-1 tvg-id="695e30926f35dbe20b274a4b" tvg-name="MORAGASMULLA SC VS Matara City Club" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767780494130-130921851.webp" group-title="Live",MORAGASMULLA SC VS Matara City Club
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
