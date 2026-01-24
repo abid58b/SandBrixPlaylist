@@ -1,5 +1,180 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "695e31ef97a59830249f0470",
+            "name": "SERENDIB SC VS SAUNDERS SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "45",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-24",
+            "start_date_time": "2026-01-24T10:00:00.000Z",
+            "team_a": {
+                "id": "6920651eb99189116c55de1b",
+                "name": "SERENDIB SC",
+                "short_name": "SERENDIB SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730688710-50527613.webp"
+            },
+            "team_b": {
+                "id": "692066613bc500419986c433",
+                "name": "SAUNDERS SC",
+                "short_name": "SAUNDERS SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731036634-474074906.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767780635618-825564444.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695bc1c96f35dbe20b274a3f",
+            "name": "Royal Challengers Bengaluru Women VS Delhi Capitals Women",
+            "category_name": "Cricket",
+            "tour_id": "695bbdaf6f35dbe20b274a3b",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "15",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-24",
+            "start_date_time": "2026-01-24T13:30:00.000Z",
+            "team_a": {
+                "id": "695bbbc26f35dbe20b274a39",
+                "name": "Royal Challengers Bengaluru Women",
+                "short_name": "RCB Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619517365-563580933.webp"
+            },
+            "team_b": {
+                "id": "695bbc8c6f35dbe20b274a3a",
+                "name": "Delhi Capitals Women",
+                "short_name": "DC Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619722549-534200513.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767621061670-661724147.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e3230a0bca5d51492836e",
+            "name": "PELICANS SC VS ST. MARY’S SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "46",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-24",
+            "start_date_time": "2026-01-24T14:00:00.000Z",
+            "team_a": {
+                "id": "69203998d0b0fdbb565da497",
+                "name": "PELICANS SC",
+                "short_name": "PELICANS",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719560123-135588507.webp"
+            },
+            "team_b": {
+                "id": "6920659fd0b0fdbb565da4a5",
+                "name": "ST. MARY’S SC",
+                "short_name": "ST. MARY’S SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730841705-646400233.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767780909022-936799146.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68ef9eb54517c5f2602e1c6b",
+            "name": "Miami Waves VS Las Vegas Aces",
+            "category_name": "Cricket",
+            "tour_id": "68ef9e259875ed29f29a481f",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-24",
+            "start_date_time": "2026-01-24T14:30:00.000Z",
+            "team_a": {
+                "id": "68e9088b597318c837de563d",
+                "name": "Miami Waves",
+                "short_name": "Miami Waves",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102535762-643464496.webp"
+            },
+            "team_b": {
+                "id": "68e9089f972d8d159edde8cc",
+                "name": "Las Vegas Aces",
+                "short_name": "Las Vegas Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102557195-843676206.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760534194587-173976943.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94020,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68ef9ee44517c5f2602e1c6c",
+            "name": "New York Liberty VS Washington DC Eagles",
+            "category_name": "Cricket",
+            "tour_id": "68ef9e259875ed29f29a481f",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-24",
+            "start_date_time": "2026-01-24T18:30:00.000Z",
+            "team_a": {
+                "id": "68e908ed972d8d159edde8cd",
+                "name": "New York Liberty",
+                "short_name": "New York Liberty",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102635344-197609654.webp"
+            },
+            "team_b": {
+                "id": "68e908d5597318c837de563e",
+                "name": "Washington DC Eagles",
+                "short_name": "Washington Eagles",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102607858-316388637.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760534241998-241336643.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94021,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68ef9f184517c5f2602e1c6d",
+            "name": "Houston Riders VS Chicago Windchasers",
+            "category_name": "Cricket",
+            "tour_id": "68ef9e259875ed29f29a481f",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-24",
+            "start_date_time": "2026-01-24T22:30:00.000Z",
+            "team_a": {
+                "id": "68e908b890c526d559654c44",
+                "name": "Houston Riders",
+                "short_name": "Houston Riders",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102582445-358561914.webp"
+            },
+            "team_b": {
+                "id": "68e908696cf04d63ab038364",
+                "name": "Chicago Windchasers",
+                "short_name": "Chicago Windchasers",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102501460-871015224.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760534295085-919925926.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94022,
+            "content_zone_id": ""
+        }
+    ]
 }
