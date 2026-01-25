@@ -32,90 +32,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "68efa099efea2a9ef3a8c39f",
-            "name": "Washington DC Eagles VS Miami Waves",
+            "id": "68f4ef259875ed29f29a4842",
+            "name": "Miami Waves VS New York Liberty",
             "category_name": "Cricket",
             "tour_id": "68ef9e259875ed29f29a481f",
             "tour_name": "Global Cricket League 2026",
-            "match_no": "5",
+            "match_no": "2",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-01-25",
             "start_date_time": "2026-01-25T14:30:00.000Z",
             "team_a": {
-                "id": "68e908d5597318c837de563e",
-                "name": "Washington DC Eagles",
-                "short_name": "Washington Eagles",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102607858-316388637.webp"
-            },
-            "team_b": {
                 "id": "68e9088b597318c837de563d",
                 "name": "Miami Waves",
                 "short_name": "Miami Waves",
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102535762-643464496.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760534678406-998165614.webp",
-            "venue": "Moosa Cricket Stadium ,Pearland",
-            "score_match_id": 94023,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68efa0e49875ed29f29a4820",
-            "name": "New York Liberty VS Las Vegas Aces",
-            "category_name": "Cricket",
-            "tour_id": "68ef9e259875ed29f29a481f",
-            "tour_name": "Global Cricket League 2026",
-            "match_no": "6",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-25",
-            "start_date_time": "2026-01-25T18:30:00.000Z",
-            "team_a": {
+            "team_b": {
                 "id": "68e908ed972d8d159edde8cd",
                 "name": "New York Liberty",
                 "short_name": "New York Liberty",
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102635344-197609654.webp"
             },
-            "team_b": {
-                "id": "68e9089f972d8d159edde8cc",
-                "name": "Las Vegas Aces",
-                "short_name": "Las Vegas Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102557195-843676206.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760534749180-857700474.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760882464991-343972858.webp",
             "venue": "Moosa Cricket Stadium ,Pearland",
-            "score_match_id": 94024,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68efa13aca36150098b040d6",
-            "name": "Miami Waves VS Chicago Windchasers",
-            "category_name": "Cricket",
-            "tour_id": "68ef9e259875ed29f29a481f",
-            "tour_name": "Global Cricket League 2026",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-25",
-            "start_date_time": "2026-01-25T22:30:00.000Z",
-            "team_a": {
-                "id": "68e9088b597318c837de563d",
-                "name": "Miami Waves",
-                "short_name": "Miami Waves",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102535762-643464496.webp"
-            },
-            "team_b": {
-                "id": "68e908696cf04d63ab038364",
-                "name": "Chicago Windchasers",
-                "short_name": "Chicago Windchasers",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102501460-871015224.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760534838646-241129795.webp",
-            "venue": "Moosa Cricket Stadium ,Pearland",
-            "score_match_id": 94025,
+            "score_match_id": 94030,
             "content_zone_id": ""
         }
     ]
