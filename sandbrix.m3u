@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="695e32bc97a59830249f0472" tvg-name="SL POLICE SC VS SOLID SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767781048491-676285983.webp" group-title="Live",SL POLICE SC VS SOLID SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
