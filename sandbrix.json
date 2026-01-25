@@ -1,5 +1,180 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "697385bea04f793bcd47f03c",
+            "name": "Perth Scorchers VS Sydney Sixers",
+            "category_name": "Cricket",
+            "tour_id": "69318a83c35fc8eed4d44acb",
+            "tour_name": "Big Bash League 2025-26",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T07:45:00.000Z",
+            "team_a": {
+                "id": "673afa67980f48a2d71d6afe",
+                "name": "Perth Scorchers",
+                "short_name": "Perth scorchers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854277867-709878106.webp"
+            },
+            "team_b": {
+                "id": "673afa7c980f48a2d71d6aff",
+                "name": "Sydney Sixers",
+                "short_name": "Sydney sixers men",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764854141912-239740257.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769178555705-748720157.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e329297a59830249f0471",
+            "name": "NEGOMBO YOUTH FC VS CRYSTAL PALACE FC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "47",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T10:00:00.000Z",
+            "team_a": {
+                "id": "69206973d0b0fdbb565da4a7",
+                "name": "NEGOMBO YOUTH FC",
+                "short_name": "NEGOMBO YOUTH FC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731822909-1873510.webp"
+            },
+            "team_b": {
+                "id": "69206681d0b0fdbb565da4a6",
+                "name": "CRYSTAL PALACE FC",
+                "short_name": "CRYSTAL PALACE FC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763731068574-506064448.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767781006879-508118332.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "695e32bc97a59830249f0472",
+            "name": "SL POLICE SC VS SOLID SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "48",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T14:00:00.000Z",
+            "team_a": {
+                "id": "692039bd3bc500419986c42b",
+                "name": "SL POLICE SC",
+                "short_name": "SL POLICE SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719610019-469747418.webp"
+            },
+            "team_b": {
+                "id": "69206576d0b0fdbb565da4a4",
+                "name": "SOLID SC",
+                "short_name": "SOLID SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730804043-529676221.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767781048491-676285983.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68efa099efea2a9ef3a8c39f",
+            "name": "Washington DC Eagles VS Miami Waves",
+            "category_name": "Cricket",
+            "tour_id": "68ef9e259875ed29f29a481f",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "5",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T14:30:00.000Z",
+            "team_a": {
+                "id": "68e908d5597318c837de563e",
+                "name": "Washington DC Eagles",
+                "short_name": "Washington Eagles",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102607858-316388637.webp"
+            },
+            "team_b": {
+                "id": "68e9088b597318c837de563d",
+                "name": "Miami Waves",
+                "short_name": "Miami Waves",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102535762-643464496.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760534678406-998165614.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94023,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68efa0e49875ed29f29a4820",
+            "name": "New York Liberty VS Las Vegas Aces",
+            "category_name": "Cricket",
+            "tour_id": "68ef9e259875ed29f29a481f",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "6",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T18:30:00.000Z",
+            "team_a": {
+                "id": "68e908ed972d8d159edde8cd",
+                "name": "New York Liberty",
+                "short_name": "New York Liberty",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102635344-197609654.webp"
+            },
+            "team_b": {
+                "id": "68e9089f972d8d159edde8cc",
+                "name": "Las Vegas Aces",
+                "short_name": "Las Vegas Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102557195-843676206.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760534749180-857700474.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94024,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68efa13aca36150098b040d6",
+            "name": "Miami Waves VS Chicago Windchasers",
+            "category_name": "Cricket",
+            "tour_id": "68ef9e259875ed29f29a481f",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-25",
+            "start_date_time": "2026-01-25T22:30:00.000Z",
+            "team_a": {
+                "id": "68e9088b597318c837de563d",
+                "name": "Miami Waves",
+                "short_name": "Miami Waves",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102535762-643464496.webp"
+            },
+            "team_b": {
+                "id": "68e908696cf04d63ab038364",
+                "name": "Chicago Windchasers",
+                "short_name": "Chicago Windchasers",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102501460-871015224.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760534838646-241129795.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94025,
+            "content_zone_id": ""
+        }
+    ]
 }
