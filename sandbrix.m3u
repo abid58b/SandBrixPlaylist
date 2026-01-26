@@ -8,3 +8,7 @@ https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
 
+#EXTINF:-1 tvg-id="68ef9ee44517c5f2602e1c6c" tvg-name="New York Liberty VS Washington DC Eagles" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760534241998-241336643.webp" group-title="Live",New York Liberty VS Washington DC Eagles
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/aM9hjbrtkzMZuQPC344045786953062.m3u8
+
