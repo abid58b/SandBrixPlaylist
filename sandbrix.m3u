@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="695bc21ca0bca5d51492835d" tvg-name="Royal Challengers Bengaluru Women VS Mumbai Indians Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767621143298-879156063.webp" group-title="Live",Royal Challengers Bengaluru Women VS Mumbai Indians Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
+
+#EXTINF:-1 tvg-id="69749a959fe2525a35b457b2" tvg-name="Delhi Warriors VS Dubai Royals" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769249426812-380236107.webp" group-title="Live",Delhi Warriors VS Dubai Royals
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
