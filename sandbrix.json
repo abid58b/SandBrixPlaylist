@@ -59,6 +59,35 @@
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
+        },
+        {
+            "id": "68ef9ee44517c5f2602e1c6c",
+            "name": "New York Liberty VS Washington DC Eagles",
+            "category_name": "Cricket",
+            "tour_id": "68ef9e259875ed29f29a481f",
+            "tour_name": "Global Cricket League 2026",
+            "match_no": "2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-26",
+            "start_date_time": "2026-01-26T16:30:00.000Z",
+            "team_a": {
+                "id": "68e908ed972d8d159edde8cd",
+                "name": "New York Liberty",
+                "short_name": "New York Liberty",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102635344-197609654.webp"
+            },
+            "team_b": {
+                "id": "68e908d5597318c837de563e",
+                "name": "Washington DC Eagles",
+                "short_name": "Washington Eagles",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1760102607858-316388637.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760534241998-241336643.webp",
+            "venue": "Moosa Cricket Stadium ,Pearland",
+            "score_match_id": 94021,
+            "content_zone_id": ""
         }
     ]
 }
