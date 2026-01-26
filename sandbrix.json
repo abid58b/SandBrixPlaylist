@@ -3,64 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "695bc21ca0bca5d51492835d",
-            "name": "Royal Challengers Bengaluru Women VS Mumbai Indians Women",
-            "category_name": "Cricket",
-            "tour_id": "695bbdaf6f35dbe20b274a3b",
-            "tour_name": "Women's Premier League 2026",
-            "match_no": "16",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-26",
-            "start_date_time": "2026-01-26T13:30:00.000Z",
-            "team_a": {
-                "id": "695bbbc26f35dbe20b274a39",
-                "name": "Royal Challengers Bengaluru Women",
-                "short_name": "RCB Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619517365-563580933.webp"
-            },
-            "team_b": {
-                "id": "695bbb70a0bca5d514928356",
-                "name": "Mumbai Indians Women",
-                "short_name": "MI Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619430341-820039308.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767621143298-879156063.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "69749a959fe2525a35b457b2",
-            "name": "Delhi Warriors VS Dubai Royals",
-            "category_name": "Cricket",
-            "tour_id": "697391c77d58d980b965bb40",
-            "tour_name": "World Legend Pro T20 League 2026",
-            "match_no": "1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-26",
-            "start_date_time": "2026-01-26T13:30:00.000Z",
-            "team_a": {
-                "id": "69739102a04f793bcd47f03d",
-                "name": "Delhi Warriors",
-                "short_name": "Delhi Warriors",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181440234-936316119.webp"
-            },
-            "team_b": {
-                "id": "697390de9fe2525a35b457ae",
-                "name": "Dubai Royals",
-                "short_name": "Dubai Royals",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181402888-730283584.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769249426812-380236107.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68ef9ee44517c5f2602e1c6c",
             "name": "New York Liberty VS Washington DC Eagles",
             "category_name": "Cricket",
