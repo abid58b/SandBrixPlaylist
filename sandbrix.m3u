@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68e90e8b972d8d159edde8d0" tvg-name="Tasmanian Tigers Women VS Western Australia Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760104071725-763298325.webp" group-title="Live",Tasmanian Tigers Women VS Western Australia Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
