@@ -4,3 +4,11 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
 
+#EXTINF:-1 tvg-id="695bc24e6f35dbe20b274a40" tvg-name="Gujarat Giants Women VS Delhi Capitals Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767621194515-68341410.webp" group-title="Live",Gujarat Giants Women VS Delhi Capitals Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
+
+#EXTINF:-1 tvg-id="69749ae903c03e632322d029" tvg-name="Rajasthan Lions VS Maharashtra Tycoons" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769249509965-531864389.webp" group-title="Live",Rajasthan Lions VS Maharashtra Tycoons
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
