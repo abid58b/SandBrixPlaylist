@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69749ac1a04f793bcd47f042" tvg-name="Pune Panthers VS Gurugram Thunders" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769249470161-521692912.webp" group-title="Live",Pune Panthers VS Gurugram Thunders
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
 #EXTINF:-1 tvg-id="695bc24e6f35dbe20b274a40" tvg-name="Gujarat Giants Women VS Delhi Capitals Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767621194515-68341410.webp" group-title="Live",Gujarat Giants Women VS Delhi Capitals Women
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
