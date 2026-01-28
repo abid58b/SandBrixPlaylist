@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="69749b29a04f793bcd47f043" tvg-name="Dubai Royals VS Gurugram Thunders" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769249574433-152675431.webp" group-title="Live",Dubai Royals VS Gurugram Thunders
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
