@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="69749bb47d58d980b965bb44" tvg-name="Delhi Warriors VS Pune Panthers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769249711834-587052858.webp" group-title="Live",Delhi Warriors VS Pune Panthers
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
