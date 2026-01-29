@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69749cad7d58d980b965bb45",
-            "name": "Gurugram Thunders VS Maharashtra Tycoons",
-            "category_name": "Cricket",
-            "tour_id": "697391c77d58d980b965bb40",
-            "tour_name": "World Legend Pro T20 League 2026",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-29",
-            "start_date_time": "2026-01-29T13:30:00.000Z",
-            "team_a": {
-                "id": "6973913e9fe2525a35b457af",
-                "name": "Gurugram Thunders",
-                "short_name": "Gurugram Thunders",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181499971-444280489.webp"
-            },
-            "team_b": {
-                "id": "697390bb7d58d980b965bb3e",
-                "name": "Maharashtra Tycoons",
-                "short_name": "Maharashtra Tycoons",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181369702-351484666.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769249959400-232403653.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68e90ed06cf04d63ab03836a",
             "name": "Tasmanian Tigers Women VS Western Australia Women",
             "category_name": "Cricket",
