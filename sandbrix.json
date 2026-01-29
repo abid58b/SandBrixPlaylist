@@ -1,5 +1,93 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "695bc28f97a59830249f0458",
+            "name": "UP Warriorz Women VS Royal Challengers Bengaluru Women",
+            "category_name": "Cricket",
+            "tour_id": "695bbdaf6f35dbe20b274a3b",
+            "tour_name": "Women's Premier League 2026",
+            "match_no": "18",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-29",
+            "start_date_time": "2026-01-29T13:30:00.000Z",
+            "team_a": {
+                "id": "695bbc3fa0bca5d514928357",
+                "name": "UP Warriorz Women",
+                "short_name": "UPW Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619645038-364473479.webp"
+            },
+            "team_b": {
+                "id": "695bbbc26f35dbe20b274a39",
+                "name": "Royal Challengers Bengaluru Women",
+                "short_name": "RCB Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1767619517365-563580933.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1767621260998-493621917.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "69749cad7d58d980b965bb45",
+            "name": "Gurugram Thunders VS Maharashtra Tycoons",
+            "category_name": "Cricket",
+            "tour_id": "697391c77d58d980b965bb40",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "7",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-29",
+            "start_date_time": "2026-01-29T13:30:00.000Z",
+            "team_a": {
+                "id": "6973913e9fe2525a35b457af",
+                "name": "Gurugram Thunders",
+                "short_name": "Gurugram Thunders",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181499971-444280489.webp"
+            },
+            "team_b": {
+                "id": "697390bb7d58d980b965bb3e",
+                "name": "Maharashtra Tycoons",
+                "short_name": "Maharashtra Tycoons",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181369702-351484666.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769249959400-232403653.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68e90ed06cf04d63ab03836a",
+            "name": "Tasmanian Tigers Women VS Western Australia Women",
+            "category_name": "Cricket",
+            "tour_id": "68d148c6050ee9aed47ce9da",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "24",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-29",
+            "start_date_time": "2026-01-29T23:30:00.000Z",
+            "team_a": {
+                "id": "675d0e32feaf9c45f3b7d0f1",
+                "name": "Tasmanian Tigers Women",
+                "short_name": "Tasmanian Tigers Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545862542-222560222.webp"
+            },
+            "team_b": {
+                "id": "675d0df2feaf9c45f3b7d0f0",
+                "name": "Western Australia Women",
+                "short_name": "Western Australia Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545837995-123656163.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760104141573-444534376.webp",
+            "venue": "Bellerive Oval ,Hobart",
+            "score_match_id": 92870,
+            "content_zone_id": ""
+        }
+    ]
 }

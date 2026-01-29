@@ -1,6 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69749bb47d58d980b965bb44" tvg-name="Delhi Warriors VS Pune Panthers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769249711834-587052858.webp" group-title="Live",Delhi Warriors VS Pune Panthers
+#EXTINF:-1 tvg-id="695bc28f97a59830249f0458" tvg-name="UP Warriorz Women VS Royal Challengers Bengaluru Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767621260998-493621917.webp" group-title="Live",UP Warriorz Women VS Royal Challengers Bengaluru Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
+
+#EXTINF:-1 tvg-id="69749cad7d58d980b965bb45" tvg-name="Gurugram Thunders VS Maharashtra Tycoons" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769249959400-232403653.webp" group-title="Live",Gurugram Thunders VS Maharashtra Tycoons
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
 
