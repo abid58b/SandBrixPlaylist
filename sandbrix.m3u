@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
 
+#EXTINF:-1 tvg-id="697c614e2bb1b1220f60c0b9" tvg-name="PELICANS SC VS Java Lane SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769759050865-201925429.webp" group-title="Live",PELICANS SC VS Java Lane SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
+
