@@ -3,64 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69749cda9fe2525a35b457b3",
-            "name": "Maharashtra Tycoons VS Delhi Warriors",
-            "category_name": "Cricket",
-            "tour_id": "697391c77d58d980b965bb40",
-            "tour_name": "World Legend Pro T20 League 2026",
-            "match_no": "8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-30",
-            "start_date_time": "2026-01-30T08:30:00.000Z",
-            "team_a": {
-                "id": "697390bb7d58d980b965bb3e",
-                "name": "Maharashtra Tycoons",
-                "short_name": "Maharashtra Tycoons",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181369702-351484666.webp"
-            },
-            "team_b": {
-                "id": "69739102a04f793bcd47f03d",
-                "name": "Delhi Warriors",
-                "short_name": "Delhi Warriors",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181440234-936316119.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769250007209-170597701.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "697c614e2bb1b1220f60c0b9",
-            "name": "PELICANS SC VS Java Lane SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "Super 8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-01-30",
-            "start_date_time": "2026-01-30T11:00:00.000Z",
-            "team_a": {
-                "id": "69203998d0b0fdbb565da497",
-                "name": "PELICANS SC",
-                "short_name": "PELICANS",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719560123-135588507.webp"
-            },
-            "team_b": {
-                "id": "69257a7867e62543527af29d",
-                "name": "Java Lane SC",
-                "short_name": "Java Lane SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063852751-985151343.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769759050865-201925429.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "695bc2e2a0bca5d51492835e",
             "name": "Gujarat Giants Women VS Mumbai Indians Women",
             "category_name": "Cricket",
@@ -124,7 +66,7 @@
             "category_name": "Football",
             "tour_id": "69203a173bc500419986c42c",
             "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "Super 8",
+            "match_no": "Super 9",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",

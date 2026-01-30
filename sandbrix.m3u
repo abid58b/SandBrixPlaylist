@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69749cda9fe2525a35b457b3" tvg-name="Maharashtra Tycoons VS Delhi Warriors" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769250007209-170597701.webp" group-title="Live",Maharashtra Tycoons VS Delhi Warriors
+#EXTINF:-1 tvg-id="695bc2e2a0bca5d51492835e" tvg-name="Gujarat Giants Women VS Mumbai Indians Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767621343177-138678742.webp" group-title="Live",Gujarat Giants Women VS Mumbai Indians Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
+
+#EXTINF:-1 tvg-id="69749d2403c03e632322d02a" tvg-name="Pune Panthers VS Rajasthan Lions" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769250080941-537699597.webp" group-title="Live",Pune Panthers VS Rajasthan Lions
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
-#EXTINF:-1 tvg-id="697c614e2bb1b1220f60c0b9" tvg-name="PELICANS SC VS Java Lane SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769759050865-201925429.webp" group-title="Live",PELICANS SC VS Java Lane SC
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
 
