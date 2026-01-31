@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="69749d8803c03e632322d02b" tvg-name="Dubai Royals VS Pune Panthers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769250182585-402733545.webp" group-title="Live",Dubai Royals VS Pune Panthers
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
