@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
 
+#EXTINF:-1 tvg-id="697c61f62bb1b1220f60c0bc" tvg-name="NEW STAR SC VS SOLID SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769759220693-566692763.webp" group-title="Live",NEW STAR SC VS SOLID SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
+
