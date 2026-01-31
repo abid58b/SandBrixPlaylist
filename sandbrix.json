@@ -1,5 +1,122 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "69749d5a7d58d980b965bb46",
+            "name": "Gurugram Thunders VS Rajasthan Lions",
+            "category_name": "Cricket",
+            "tour_id": "697391c77d58d980b965bb40",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "10",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-31",
+            "start_date_time": "2026-01-31T08:30:00.000Z",
+            "team_a": {
+                "id": "6973913e9fe2525a35b457af",
+                "name": "Gurugram Thunders",
+                "short_name": "Gurugram Thunders",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181499971-444280489.webp"
+            },
+            "team_b": {
+                "id": "697391247d58d980b965bb3f",
+                "name": "Rajasthan Lions",
+                "short_name": "Rajasthan Lions",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181473530-694685608.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769250135379-117687459.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "697c61d32bb1b1220f60c0bb",
+            "name": "SERENDIB SC VS ST. MARY’S SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "Super 8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-31",
+            "start_date_time": "2026-01-31T10:00:00.000Z",
+            "team_a": {
+                "id": "6920651eb99189116c55de1b",
+                "name": "SERENDIB SC",
+                "short_name": "SERENDIB SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730688710-50527613.webp"
+            },
+            "team_b": {
+                "id": "6920659fd0b0fdbb565da4a5",
+                "name": "ST. MARY’S SC",
+                "short_name": "ST. MARY’S SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730841705-646400233.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769759185462-680724095.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "69749d8803c03e632322d02b",
+            "name": "Dubai Royals VS Pune Panthers",
+            "category_name": "Cricket",
+            "tour_id": "697391c77d58d980b965bb40",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "11",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-31",
+            "start_date_time": "2026-01-31T13:30:00.000Z",
+            "team_a": {
+                "id": "697390de9fe2525a35b457ae",
+                "name": "Dubai Royals",
+                "short_name": "Dubai Royals",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181402888-730283584.webp"
+            },
+            "team_b": {
+                "id": "69739161a04f793bcd47f03e",
+                "name": "Pune Panthers",
+                "short_name": "Pune Panthers",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181532879-316292562.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769250182585-402733545.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "697c61f62bb1b1220f60c0bc",
+            "name": "NEW STAR SC VS SOLID SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "Super 8",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-01-31",
+            "start_date_time": "2026-01-31T14:00:00.000Z",
+            "team_a": {
+                "id": "692065ce3bc500419986c432",
+                "name": "NEW STAR SC",
+                "short_name": "NEW STAR SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730878587-577134984.webp"
+            },
+            "team_b": {
+                "id": "69206576d0b0fdbb565da4a4",
+                "name": "SOLID SC",
+                "short_name": "SOLID SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730804043-529676221.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769759220693-566692763.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
