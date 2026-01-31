@@ -1,10 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69749d5a7d58d980b965bb46" tvg-name="Gurugram Thunders VS Rajasthan Lions" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769250135379-117687459.webp" group-title="Live",Gurugram Thunders VS Rajasthan Lions
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
-#EXTINF:-1 tvg-id="697c61d32bb1b1220f60c0bb" tvg-name="SERENDIB SC VS ST. MARY’S SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769759185462-680724095.webp" group-title="Live",SERENDIB SC VS ST. MARY’S SC
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
-
