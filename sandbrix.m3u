@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="695bc3146f35dbe20b274a41" tvg-name="Delhi Capitals Women VS UP Warriorz Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1767621391409-689942540.webp" group-title="Live",Delhi Capitals Women VS UP Warriorz Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
+
+#EXTINF:-1 tvg-id="69749de79fe2525a35b457b6" tvg-name="Delhi Warriors VS Gurugram Thunders" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769250276254-925008008.webp" group-title="Live",Delhi Warriors VS Gurugram Thunders
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
