@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "69749de79fe2525a35b457b6",
-            "name": "Delhi Warriors VS Gurugram Thunders",
-            "category_name": "Cricket",
-            "tour_id": "697391c77d58d980b965bb40",
-            "tour_name": "World Legend Pro T20 League 2026",
-            "match_no": "13",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-01",
-            "start_date_time": "2026-02-01T13:30:00.000Z",
-            "team_a": {
-                "id": "69739102a04f793bcd47f03d",
-                "name": "Delhi Warriors",
-                "short_name": "Delhi Warriors",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181440234-936316119.webp"
-            },
-            "team_b": {
-                "id": "6973913e9fe2525a35b457af",
-                "name": "Gurugram Thunders",
-                "short_name": "Gurugram Thunders",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181499971-444280489.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769250276254-925008008.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
