@@ -1,5 +1,93 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "69749e1ca04f793bcd47f045",
+            "name": "Rajasthan Lions VS Delhi Warriors",
+            "category_name": "Cricket",
+            "tour_id": "697391c77d58d980b965bb40",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "14",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-02",
+            "start_date_time": "2026-02-02T08:30:00.000Z",
+            "team_a": {
+                "id": "697391247d58d980b965bb3f",
+                "name": "Rajasthan Lions",
+                "short_name": "Rajasthan Lions",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181473530-694685608.webp"
+            },
+            "team_b": {
+                "id": "69739102a04f793bcd47f03d",
+                "name": "Delhi Warriors",
+                "short_name": "Delhi Warriors",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181440234-936316119.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769250329088-405329059.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68e90f2a597318c837de5641",
+            "name": "NSW Women VS Queensland Fire Women",
+            "category_name": "Cricket",
+            "tour_id": "68d148c6050ee9aed47ce9da",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "25",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-02",
+            "start_date_time": "2026-02-02T23:00:00.000Z",
+            "team_a": {
+                "id": "675d0e8972efbbdadc2ef8fa",
+                "name": "NSW Women",
+                "short_name": "NSW Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545913239-407054954.webp"
+            },
+            "team_b": {
+                "id": "675d0e6c7520fc727ac56980",
+                "name": "Queensland Fire Women",
+                "short_name": "Queensland Fire",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545898990-843116547.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760104228060-899315084.webp",
+            "venue": "Cricket Central ,Sydney",
+            "score_match_id": 92871,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68e90f6c6cf04d63ab03836b",
+            "name": "South Australia Women VS Victoria Women",
+            "category_name": "Cricket",
+            "tour_id": "68d148c6050ee9aed47ce9da",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "26",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-02",
+            "start_date_time": "2026-02-02T23:30:00.000Z",
+            "team_a": {
+                "id": "675d0e4f72efbbdadc2ef8f9",
+                "name": "South Australia Women",
+                "short_name": "South Australia Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545874726-852226936.webp"
+            },
+            "team_b": {
+                "id": "675d0e1172efbbdadc2ef8f8",
+                "name": "Victoria Women",
+                "short_name": "Victoria Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545851330-325191706.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760104294742-908772267.webp",
+            "venue": "Karen Rolton Oval ,Adelaide",
+            "score_match_id": 92872,
+            "content_zone_id": ""
+        }
+    ]
 }
