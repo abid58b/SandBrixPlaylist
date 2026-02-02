@@ -4,3 +4,11 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
 
+#EXTINF:-1 tvg-id="68dd2c2ba65e8d0132fc36e5" tvg-name="Victoria VS Queensland Bulls" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1759325224838-826366071.webp" group-title="Live",Victoria VS Queensland Bulls
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/LKi44IH3RMDHt8gK177372799793.m3u8
+
+#EXTINF:-1 tvg-id="68e90f6c6cf04d63ab03836b" tvg-name="South Australia Women VS Victoria Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760104294742-908772267.webp" group-title="Live",South Australia Women VS Victoria Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Cq2zHWf2OUOxPFV4163019881626.m3u8
+
