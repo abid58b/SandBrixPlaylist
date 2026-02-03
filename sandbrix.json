@@ -3,59 +3,30 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6980e1c0fb8e3c1cbc833c47",
-            "name": "Delhi Warriors VS Dubai Royals",
-            "category_name": "Cricket",
-            "tour_id": "697391c77d58d980b965bb40",
-            "tour_name": "World Legend Pro T20 League 2026",
-            "match_no": "Semifinal 2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-03",
-            "start_date_time": "2026-02-03T13:30:00.000Z",
-            "team_a": {
-                "id": "69739102a04f793bcd47f03d",
-                "name": "Delhi Warriors",
-                "short_name": "Delhi Warriors",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181440234-936316119.webp"
-            },
-            "team_b": {
-                "id": "697390de9fe2525a35b457ae",
-                "name": "Dubai Royals",
-                "short_name": "Dubai Royals",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181402888-730283584.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1770054077419-942646944.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68fb840cefea2a9ef3a8c3e3",
-            "name": "Otago Volts VS Northern District",
+            "id": "68fb8480efea2a9ef3a8c3e5",
+            "name": "Auckland Aces VS Canterbury Kings",
             "category_name": "Cricket",
             "tour_id": "68fa38c6efea2a9ef3a8c3d6",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "17",
+            "match_no": "18",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-03",
             "start_date_time": "2026-02-03T21:00:00.000Z",
             "team_a": {
-                "id": "68fa38479875ed29f29a485d",
-                "name": "Otago Volts",
-                "short_name": "Otago Volts",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228870014-296651115.webp"
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
             },
             "team_b": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313801265-296867259.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313917181-277982209.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
@@ -90,30 +61,30 @@
             "content_zone_id": ""
         },
         {
-            "id": "68fb8480efea2a9ef3a8c3e5",
-            "name": "Auckland Aces VS Canterbury Kings",
+            "id": "68fb840cefea2a9ef3a8c3e3",
+            "name": "Otago Volts VS Northern District",
             "category_name": "Cricket",
             "tour_id": "68fa38c6efea2a9ef3a8c3d6",
             "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "18",
+            "match_no": "17",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-03",
             "start_date_time": "2026-02-03T21:00:00.000Z",
             "team_a": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+                "id": "68fa38479875ed29f29a485d",
+                "name": "Otago Volts",
+                "short_name": "Otago Volts",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228870014-296651115.webp"
             },
             "team_b": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313917181-277982209.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313801265-296867259.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
