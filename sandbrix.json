@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6980e18cf2331f0b8a73ece9",
-            "name": "Rajasthan Lions VS Pune Panthers",
-            "category_name": "Cricket",
-            "tour_id": "697391c77d58d980b965bb40",
-            "tour_name": "World Legend Pro T20 League 2026",
-            "match_no": "Semifinal 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-03",
-            "start_date_time": "2026-02-03T08:30:00.000Z",
-            "team_a": {
-                "id": "697391247d58d980b965bb3f",
-                "name": "Rajasthan Lions",
-                "short_name": "Rajasthan Lions",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181473530-694685608.webp"
-            },
-            "team_b": {
-                "id": "69739161a04f793bcd47f03e",
-                "name": "Pune Panthers",
-                "short_name": "Pune Panthers",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181532879-316292562.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1770054024017-994811045.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "6980e1c0fb8e3c1cbc833c47",
             "name": "Delhi Warriors VS Dubai Royals",
             "category_name": "Cricket",
@@ -90,6 +61,35 @@
             "content_zone_id": ""
         },
         {
+            "id": "68fb8443efea2a9ef3a8c3e4",
+            "name": "Wellington Firebirds VS Central Stags",
+            "category_name": "Cricket",
+            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "16",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-03",
+            "start_date_time": "2026-02-03T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa37fbefea2a9ef3a8c3d4",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
+            },
+            "team_b": {
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313856416-794239869.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
             "id": "68fb8480efea2a9ef3a8c3e5",
             "name": "Auckland Aces VS Canterbury Kings",
             "category_name": "Cricket",
@@ -143,35 +143,6 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
             },
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313801265-296867259.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "68fb8443efea2a9ef3a8c3e4",
-            "name": "Wellington Firebirds VS Central Stags",
-            "category_name": "Cricket",
-            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "16",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-03",
-            "start_date_time": "2026-02-03T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa37fbefea2a9ef3a8c3d4",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
-            },
-            "team_b": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761313856416-794239869.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
