@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6980e18cf2331f0b8a73ece9" tvg-name="Rajasthan Lions VS Pune Panthers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1770054024017-994811045.webp" group-title="Live",Rajasthan Lions VS Pune Panthers
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
