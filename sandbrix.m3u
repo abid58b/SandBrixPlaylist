@@ -1,2 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68ea5fd21074534e14287974" tvg-name="Victoria VS Queensland Bulls" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190415699-338819160.webp" group-title="Live",Victoria VS Queensland Bulls
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
+
+#EXTINF:-1 tvg-id="68ea5f7ee250a97a24c4654e" tvg-name="New South Wales VS South Australia" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190328074-638511944.webp" group-title="Live",New South Wales VS South Australia
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/LCmsdPiOjcibVCkJ6159263953462.m3u8
+
+#EXTINF:-1 tvg-id="68e910246cf04d63ab03836c" tvg-name="NSW Women VS Queensland Fire Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760104476915-575611434.webp" group-title="Live",NSW Women VS Queensland Fire Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
+#EXTINF:-1 tvg-id="68e91121597318c837de5643" tvg-name="South Australia Women VS Victoria Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760104734138-282739449.webp" group-title="Live",South Australia Women VS Victoria Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Cq2zHWf2OUOxPFV4163019881626.m3u8
+
