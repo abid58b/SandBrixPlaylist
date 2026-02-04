@@ -32,32 +32,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "68ea5fd21074534e14287974",
-            "name": "Victoria VS Queensland Bulls",
+            "id": "6982cc349760ba786460aa00",
+            "name": "Pune Panthers VS Dubai Royals",
             "category_name": "Cricket",
-            "tour_id": "68df662addd581736c30e938",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "20 | Day - 1",
+            "tour_id": "697391c77d58d980b965bb40",
+            "tour_name": "World Legend Pro T20 League 2026",
+            "match_no": "Final",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-04",
-            "start_date_time": "2026-02-04T23:00:00.000Z",
+            "start_date_time": "2026-02-04T13:30:00.000Z",
             "team_a": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+                "id": "69739161a04f793bcd47f03e",
+                "name": "Pune Panthers",
+                "short_name": "Pune Panthers",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181532879-316292562.webp"
             },
             "team_b": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
+                "id": "697390de9fe2525a35b457ae",
+                "name": "Dubai Royals",
+                "short_name": "Dubai Royals",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181402888-730283584.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190415699-338819160.webp",
-            "venue": "Melbourne Cricket Ground ,Melbourne",
-            "score_match_id": 92896,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1770179633089-791828800.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         },
         {
@@ -90,32 +90,32 @@
             "content_zone_id": ""
         },
         {
-            "id": "68e91121597318c837de5643",
-            "name": "South Australia Women VS Victoria Women",
+            "id": "68ea5fd21074534e14287974",
+            "name": "Victoria VS Queensland Bulls",
             "category_name": "Cricket",
-            "tour_id": "68d148c6050ee9aed47ce9da",
-            "tour_name": "Women's National Cricket League 2025",
-            "match_no": "29",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "20 | Day - 1",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
             "start_date": "2026-02-04",
             "start_date_time": "2026-02-04T23:00:00.000Z",
             "team_a": {
-                "id": "675d0e4f72efbbdadc2ef8f9",
-                "name": "South Australia Women",
-                "short_name": "South Australia Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545874726-852226936.webp"
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
             },
             "team_b": {
-                "id": "675d0e1172efbbdadc2ef8f8",
-                "name": "Victoria Women",
-                "short_name": "Victoria Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545851330-325191706.webp"
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760104734138-282739449.webp",
-            "venue": "Karen Rolton Oval ,Adelaide",
-            "score_match_id": 92875,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190415699-338819160.webp",
+            "venue": "Melbourne Cricket Ground ,Melbourne",
+            "score_match_id": 92896,
             "content_zone_id": ""
         },
         {
@@ -145,6 +145,35 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760104476915-575611434.webp",
             "venue": "Cricket Central ,Sydney",
             "score_match_id": 92874,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68e91121597318c837de5643",
+            "name": "South Australia Women VS Victoria Women",
+            "category_name": "Cricket",
+            "tour_id": "68d148c6050ee9aed47ce9da",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "29",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-04",
+            "start_date_time": "2026-02-04T23:00:00.000Z",
+            "team_a": {
+                "id": "675d0e4f72efbbdadc2ef8f9",
+                "name": "South Australia Women",
+                "short_name": "South Australia Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545874726-852226936.webp"
+            },
+            "team_b": {
+                "id": "675d0e1172efbbdadc2ef8f8",
+                "name": "Victoria Women",
+                "short_name": "Victoria Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545851330-325191706.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760104734138-282739449.webp",
+            "venue": "Karen Rolton Oval ,Adelaide",
+            "score_match_id": 92875,
             "content_zone_id": ""
         }
     ]
