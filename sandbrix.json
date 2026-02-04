@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6982cc349760ba786460aa00",
-            "name": "Pune Panthers VS Dubai Royals",
-            "category_name": "Cricket",
-            "tour_id": "697391c77d58d980b965bb40",
-            "tour_name": "World Legend Pro T20 League 2026",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-04",
-            "start_date_time": "2026-02-04T13:30:00.000Z",
-            "team_a": {
-                "id": "69739161a04f793bcd47f03e",
-                "name": "Pune Panthers",
-                "short_name": "Pune Panthers",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181532879-316292562.webp"
-            },
-            "team_b": {
-                "id": "697390de9fe2525a35b457ae",
-                "name": "Dubai Royals",
-                "short_name": "Dubai Royals",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1769181402888-730283584.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1770179633089-791828800.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68ea5fd21074534e14287974",
             "name": "Victoria VS Queensland Bulls",
             "category_name": "Cricket",
