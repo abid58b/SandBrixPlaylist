@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68ea60111074534e14287975" tvg-name="Western Australia VS Tasmania Tiger" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190478553-711724715.webp" group-title="Live",Western Australia VS Tasmania Tiger
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/UZpruZriGECxluNu344082700222427.m3u8
+
+#EXTINF:-1 tvg-id="68e9117f6cf04d63ab03836d" tvg-name="Tasmanian Tigers Women VS ACT Meteors Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760104824594-854326794.webp" group-title="Live",Tasmanian Tigers Women VS ACT Meteors Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/CnqXNydEKEunPd6x3815480106805843.m3u8
+
