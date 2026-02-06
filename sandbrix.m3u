@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="697cb9412bb1b1220f60c0c0" tvg-name="Java Lane SC VS NEW STAR SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769781564628-912991682.webp" group-title="Live",Java Lane SC VS NEW STAR SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
+
