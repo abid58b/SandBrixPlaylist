@@ -119,35 +119,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "68fb854fefea2a9ef3a8c3e7",
-            "name": "Central Stags VS Auckland Aces",
-            "category_name": "Cricket",
-            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "20",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-06",
-            "start_date_time": "2026-02-06T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
-            },
-            "team_b": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761314126093-884733711.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68fb84e3ca36150098b0411d",
             "name": "Canterbury Kings VS Northern District",
             "category_name": "Cricket",
@@ -172,6 +143,35 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
             },
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761314017558-48941764.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68fb854fefea2a9ef3a8c3e7",
+            "name": "Central Stags VS Auckland Aces",
+            "category_name": "Cricket",
+            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "20",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-06",
+            "start_date_time": "2026-02-06T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+            },
+            "team_b": {
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761314126093-884733711.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
@@ -290,6 +290,64 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763298636614-909787670.webp",
             "venue": "Kennards Hire Community Oval ,Auckland",
             "score_match_id": 93667,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68ea5f7ee250a97a24c4654e",
+            "name": "New South Wales VS South Australia",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "19 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-06",
+            "start_date_time": "2026-02-06T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681849705-822802914.webp"
+            },
+            "team_b": {
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681872997-926769284.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190328074-638511944.webp",
+            "venue": "Sydney Cricket Ground ,Sydney",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68ea5fd21074534e14287974",
+            "name": "Victoria VS Queensland Bulls",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "20 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-06",
+            "start_date_time": "2026-02-06T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+            },
+            "team_b": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190415699-338819160.webp",
+            "venue": "Melbourne Cricket Ground ,Melbourne",
+            "score_match_id": 92896,
             "content_zone_id": ""
         }
     ]
