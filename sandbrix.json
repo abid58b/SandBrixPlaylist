@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "697cb9162b3d6d6866de1dc8",
-            "name": "SL POLICE SC VS SERENDIB SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "Super 8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-06",
-            "start_date_time": "2026-02-06T10:15:00.000Z",
-            "team_a": {
-                "id": "692039bd3bc500419986c42b",
-                "name": "SL POLICE SC",
-                "short_name": "SL POLICE SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719610019-469747418.webp"
-            },
-            "team_b": {
-                "id": "6920651eb99189116c55de1b",
-                "name": "SERENDIB SC",
-                "short_name": "SERENDIB SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730688710-50527613.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769781522215-611951783.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "697cb9412bb1b1220f60c0c0",
             "name": "Java Lane SC VS NEW STAR SC",
             "category_name": "Football",
@@ -90,35 +61,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "68fb84e3ca36150098b0411d",
-            "name": "Canterbury Kings VS Northern District",
-            "category_name": "Cricket",
-            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
-            "tour_name": "The Ford Trophy 2025-26",
-            "match_no": "21",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-06",
-            "start_date_time": "2026-02-06T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "team_b": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761314017558-48941764.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "68fb854fefea2a9ef3a8c3e7",
             "name": "Central Stags VS Auckland Aces",
             "category_name": "Cricket",
@@ -143,6 +85,35 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
             },
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761314126093-884733711.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68fb84e3ca36150098b0411d",
+            "name": "Canterbury Kings VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "68fa38c6efea2a9ef3a8c3d6",
+            "tour_name": "The Ford Trophy 2025-26",
+            "match_no": "21",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-06",
+            "start_date_time": "2026-02-06T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+            },
+            "team_b": {
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1761314017558-48941764.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
@@ -235,35 +206,6 @@
             "content_zone_id": ""
         },
         {
-            "id": "68ea5fd21074534e14287974",
-            "name": "Victoria VS Queensland Bulls",
-            "category_name": "Cricket",
-            "tour_id": "68df662addd581736c30e938",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "20 | Day - 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-06",
-            "start_date_time": "2026-02-06T23:00:00.000Z",
-            "team_a": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
-            },
-            "team_b": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190415699-338819160.webp",
-            "venue": "Melbourne Cricket Ground ,Melbourne",
-            "score_match_id": 92896,
-            "content_zone_id": ""
-        },
-        {
             "id": "68ea5f7ee250a97a24c4654e",
             "name": "New South Wales VS South Australia",
             "category_name": "Cricket",
@@ -290,6 +232,35 @@
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190328074-638511944.webp",
             "venue": "Sydney Cricket Ground ,Sydney",
             "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "68ea5fd21074534e14287974",
+            "name": "Victoria VS Queensland Bulls",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "20 | Day - 3",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-06",
+            "start_date_time": "2026-02-06T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+            },
+            "team_b": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190415699-338819160.webp",
+            "venue": "Melbourne Cricket Ground ,Melbourne",
+            "score_match_id": 92896,
             "content_zone_id": ""
         }
     ]
