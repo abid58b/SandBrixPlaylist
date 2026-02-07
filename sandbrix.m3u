@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="697cb8e62b3d6d6866de1dc7" tvg-name="SOLID SC VS PELICANS SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769781475055-324142116.webp" group-title="Live",SOLID SC VS PELICANS SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
+
