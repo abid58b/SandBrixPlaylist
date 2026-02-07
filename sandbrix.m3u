@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68ea60111074534e14287975" tvg-name="Western Australia VS Tasmania Tiger" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190478553-711724715.webp" group-title="Live",Western Australia VS Tasmania Tiger
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/UZpruZriGECxluNu344082700222427.m3u8
-
 #EXTINF:-1 tvg-id="697cb79f9a29dbaba9b19a90" tvg-name="ST. MARY’S SC VS SAUNDERS SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769781141725-630145812.webp" group-title="Live",ST. MARY’S SC VS SAUNDERS SC
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
