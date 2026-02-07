@@ -204,6 +204,35 @@
             "venue": "Sydney Cricket Ground ,Sydney",
             "score_match_id": 0,
             "content_zone_id": ""
+        },
+        {
+            "id": "68ea5fd21074534e14287974",
+            "name": "Victoria VS Queensland Bulls",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "20 | Day - 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-07",
+            "start_date_time": "2026-02-07T23:00:00.000Z",
+            "team_a": {
+                "id": "67143f5cbb231d3543008caf",
+                "name": "Victoria",
+                "short_name": "Victoria",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+            },
+            "team_b": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190415699-338819160.webp",
+            "venue": "Melbourne Cricket Ground ,Melbourne",
+            "score_match_id": 92896,
+            "content_zone_id": ""
         }
     ]
 }
