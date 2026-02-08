@@ -1,22 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6919cdd5561e093c03fc2d3e" tvg-name="Canterbury Magicians VS Northern District Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763298770632-216463732.webp" group-title="Live",Canterbury Magicians VS Northern District Women
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
-#EXTINF:-1 tvg-id="6919ce410398da67b4a9ab5c" tvg-name="Wellington Blaze VS Otago Sparks" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763298878151-448500848.webp" group-title="Live",Wellington Blaze VS Otago Sparks
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/vC19gZapiqRVC2ry35467275934172.m3u8
-
-#EXTINF:-1 tvg-id="6919ce0b0398da67b4a9ab5b" tvg-name="Auckland Hearts VS Central Hinds" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763298819431-315495439.webp" group-title="Live",Auckland Hearts VS Central Hinds
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
-
-#EXTINF:-1 tvg-id="68ea5f7ee250a97a24c4654e" tvg-name="New South Wales VS South Australia" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190328074-638511944.webp" group-title="Live",New South Wales VS South Australia
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/LCmsdPiOjcibVCkJ6159263953462.m3u8
-
-#EXTINF:-1 tvg-id="68ea5fd21074534e14287974" tvg-name="Victoria VS Queensland Bulls" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190415699-338819160.webp" group-title="Live",Victoria VS Queensland Bulls
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
-
