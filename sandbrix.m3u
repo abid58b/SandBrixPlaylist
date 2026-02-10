@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68dd2c73edb009dd729d7e78" tvg-name="Western Australia VS Tasmania Tigers" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1759325296663-55074968.webp" group-title="Live",Western Australia VS Tasmania Tigers
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/tWMD8u0Wok0o03BT192917485703.m3u8
+
