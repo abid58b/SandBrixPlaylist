@@ -1,14 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68fb8c9d9875ed29f29a4871" tvg-name="Central Stags VS Otago Volts" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761315995210-636325438.webp" group-title="Live",Central Stags VS Otago Volts
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
-
-#EXTINF:-1 tvg-id="68fb8c669875ed29f29a4870" tvg-name="Canterbury Kings VS Wellington Firebirds" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761315941180-459981932.webp" group-title="Live",Canterbury Kings VS Wellington Firebirds
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/vC19gZapiqRVC2ry35467275934172.m3u8
-
-#EXTINF:-1 tvg-id="68fb8becca36150098b0411e" tvg-name="Northern District VS Auckland Aces" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1761315818881-72837487.webp" group-title="Live",Northern District VS Auckland Aces
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
