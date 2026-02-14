@@ -1,14 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="6919ce7a561e093c03fc2d3f" tvg-name="Northern District Women VS Central Hinds" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763298934989-818204250.webp" group-title="Live",Northern District Women VS Central Hinds
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
-#EXTINF:-1 tvg-id="6919cec20398da67b4a9ab5d" tvg-name="Otago Sparks VS Canterbury Magicians" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763299005371-976468500.webp" group-title="Live",Otago Sparks VS Canterbury Magicians
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
-
-#EXTINF:-1 tvg-id="6919cf0821b7758c8136563e" tvg-name="Wellington Blaze VS Auckland Hearts" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763299077395-433165602.webp" group-title="Live",Wellington Blaze VS Auckland Hearts
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/vC19gZapiqRVC2ry35467275934172.m3u8
-
