@@ -3,90 +3,61 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "6919cf7e21b7758c8136563f",
-            "name": "Otago Sparks VS Canterbury Magicians",
+            "id": "68ea60ccdf96a5f1e9e01afa",
+            "name": "Queensland Bulls VS South Australia",
             "category_name": "Cricket",
-            "tour_id": "6915eb3a0d68b43a40ecf54f",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "29",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "22 | Day - 1",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-02-14",
-            "start_date_time": "2026-02-14T21:00:00.000Z",
+            "start_date": "2026-02-15",
+            "start_date_time": "2026-02-15T23:00:00.000Z",
             "team_a": {
-                "id": "6915ea070d68b43a40ecf54e",
-                "name": "Otago Sparks",
-                "short_name": "Otago Sparks",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043845017-210552058.webp"
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
             },
             "team_b": {
-                "id": "6915e9a60398da67b4a9ab46",
-                "name": "Canterbury Magicians",
-                "short_name": "Canterbury Magicians",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043748995-694996528.webp"
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681872997-926769284.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763299195312-453999220.webp",
-            "venue": "University Oval ,Dunedin",
-            "score_match_id": 93680,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190661655-788191759.webp",
+            "venue": "The Gabba ,Brisbane",
+            "score_match_id": 92898,
             "content_zone_id": ""
         },
         {
-            "id": "6919cfb021b7758c81365640",
-            "name": "Wellington Blaze VS Auckland Hearts",
+            "id": "68e911e06cf04d63ab03836e",
+            "name": "Victoria Women VS Western Australia Women",
             "category_name": "Cricket",
-            "tour_id": "6915eb3a0d68b43a40ecf54f",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "30",
+            "tour_id": "68d148c6050ee9aed47ce9da",
+            "tour_name": "Women's National Cricket League 2025",
+            "match_no": "31",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-02-14",
-            "start_date_time": "2026-02-14T21:00:00.000Z",
+            "start_date": "2026-02-15",
+            "start_date_time": "2026-02-15T23:00:00.000Z",
             "team_a": {
-                "id": "6915e9cd561e093c03fc2d29",
-                "name": "Wellington Blaze",
-                "short_name": "Wellington Blaze",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043785176-936690363.webp"
+                "id": "675d0e1172efbbdadc2ef8f8",
+                "name": "Victoria Women",
+                "short_name": "Victoria Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545851330-325191706.webp"
             },
             "team_b": {
-                "id": "6915e9f121b7758c81365623",
-                "name": "Auckland Hearts",
-                "short_name": "Auckland Hearts",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043824208-780152100.webp"
+                "id": "675d0df2feaf9c45f3b7d0f0",
+                "name": "Western Australia Women",
+                "short_name": "Western Australia Women",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1758545837995-123656163.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763299245994-159713971.webp",
-            "venue": "Cello Basin Reserve ,Wellington",
-            "score_match_id": 93681,
-            "content_zone_id": ""
-        },
-        {
-            "id": "6919cf460398da67b4a9ab5e",
-            "name": "Northern District Women VS Central Hinds",
-            "category_name": "Cricket",
-            "tour_id": "6915eb3a0d68b43a40ecf54f",
-            "tour_name": "Hallyburton Johnstone Shield 2025-26",
-            "match_no": "28",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-14",
-            "start_date_time": "2026-02-14T21:00:00.000Z",
-            "team_a": {
-                "id": "6915e9df0398da67b4a9ab47",
-                "name": "Northern District Women",
-                "short_name": "Northern District Women",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043805908-362563965.webp"
-            },
-            "team_b": {
-                "id": "6915e9b821b7758c81365622",
-                "name": "Central Hinds",
-                "short_name": "Central Hinds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763043766706-796324034.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763299138493-617270550.webp",
-            "venue": "Bay Oval ,Mount Maunganui",
-            "score_match_id": 93679,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760104925007-819199233.webp",
+            "venue": "Junction Oval ,Melbourne",
+            "score_match_id": 92878,
             "content_zone_id": ""
         }
     ]
