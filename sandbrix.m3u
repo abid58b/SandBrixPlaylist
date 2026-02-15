@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68ea60ccdf96a5f1e9e01afa" tvg-name="Queensland Bulls VS South Australia" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190661655-788191759.webp" group-title="Live",Queensland Bulls VS South Australia
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
+#EXTINF:-1 tvg-id="68e911e06cf04d63ab03836e" tvg-name="Victoria Women VS Western Australia Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760104925007-819199233.webp" group-title="Live",Victoria Women VS Western Australia Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/FwcU2lQ88xFLyr8T9260525781937492.m3u8
+
