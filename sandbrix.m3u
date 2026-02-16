@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6992c72b8a8a36b5e81bf830" tvg-name="Central Stags VS Canterbury Kings" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1771226921351-376959833.webp" group-title="Live",Central Stags VS Canterbury Kings
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
+
+#EXTINF:-1 tvg-id="6992c75b8a8a36b5e81bf831" tvg-name="Otago Volts VS Auckland Aces" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1771226969446-624107337.webp" group-title="Live",Otago Volts VS Auckland Aces
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/5OYcbvYQVL2KvzWy9260563182320269.m3u8
+
