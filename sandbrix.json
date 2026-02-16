@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "697cba564fe54ae4a3a896b7",
-            "name": "SERENDIB SC VS SOLID SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "Super 8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-16",
-            "start_date_time": "2026-02-16T14:00:00.000Z",
-            "team_a": {
-                "id": "6920651eb99189116c55de1b",
-                "name": "SERENDIB SC",
-                "short_name": "SERENDIB SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730688710-50527613.webp"
-            },
-            "team_b": {
-                "id": "69206576d0b0fdbb565da4a4",
-                "name": "SOLID SC",
-                "short_name": "SOLID SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730804043-529676221.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769781841403-822428399.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "6992c6f5b8a37402ac69e926",
             "name": "Wellington Firebirds VS Northern District",
             "category_name": "Cricket",
