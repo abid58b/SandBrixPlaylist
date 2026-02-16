@@ -8,3 +8,7 @@ https://ams.sandbrix.live/LiveApp/streams/104seWs0nIo9L37Q1730362561783.m3u8
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/5OYcbvYQVL2KvzWy9260563182320269.m3u8
 
+#EXTINF:-1 tvg-id="68ea60ccdf96a5f1e9e01afa" tvg-name="Queensland Bulls VS South Australia" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190661655-788191759.webp" group-title="Live",Queensland Bulls VS South Australia
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
+
