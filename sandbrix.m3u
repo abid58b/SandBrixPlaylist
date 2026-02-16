@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68ea619ddf96a5f1e9e01afb" tvg-name="Tasmania Tiger VS New South Wales" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190872436-168236985.webp" group-title="Live",Tasmania Tiger VS New South Wales
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
-
 #EXTINF:-1 tvg-id="697cb9d62b3d6d6866de1dc9" tvg-name="NEW STAR SC VS ST. MARY’S SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769781713689-91228827.webp" group-title="Live",NEW STAR SC VS ST. MARY’S SC
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
