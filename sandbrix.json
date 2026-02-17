@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "697cba7e9a29dbaba9b19a91",
-            "name": "SL POLICE SC VS PELICANS SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "Super 8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-17",
-            "start_date_time": "2026-02-17T10:00:00.000Z",
-            "team_a": {
-                "id": "692039bd3bc500419986c42b",
-                "name": "SL POLICE SC",
-                "short_name": "SL POLICE SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719610019-469747418.webp"
-            },
-            "team_b": {
-                "id": "69203998d0b0fdbb565da497",
-                "name": "PELICANS SC",
-                "short_name": "PELICANS",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719560123-135588507.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1769781916280-343095526.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "697cbb1a4fe54ae4a3a896b8",
             "name": "SAUNDERS SC VS Java Lane SC",
             "category_name": "Football",
