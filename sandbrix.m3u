@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6992c6f5b8a37402ac69e926" tvg-name="Wellington Firebirds VS Northern District" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1771226863458-708271703.webp" group-title="Live",Wellington Firebirds VS Northern District
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/FwcU2lQ88xFLyr8T9260525781937492.m3u8
+
