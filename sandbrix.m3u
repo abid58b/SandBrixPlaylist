@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="68ea61491074534e14287976" tvg-name="Western Australia VS Victoria" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190790709-502777133.webp" group-title="Live",Western Australia VS Victoria
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Cq2zHWf2OUOxPFV4163019881626.m3u8
+
+#EXTINF:-1 tvg-id="68ea619ddf96a5f1e9e01afb" tvg-name="Tasmania Tiger VS New South Wales" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190872436-168236985.webp" group-title="Live",Tasmania Tiger VS New South Wales
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
