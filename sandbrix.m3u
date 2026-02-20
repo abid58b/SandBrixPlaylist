@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
 
+#EXTINF:-1 tvg-id="68dd2cb9a65e8d0132fc36e6" tvg-name="Queensland Bulls VS South Australia" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1759325364359-755248180.webp" group-title="Live",Queensland Bulls VS South Australia
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
+
