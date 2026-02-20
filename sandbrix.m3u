@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="6992c97c8a8a36b5e81bf832" tvg-name="Northern District Women VS Wellington Blaze" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1771227513426-402855345.webp" group-title="Live",Northern District Women VS Wellington Blaze
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+
