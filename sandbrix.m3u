@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/5OYcbvYQVL2KvzWy9260563182320269.m3u8
 
+#EXTINF:-1 tvg-id="68e9132990c526d559654c46" tvg-name="ACT Meteors Women VS South Australia Women" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760105254694-648001669.webp" group-title="Live",ACT Meteors Women VS South Australia Women
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/Cq2zHWf2OUOxPFV4163019881626.m3u8
+
