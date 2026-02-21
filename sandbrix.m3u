@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/tWMD8u0Wok0o03BT192917485703.m3u8
 
+#EXTINF:-1 tvg-id="697cbb6a4fe54ae4a3a896b9" tvg-name="NEW STAR SC VS SL POLICE SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769782149716-743511056.webp" group-title="Live",NEW STAR SC VS SL POLICE SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
+
