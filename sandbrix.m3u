@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="697cbd9f4fe54ae4a3a896ba" tvg-name="ST. MARY’S SC VS PELICANS SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1769782685416-491649007.webp" group-title="Live",ST. MARY’S SC VS PELICANS SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
+
