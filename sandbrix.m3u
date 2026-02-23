@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/CnqXNydEKEunPd6x3815480106805843.m3u8
 
+#EXTINF:-1 tvg-id="699c57cf535d96e5318405e7" tvg-name="Garuda Gentlemen VS Nusantara Gentlemen" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1771853769731-763189272.webp" group-title="Live",Garuda Gentlemen VS Nusantara Gentlemen
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/CLGV6r6LQonNjY769260544516566519.m3u8
+
