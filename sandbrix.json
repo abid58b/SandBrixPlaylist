@@ -30,6 +30,35 @@
             "venue": "Phillip Oval ,Canberra",
             "score_match_id": 92882,
             "content_zone_id": ""
+        },
+        {
+            "id": "699c57cf535d96e5318405e7",
+            "name": "Garuda Gentlemen VS Nusantara Gentlemen",
+            "category_name": "Cricket",
+            "tour_id": "699c50de0f119f2db108f125",
+            "tour_name": "Bali Blast Men Championship T10 2026",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-23",
+            "start_date_time": "2026-02-23T23:30:00.000Z",
+            "team_a": {
+                "id": "699c4d340f119f2db108f120",
+                "name": "Garuda Gentlemen",
+                "short_name": "Garuda Gentlemen",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851058192-591811590.webp"
+            },
+            "team_b": {
+                "id": "699c4d4d535d96e5318405e5",
+                "name": "Nusantara Gentlemen",
+                "short_name": "Nusantara Gentlemen",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851083143-450097681.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1771853769731-763189272.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
         }
     ]
 }
