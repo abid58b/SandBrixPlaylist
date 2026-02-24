@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="699c57f30f119f2db108f126" tvg-name="Gianyar VS Rebel CC Jakarta" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1771853829640-495631158.webp" group-title="Live",Gianyar VS Rebel CC Jakarta
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/CLGV6r6LQonNjY769260544516566519.m3u8
-
 #EXTINF:-1 tvg-id="699c58360f119f2db108f127" tvg-name="Garuda Gentlemen VS Gianyar" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1771853876826-475156689.webp" group-title="Live",Garuda Gentlemen VS Gianyar
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/CLGV6r6LQonNjY769260544516566519.m3u8

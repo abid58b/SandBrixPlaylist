@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "699c57f30f119f2db108f126",
-            "name": "Gianyar VS Rebel CC Jakarta",
-            "category_name": "Cricket",
-            "tour_id": "699c50de0f119f2db108f125",
-            "tour_name": "Bali Blast Men Championship T10 2026",
-            "match_no": "2",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-24",
-            "start_date_time": "2026-02-24T01:30:00.000Z",
-            "team_a": {
-                "id": "699c4d84535d96e5318405e6",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851127878-734666008.webp"
-            },
-            "team_b": {
-                "id": "699c4daa0f119f2db108f121",
-                "name": "Rebel CC Jakarta",
-                "short_name": "Rebel CC Jakarta",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851176739-907612415.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1771853829640-495631158.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "699c58360f119f2db108f127",
             "name": "Garuda Gentlemen VS Gianyar",
             "category_name": "Cricket",
