@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="699c58e80f119f2db108f12a" tvg-name="Nusantara Gentlemen VS Gianyar" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1771854051454-983635179.webp" group-title="Live",Nusantara Gentlemen VS Gianyar
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/CLGV6r6LQonNjY769260544516566519.m3u8
+
