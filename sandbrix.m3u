@@ -4,3 +4,7 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/CLGV6r6LQonNjY769260544516566519.m3u8
 
+#EXTINF:-1 tvg-id="699e9f23535d96e531840610" tvg-name="Rebel CC Jakarta VS Gianyar" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1772079120042-786603552.webp" group-title="Live",Rebel CC Jakarta VS Gianyar
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/CLGV6r6LQonNjY769260544516566519.m3u8
+
