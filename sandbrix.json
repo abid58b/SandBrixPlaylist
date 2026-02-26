@@ -3,64 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "699c5a5b535d96e5318405ec",
-            "name": "Nusantara Gentlemen VS Gianyar",
-            "category_name": "Cricket",
-            "tour_id": "699c50de0f119f2db108f125",
-            "tour_name": "Bali Blast Men Championship T10 2026",
-            "match_no": "12",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-26",
-            "start_date_time": "2026-02-26T01:30:00.000Z",
-            "team_a": {
-                "id": "699c4d4d535d96e5318405e5",
-                "name": "Nusantara Gentlemen",
-                "short_name": "Nusantara Gentlemen",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851083143-450097681.webp"
-            },
-            "team_b": {
-                "id": "699c4d84535d96e5318405e6",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851127878-734666008.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1771854424552-416838332.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "699e9f23535d96e531840610",
-            "name": "Rebel CC Jakarta VS Gianyar",
-            "category_name": "Cricket",
-            "tour_id": "699c50de0f119f2db108f125",
-            "tour_name": "Bali Blast Men Championship T10 2026",
-            "match_no": "3rd Place",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-26",
-            "start_date_time": "2026-02-26T04:30:00.000Z",
-            "team_a": {
-                "id": "699c4daa0f119f2db108f121",
-                "name": "Rebel CC Jakarta",
-                "short_name": "Rebel CC Jakarta",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851176739-907612415.webp"
-            },
-            "team_b": {
-                "id": "699c4d84535d96e5318405e6",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851127878-734666008.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1772079120042-786603552.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "699e9f52535d96e531840611",
             "name": "Garuda Gentlemen VS Nusantara Gentlemen",
             "category_name": "Cricket",
