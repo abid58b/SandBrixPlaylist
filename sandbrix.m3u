@@ -12,3 +12,7 @@ https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
 
+#EXTINF:-1 tvg-id="699c5d300f119f2db108f12f" tvg-name="Garuda Girls VS Kartini 11" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1771855149731-506326076.webp" group-title="Live",Garuda Girls VS Kartini 11
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/CLGV6r6LQonNjY769260544516566519.m3u8
+
