@@ -1,5 +1,122 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": []
+    "data": [
+        {
+            "id": "69230a7fd0b0fdbb565da4b8",
+            "name": "Central Stags VS Wellington Firebirds",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 14 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-27",
+            "start_date_time": "2026-02-27T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+            },
+            "team_b": {
+                "id": "68fa37fbefea2a9ef3a8c3d4",
+                "name": "Wellington Firebirds",
+                "short_name": "Wellington Firebirds",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763904126003-209176535.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "692309efb99189116c55de2c",
+            "name": "Canterbury Kings VS Otago",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 15 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-27",
+            "start_date_time": "2026-02-27T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+            },
+            "team_b": {
+                "id": "6918840421b7758c81365639",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903981228-750944941.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "69230a3ed0b0fdbb565da4b7",
+            "name": "Auckland Aces VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 13 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-27",
+            "start_date_time": "2026-02-27T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+            },
+            "team_b": {
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763904059834-950718270.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "699c5d300f119f2db108f12f",
+            "name": "Garuda Girls VS Kartini 11",
+            "category_name": "Cricket",
+            "tour_id": "699c5c0e0f119f2db108f12e",
+            "tour_name": "Bali Blast Women Championship T10 2026",
+            "match_no": "1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-27",
+            "start_date_time": "2026-02-27T23:30:00.000Z",
+            "team_a": {
+                "id": "6720a17fbb231d3543008d54",
+                "name": "Garuda Girls",
+                "short_name": "Garuda Girls",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771854694248-76457332.webp"
+            },
+            "team_b": {
+                "id": "699c5b98535d96e5318405ed",
+                "name": "Kartini 11",
+                "short_name": "Kartini 11",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771854742283-498256682.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1771855149731-506326076.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        }
+    ]
 }
