@@ -1,18 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69230a7fd0b0fdbb565da4b8" tvg-name="Central Stags VS Wellington Firebirds" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763904126003-209176535.webp" group-title="Live",Central Stags VS Wellington Firebirds
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/vC19gZapiqRVC2ry35467275934172.m3u8
-
-#EXTINF:-1 tvg-id="692309efb99189116c55de2c" tvg-name="Canterbury Kings VS Otago" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763903981228-750944941.webp" group-title="Live",Canterbury Kings VS Otago
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
-#EXTINF:-1 tvg-id="69230a3ed0b0fdbb565da4b7" tvg-name="Auckland Aces VS Northern District" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763904059834-950718270.webp" group-title="Live",Auckland Aces VS Northern District
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
-
-#EXTINF:-1 tvg-id="699c5d300f119f2db108f12f" tvg-name="Garuda Girls VS Kartini 11" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1771855149731-506326076.webp" group-title="Live",Garuda Girls VS Kartini 11
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/CLGV6r6LQonNjY769260544516566519.m3u8
-
