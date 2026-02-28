@@ -3,64 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "699fef20535d96e531840622",
-            "name": "SERENDIB SC VS PELICANS SC",
-            "category_name": "Football",
-            "tour_id": "69203a173bc500419986c42c",
-            "tour_name": "Sri Lanka Football Champion League 2025",
-            "match_no": "Super 8",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-28",
-            "start_date_time": "2026-02-28T14:30:00.000Z",
-            "team_a": {
-                "id": "6920651eb99189116c55de1b",
-                "name": "SERENDIB SC",
-                "short_name": "SERENDIB SC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730688710-50527613.webp"
-            },
-            "team_b": {
-                "id": "69203998d0b0fdbb565da497",
-                "name": "PELICANS SC",
-                "short_name": "PELICANS",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719560123-135588507.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1772089118448-699280800.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "69230a3ed0b0fdbb565da4b7",
-            "name": "Auckland Aces VS Northern District",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 13 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-02-28",
-            "start_date_time": "2026-02-28T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
-            },
-            "team_b": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763904059834-950718270.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "692309efb99189116c55de2c",
             "name": "Canterbury Kings VS Otago",
             "category_name": "Cricket",
@@ -114,6 +56,35 @@
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
             },
             "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763904126003-209176535.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "69230a3ed0b0fdbb565da4b7",
+            "name": "Auckland Aces VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 13 | Day 1",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-02-28",
+            "start_date_time": "2026-02-28T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa385f4517c5f2602e1ca0",
+                "name": "Auckland Aces",
+                "short_name": "Auckland Aces",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
+            },
+            "team_b": {
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763904059834-950718270.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
