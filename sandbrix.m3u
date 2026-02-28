@@ -1,2 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="699feee9535d96e531840621" tvg-name="NEW STAR SC VS SAUNDERS SC" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1772089063398-587256616.webp" group-title="Live",NEW STAR SC VS SAUNDERS SC
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/0bw1rvDAMK5epsdx242767261111136.m3u8
+
