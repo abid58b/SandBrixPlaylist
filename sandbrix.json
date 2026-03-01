@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "699c5e980f119f2db108f132",
-            "name": "Garuda Girls VS Kartini 11",
-            "category_name": "Cricket",
-            "tour_id": "699c5c0e0f119f2db108f12e",
-            "tour_name": "Bali Blast Women Championship T10 2026",
-            "match_no": "7",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-01",
-            "start_date_time": "2026-03-01T01:30:00.000Z",
-            "team_a": {
-                "id": "6720a17fbb231d3543008d54",
-                "name": "Garuda Girls",
-                "short_name": "Garuda Girls",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771854694248-76457332.webp"
-            },
-            "team_b": {
-                "id": "699c5b98535d96e5318405ed",
-                "name": "Kartini 11",
-                "short_name": "Kartini 11",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771854742283-498256682.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1771855506940-717960469.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "699c5ed7535d96e5318405f0",
             "name": "Merpati Warrior VS Gianyar",
             "category_name": "Cricket",
