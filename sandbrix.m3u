@@ -12,3 +12,7 @@ https://ams.sandbrix.live/LiveApp/streams/vC19gZapiqRVC2ry35467275934172.m3u8
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/Tdo0THHkiI9mZZrh3815468908024524.m3u8
 
+#EXTINF:-1 tvg-id="699c66ab0f119f2db108f133" tvg-name="Garuda Girls VS Gianyar" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1771857576986-256832762.webp" group-title="Live",Garuda Girls VS Gianyar
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/CLGV6r6LQonNjY769260544516566519.m3u8
+
