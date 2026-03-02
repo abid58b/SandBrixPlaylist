@@ -3,117 +3,88 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "692309efb99189116c55de2c",
-            "name": "Canterbury Kings VS Otago",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 15 | Day 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-01",
-            "start_date_time": "2026-03-01T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "team_b": {
-                "id": "6918840421b7758c81365639",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903981228-750944941.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "69230a7fd0b0fdbb565da4b8",
-            "name": "Central Stags VS Wellington Firebirds",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 14 | Day 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-01",
-            "start_date_time": "2026-03-01T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
-            },
-            "team_b": {
-                "id": "68fa37fbefea2a9ef3a8c3d4",
-                "name": "Wellington Firebirds",
-                "short_name": "Wellington Firebirds",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228793293-575672278.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763904126003-209176535.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "69230a3ed0b0fdbb565da4b7",
-            "name": "Auckland Aces VS Northern District",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 13 | Day 3",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-01",
-            "start_date_time": "2026-03-01T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa385f4517c5f2602e1ca0",
-                "name": "Auckland Aces",
-                "short_name": "Auckland Aces",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228894550-368523987.webp"
-            },
-            "team_b": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763904059834-950718270.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
-            "id": "699c66ab0f119f2db108f133",
-            "name": "Garuda Girls VS Gianyar",
+            "id": "699c66f00f119f2db108f134",
+            "name": "Kartini 11 VS Merpati Warrior",
             "category_name": "Cricket",
             "tour_id": "699c5c0e0f119f2db108f12e",
             "tour_name": "Bali Blast Women Championship T10 2026",
-            "match_no": "11",
+            "match_no": "12",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-03-01",
-            "start_date_time": "2026-03-01T23:30:00.000Z",
+            "start_date": "2026-03-02",
+            "start_date_time": "2026-03-02T01:30:00.000Z",
             "team_a": {
-                "id": "6720a17fbb231d3543008d54",
-                "name": "Garuda Girls",
-                "short_name": "Garuda Girls",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771854694248-76457332.webp"
+                "id": "699c5b98535d96e5318405ed",
+                "name": "Kartini 11",
+                "short_name": "Kartini 11",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771854742283-498256682.webp"
             },
             "team_b": {
-                "id": "699c4d84535d96e5318405e6",
-                "name": "Gianyar",
-                "short_name": "Gianyar",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851127878-734666008.webp"
+                "id": "699c5bc90f119f2db108f12d",
+                "name": "Merpati Warrior",
+                "short_name": "Merpati Warrior",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771854791847-546144026.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1771857576986-256832762.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1771857645381-634677150.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "699ea6010f119f2db108f143",
+            "name": "TBA_ VS TBA_",
+            "category_name": "Cricket",
+            "tour_id": "699c5c0e0f119f2db108f12e",
+            "tour_name": "Bali Blast Women Championship T10 2026",
+            "match_no": "3rd Place",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-02",
+            "start_date_time": "2026-03-02T04:30:00.000Z",
+            "team_a": {
+                "id": "699c4dcb0f119f2db108f122",
+                "name": "TBA_",
+                "short_name": "TBA_",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851209378-928917018.webp"
+            },
+            "team_b": {
+                "id": "699c4dcb0f119f2db108f122",
+                "name": "TBA_",
+                "short_name": "TBA_",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851209378-928917018.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1772004863293-324057590.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
+            "id": "699ea626535d96e531840612",
+            "name": "TBA_ VS TBA_",
+            "category_name": "Cricket",
+            "tour_id": "699c5c0e0f119f2db108f12e",
+            "tour_name": "Bali Blast Women Championship T10 2026",
+            "match_no": "Final",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-02",
+            "start_date_time": "2026-03-02T06:30:00.000Z",
+            "team_a": {
+                "id": "699c4dcb0f119f2db108f122",
+                "name": "TBA_",
+                "short_name": "TBA_",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851209378-928917018.webp"
+            },
+            "team_b": {
+                "id": "699c4dcb0f119f2db108f122",
+                "name": "TBA_",
+                "short_name": "TBA_",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851209378-928917018.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1772004900549-489406753.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
