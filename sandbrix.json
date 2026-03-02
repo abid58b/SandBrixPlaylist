@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "692309efb99189116c55de2c",
-            "name": "Canterbury Kings VS Otago",
-            "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 15 | Day 4",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-02",
-            "start_date_time": "2026-03-02T21:00:00.000Z",
-            "team_a": {
-                "id": "68fa3811ca36150098b04114",
-                "name": "Canterbury Kings",
-                "short_name": "Canterbury Kings",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
-            },
-            "team_b": {
-                "id": "6918840421b7758c81365639",
-                "name": "Otago",
-                "short_name": "Otago",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903981228-750944941.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "69230a7fd0b0fdbb565da4b8",
             "name": "Central Stags VS Wellington Firebirds",
             "category_name": "Cricket",
@@ -61,6 +32,35 @@
             "content_zone_id": ""
         },
         {
+            "id": "692309efb99189116c55de2c",
+            "name": "Canterbury Kings VS Otago",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 15 | Day 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-02",
+            "start_date_time": "2026-03-02T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa3811ca36150098b04114",
+                "name": "Canterbury Kings",
+                "short_name": "Canterbury Kings",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228815491-953456131.webp"
+            },
+            "team_b": {
+                "id": "6918840421b7758c81365639",
+                "name": "Otago",
+                "short_name": "Otago",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763214337733-49647301.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763903981228-750944941.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
+        },
+        {
             "id": "699ea6010f119f2db108f143",
             "name": "Garuda Girls VS Gianyar",
             "category_name": "Cricket",
@@ -84,7 +84,7 @@
                 "short_name": "Gianyar",
                 "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771851127878-734666008.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1772004863293-324057590.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1772437285787-101383811.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
