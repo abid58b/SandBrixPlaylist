@@ -1,35 +1,5 @@
 {
     "code": "STREAM_VALIDATED",
     "message": "Stream record is fetched",
-    "data": [
-        {
-            "id": "699ea626535d96e531840612",
-            "name": "Kartini 11 VS Merpati Warrior",
-            "category_name": "Cricket",
-            "tour_id": "699c5c0e0f119f2db108f12e",
-            "tour_name": "Bali Blast Women Championship T10 2026",
-            "match_no": "Final",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-03",
-            "start_date_time": "2026-03-03T01:30:00.000Z",
-            "team_a": {
-                "id": "699c5b98535d96e5318405ed",
-                "name": "Kartini 11",
-                "short_name": "Kartini 11",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771854742283-498256682.webp"
-            },
-            "team_b": {
-                "id": "699c5bc90f119f2db108f12d",
-                "name": "Merpati Warrior",
-                "short_name": "Merpati Warrior",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771854791847-546144026.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1772437306126-715208554.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        }
-    ]
+    "data": []
 }
