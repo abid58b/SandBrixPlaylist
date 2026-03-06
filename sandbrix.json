@@ -3,35 +3,6 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "699c11d7220739bb596dd84c",
-            "name": "CCC VS NCC",
-            "category_name": "Cricket",
-            "tour_id": "699c02fb220739bb596dd84b",
-            "tour_name": "Sri Lanka Cricket Major Club 3 Day League 2025-26",
-            "match_no": "Match 1 | Day 1",
-            "match_status": 1,
-            "is_stream": 1,
-            "stream_caption": "Upcoming",
-            "start_date": "2026-03-06",
-            "start_date_time": "2026-03-06T03:30:00.000Z",
-            "team_a": {
-                "id": "685d63a35a129f15390554c3",
-                "name": "CCC",
-                "short_name": "CCC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771684157402-590057576.webp"
-            },
-            "team_b": {
-                "id": "685e2d8e4821fa2d76866930",
-                "name": "NCC",
-                "short_name": "NCC",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771684091023-284900438.webp"
-            },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1771845196011-238711405.webp",
-            "venue": "",
-            "score_match_id": 0,
-            "content_zone_id": ""
-        },
-        {
             "id": "69230b3cb99189116c55de2d",
             "name": "Central Stags VS Northern District",
             "category_name": "Cricket",
