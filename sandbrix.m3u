@@ -1,14 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="69230b3cb99189116c55de2d" tvg-name="Central Stags VS Northern District" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1763904314336-78361201.webp" group-title="Live",Central Stags VS Northern District
+#EXTINF:-1 tvg-id="68ea6286d52b688f1f6b5a47" tvg-name="South Australia VS New South Wales" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760191106940-957313857.webp" group-title="Live",South Australia VS New South Wales
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/7dccJHxLLRGA67n33815435280269656.m3u8
-
-#EXTINF:-1 tvg-id="68ea61f6e250a97a24c4654f" tvg-name="Tasmania Tiger VS Victoria" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760190961054-985531151.webp" group-title="Live",Tasmania Tiger VS Victoria
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/CnqXNydEKEunPd6x3815480106805843.m3u8
-
-#EXTINF:-1 tvg-id="68ea6241e250a97a24c46550" tvg-name="Queensland Bulls VS Western Australia" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1760191038504-269580706.webp" group-title="Live",Queensland Bulls VS Western Australia
-#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
-https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
+https://ams.sandbrix.live/LiveApp/streams/Cq2zHWf2OUOxPFV4163019881626.m3u8
 

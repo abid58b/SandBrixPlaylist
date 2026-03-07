@@ -3,90 +3,119 @@
     "message": "Stream record is fetched",
     "data": [
         {
-            "id": "69230b3cb99189116c55de2d",
-            "name": "Central Stags VS Northern District",
+            "id": "68ea6286d52b688f1f6b5a47",
+            "name": "South Australia VS New South Wales",
             "category_name": "Cricket",
-            "tour_id": "6918846821b7758c8136563a",
-            "tour_name": "Plunket Shield 2025",
-            "match_no": "Match - 17 | Day 1",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "27 | Day - 3",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-03-06",
-            "start_date_time": "2026-03-06T21:00:00.000Z",
+            "start_date": "2026-03-07",
+            "start_date_time": "2026-03-07T00:00:00.000Z",
             "team_a": {
-                "id": "68fa37e64517c5f2602e1c9f",
-                "name": "Central Stags",
-                "short_name": "Central Stags",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+                "id": "671448fd166de3cf1b69e62a",
+                "name": "South Australia",
+                "short_name": "South Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681872997-926769284.webp"
             },
             "team_b": {
-                "id": "68fa3873efea2a9ef3a8c3d5",
-                "name": "Northern District",
-                "short_name": "Northern District",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+                "id": "67143f77bb231d3543008cb0",
+                "name": "New South Wales",
+                "short_name": "New South Wales",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681849705-822802914.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763904314336-78361201.webp",
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760191106940-957313857.webp",
+            "venue": "Karen Rolton Oval ,Adelaide",
+            "score_match_id": 92912,
+            "content_zone_id": ""
+        },
+        {
+            "id": "699c11d7220739bb596dd84c",
+            "name": "CCC VS NCC",
+            "category_name": "Cricket",
+            "tour_id": "699c02fb220739bb596dd84b",
+            "tour_name": "Sri Lanka Cricket Major Club 3 Day League 2025-26",
+            "match_no": "Match 1 | Day 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-07",
+            "start_date_time": "2026-03-07T03:30:00.000Z",
+            "team_a": {
+                "id": "685d63a35a129f15390554c3",
+                "name": "CCC",
+                "short_name": "CCC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771684157402-590057576.webp"
+            },
+            "team_b": {
+                "id": "685e2d8e4821fa2d76866930",
+                "name": "NCC",
+                "short_name": "NCC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1771684091023-284900438.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1771845196011-238711405.webp",
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
         },
         {
-            "id": "68ea61f6e250a97a24c4654f",
-            "name": "Tasmania Tiger VS Victoria",
-            "category_name": "Cricket",
-            "tour_id": "68df662addd581736c30e938",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "25 | Day - 3",
+            "id": "699ff1a2535d96e531840624",
+            "name": "SERENDIB SC VS NEW STAR SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "Super 8",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-03-06",
-            "start_date_time": "2026-03-06T23:00:00.000Z",
+            "start_date": "2026-03-07",
+            "start_date_time": "2026-03-07T10:00:00.000Z",
             "team_a": {
-                "id": "67144bcd8a9eea3b43513351",
-                "name": "Tasmania Tiger",
-                "short_name": "Tasmania Tiger",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681915111-851524084.webp"
+                "id": "6920651eb99189116c55de1b",
+                "name": "SERENDIB SC",
+                "short_name": "SERENDIB SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730688710-50527613.webp"
             },
             "team_b": {
-                "id": "67143f5cbb231d3543008caf",
-                "name": "Victoria",
-                "short_name": "Victoria",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681835464-788785177.webp"
+                "id": "692065ce3bc500419986c432",
+                "name": "NEW STAR SC",
+                "short_name": "NEW STAR SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763730878587-577134984.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760190961054-985531151.webp",
-            "venue": "Bellerive Oval ,Hobart",
-            "score_match_id": 92910,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1772089758312-622406269.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         },
         {
-            "id": "68ea6241e250a97a24c46550",
-            "name": "Queensland Bulls VS Western Australia",
-            "category_name": "Cricket",
-            "tour_id": "68df662addd581736c30e938",
-            "tour_name": "Sheffield Shield 2025-26",
-            "match_no": "26 | Day - 3",
+            "id": "699ff229535d96e531840625",
+            "name": "Java Lane SC VS SL POLICE SC",
+            "category_name": "Football",
+            "tour_id": "69203a173bc500419986c42c",
+            "tour_name": "Sri Lanka Football Champion League 2025",
+            "match_no": "Super 8",
             "match_status": 1,
             "is_stream": 1,
             "stream_caption": "Upcoming",
-            "start_date": "2026-03-06",
-            "start_date_time": "2026-03-06T23:30:00.000Z",
+            "start_date": "2026-03-07",
+            "start_date_time": "2026-03-07T14:30:00.000Z",
             "team_a": {
-                "id": "6714491b166de3cf1b69e62b",
-                "name": "Queensland Bulls",
-                "short_name": "Queensland",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
+                "id": "69257a7867e62543527af29d",
+                "name": "Java Lane SC",
+                "short_name": "Java Lane SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1764063852751-985151343.webp"
             },
             "team_b": {
-                "id": "67144bed8a9eea3b43513352",
-                "name": "Western Australia",
-                "short_name": "Western Australia",
-                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681947890-528959156.webp"
+                "id": "692039bd3bc500419986c42b",
+                "name": "SL POLICE SC",
+                "short_name": "SL POLICE SC",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1763719610019-469747418.webp"
             },
-            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760191038504-269580706.webp",
-            "venue": "TBA ,TBA",
-            "score_match_id": 92911,
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1772089894735-366361487.webp",
+            "venue": "",
+            "score_match_id": 0,
             "content_zone_id": ""
         }
     ]
