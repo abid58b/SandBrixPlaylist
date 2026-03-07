@@ -117,6 +117,35 @@
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
+        },
+        {
+            "id": "68ea6241e250a97a24c46550",
+            "name": "Queensland Bulls VS Western Australia",
+            "category_name": "Cricket",
+            "tour_id": "68df662addd581736c30e938",
+            "tour_name": "Sheffield Shield 2025-26",
+            "match_no": "26 | Day - 4",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-07",
+            "start_date_time": "2026-03-07T23:30:00.000Z",
+            "team_a": {
+                "id": "6714491b166de3cf1b69e62b",
+                "name": "Queensland Bulls",
+                "short_name": "Queensland",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681892832-70592148.webp"
+            },
+            "team_b": {
+                "id": "67144bed8a9eea3b43513352",
+                "name": "Western Australia",
+                "short_name": "Western Australia",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1757681947890-528959156.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1760191038504-269580706.webp",
+            "venue": "TBA ,TBA",
+            "score_match_id": 92911,
+            "content_zone_id": ""
         }
     ]
 }
