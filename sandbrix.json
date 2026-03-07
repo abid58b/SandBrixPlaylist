@@ -117,6 +117,35 @@
             "venue": "",
             "score_match_id": 0,
             "content_zone_id": ""
+        },
+        {
+            "id": "69230b3cb99189116c55de2d",
+            "name": "Central Stags VS Northern District",
+            "category_name": "Cricket",
+            "tour_id": "6918846821b7758c8136563a",
+            "tour_name": "Plunket Shield 2025",
+            "match_no": "Match - 17 | Day 2",
+            "match_status": 1,
+            "is_stream": 1,
+            "stream_caption": "Upcoming",
+            "start_date": "2026-03-07",
+            "start_date_time": "2026-03-07T21:00:00.000Z",
+            "team_a": {
+                "id": "68fa37e64517c5f2602e1c9f",
+                "name": "Central Stags",
+                "short_name": "Central Stags",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228772369-835995926.webp"
+            },
+            "team_b": {
+                "id": "68fa3873efea2a9ef3a8c3d5",
+                "name": "Northern District",
+                "short_name": "Northern District",
+                "logo": "https://sandbrix.b-cdn.net/styxsports-public/teams/1761228914649-820171572.webp"
+            },
+            "logo": "https://sandbrix.b-cdn.net/styxsports-public/matches/1763904314336-78361201.webp",
+            "venue": "",
+            "score_match_id": 0,
+            "content_zone_id": ""
         }
     ]
 }
